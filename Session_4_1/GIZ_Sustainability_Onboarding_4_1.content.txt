@@ -1,0 +1,318 @@
+# GIZ Sustainability Onboarding 4_1 – Inequalities and democracy
+# Build:  python3 Build/build_course.py 4_1
+# Old version: Archive/Session_4_1/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 4_1 – Inequalities and democracy
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to session four one. In Milica's municipality, a solar park is planned, and many of her students' parents work in the mine. Who should have a say? If you can, turn the sound on.
+
+**Subtopic of Session 4 · about 30 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, Ravnica Technical School and the municipality's solar park are a constructed example, not a real case. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 4_1, Inequalities and democracy. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = A Solar Park Next to the Mine
+NARRATION-0 = Milica's school is in a coal-mining municipality. Many parents of her students work in the mine. Now the municipality plans a solar park. Which new programmes should the school offer, and who should decide?
+IMAGE-ALT = Nikola Tesla thermal power plant in Obrenovac
+IMAGE-PATH = img/1280px-Urovci__Termoelektrana_Nikola_Tesla__12.JPG
+IMAGE-CAPTION = Urovci, Termoelektrana Nikola Tesla – Mickey Mystique – CC BY-SA 3.0 – via Wikimedia Commons
+CASE-TEXT = """
+**Constructed example:** Milica's school is in a coal-mining municipality. Many parents of her students work in the mine. The municipality plans a solar park, and the school has to decide which new programmes to offer. In the real world, the **Kolubara basin** supplies about 75 % of the lignite used by the state power company EPS.
+"""
+NARRATION-1 = This raises a question about fairness and about who gets to speak.
+GUIDING-QUESTION = How are inequality and democratic participation linked to sustainable development?
+NARRATION-2 = First, an estimate. What is happening to lignite output in the Kolubara basin?
+PREDICT-QUESTION = The Kolubara basin's output in 2023 and 2024, compared with its earlier 28–30 million tonnes per year, was …
+PREDICT-CORRECT = down, at 22 million tonnes
+PREDICT-WRONG-1 = stable, at 30 million tonnes
+PREDICT-WRONG-2 = up, at 40 million tonnes
+PREDICT-HINT = Think about enrolment in mining programmes. The direction is not up.
+PREDICT-FEEDBACK = Output fell from 28–30 million tonnes per year to 22 million tonnes in 2023 and 2024.
+NARRATION-3 = For workers, families and VET schools in the region, this is a just-transition question.
+OUTCOME = Output is falling. For workers, families and VET schools in the region, this is a **just-transition question**: who is involved in deciding what comes next?
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Today's Path
+NARRATION-0 = Here is today's path.
+MODULE-1 = Justice
+MODULE-2 = Climate justice
+MODULE-3 = Footprint and handprint
+MODULE-4 = Participation
+MODULE-5 = Serbia's numbers
+MILESTONE = Decide who is at the table
+NARRATION-1 = After this session, you can do three things.
+KNOW-1 = How inequality and participation are linked to sustainable development
+CAN-1 = Explain this link and illustrate it with simple examples
+VALUE-1 = Giving those affected a voice
+KNOW-2 = What a just transition requires
+CAN-2 = Name concrete ways that people, schools and regions can take part
+VALUE-2 = Acting, and not only observing
+NARRATION-2 = A quick look at the path.
+ORDER-QUESTION = Which step comes directly before Participation?
+ORDER-CORRECT = Footprint and handprint
+ORDER-WRONG-1 = Justice
+ORDER-WRONG-2 = Serbia's numbers
+ORDER-HINT = Follow the arrows from left to right.
+ORDER-FEEDBACK = Thinking in handprints turns people from passive observers into people who can act. Participation follows from that.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = Enough, for Everyone, Forever
+NARRATION-0 = Sustainability is not only about nature. It is also about fairness. A short phrase captures both ideas of justice: Enough, for everyone, forever. Everyone is about the people of today. Forever is about the people who come after us.
+IMAGE-ALT = School strike for climate in Tartu, Estonia, 15 March 2019
+IMAGE-PATH = img/1280px-School_strike_for_climate_in_Tartu__Estonia__on_March_15__2019_04.jpg
+IMAGE-CAPTION = School strike for climate in Tartu, Estonia, 2019 – Ehitaja – CC BY-SA 4.0 – via Wikimedia Commons
+INTRO-TEXT = """
+**"Enough, for everyone, forever."**
+
+- **Intragenerational justice:** responsibility for the people alive today. All humans should be able to enjoy a decent life that at least satisfies their fundamental needs. This is the "everyone".
+- **Intergenerational justice:** responsibility for future generations. This is the "forever".
+
+**Resource use is unequal:** people in the Global North and in industrialised countries use far more resources than people in developing countries. In terms of ecological footprint, humanity lives as if it had 1.71 Earths.
+
+**The SDGs address these gaps:** SDG 10 (reduced inequalities), SDG 5 (gender equality), SDG 16 (peace, justice and strong institutions).
+"""
+NARRATION-1 = One word carries a lot of weight here.
+KEY-MESSAGE = "Everyone" stands for people today. "Forever" stands for future generations. "Enough" is about the level of resources.
+NARRATION-2 = Check the phrase.
+ACTIVATION-QUESTION = Complete the phrase: "Enough, for ____, forever." (one word)
+ACTIVATION-ANSWER = everyone
+ACTIVATION-HINT = It stands for intragenerational justice.
+ACTIVATION-FEEDBACK = "Enough, for everyone, forever." Everyone stands for the people of today.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Kinds of Inequality
+NARRATION-0 = Watch this short video. Look for the kinds of inequality it names, and note which of them you could also see in your own region.
+WATCH-FOR-1 = the **kinds of inequality** the video names
+WATCH-FOR-2 = which of them you could also see in your own region
+VIDEO-ALT = Reduced inequalities: the United Nations explain SDG 10
+VIDEO-URL = https://www.youtube.com/watch?v=09pF3-qrpoQ
+VIDEO-CAPTION = United Nations – The Sustainable Development Goals Explained: Reduced Inequalities (2:03)
+VIDEO-SUMMARY = The video (United Nations, 2:03) explains SDG 10, Reduced inequalities. As an optional addition, watch TED-Ed: [Is inequality inevitable? (6:50)](https://www.youtube.com/watch?v=rEnf_CFoyv0).
+NARRATION-1 = Which word stands for people living today?
+Q1-QUESTION = In the phrase "Enough, for everyone, forever", which word stands for intragenerational justice?
+Q1-WRONG-1 = Enough
+Q1-CORRECT = Everyone
+Q1-WRONG-2 = Forever
+Q1-HINT = Intragenerational justice is about people who are alive today.
+Q1-FEEDBACK = "Everyone" stands for the people of today. "Forever" stands for future generations, and "enough" is about the level of resources.
+NARRATION-2 = And one goal number.
+Q2-QUESTION = Which SDG is about reduced inequalities? (number)
+Q2-ANSWER = 10
+Q2-HINT = It is in the title of the video.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Who Is Most Affected?
+NARRATION-0 = Not everyone is affected by climate change in the same way. The idea of climate justice is simple: the people who suffer most often contributed least. The IPCC points out that extreme weather events hit people where they are particularly vulnerable, for example in the Global South. One group is especially affected: women.
+GUIDING-QUESTION = Why are women more affected by extreme weather events?
+NARRATION-1 = First, access to resources.
+ASPECT-1 = **Limited access to resources**
+NARRATION-2 = Second, decision-making power.
+ASPECT-2 = **Limited decision-making power**
+NARRATION-3 = Third, mobility.
+ASPECT-3 = **Limited mobility**
+NARRATION-4 = And the fourth point is the general one. Climate justice is about who causes and who suffers.
+ASPECT-4 = **Climate justice:** the people who suffer most from climate change often contributed least to it
+NARRATION-5 = This leads to a question about your own work.
+WHY-IT-MATTERS = Who gets a say in decisions that affect people? How much say do students have in sustainability decisions at the schools you work with?
+NARRATION-6 = Which of these points were already familiar to you?
+
+
+[Concept_Explanation_Template_2.md]
+SLIDE-TITLE = From Passive to Active
+NARRATION-0 = So far, we have looked at the negative side. Stefan suggests turning the question around. Transformative processes can be started through democracy and politics, participation, social engagement, work decisions and everyday decisions.
+CONCEPT-A = Footprint
+CONCEPT-B = Handprint
+CRITERION-1 = Describes
+A-1 = the **negative** effects of our actions
+B-1 = the **positive** effects of our actions
+CRITERION-2 = Character
+A-2 = more passive
+B-2 = more active
+CRITERION-3 = Focus
+A-3 = what is taken or emitted
+B-3 = what we actively improve for people and the planet
+CRITERION-4 = Started through
+A-4 = (measured, not started)
+B-4 = democracy and politics, participation, social engagement, work decisions, everyday decisions
+NARRATION-1 = Here are two examples.
+EXAMPLE-A = The resources used by the school in one year
+EXAMPLE-B = Opening a dialogue with the municipality about new programmes
+NARRATION-2 = There is also a third term you may meet.
+MISCONCEPTION = "Handprint and footprint are the same thing, just named differently." They are opposites. And when education and empowerment are combined, the result is sometimes called the **"brainprint"**.
+NARRATION-3 = Now you sort them.
+STATEMENT-1 = The negative effects of our actions
+STATEMENT-2 = The positive effects of our actions
+STATEMENT-3 = The use of resources
+STATEMENT-4 = A dialogue that gives students a voice
+CLASSIFY-HINT = One word is about what is taken, the other about what is given.
+CLASSIFY-FEEDBACK = The footprint is about negative effects (more passive). The handprint is about positive effects (more active). Thinking in handprints turns learners from passive observers into people who can act.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = Why Participation?
+NARRATION-0 = Sustainability is normative, so it is also contested, and different groups weigh goals differently. That is why the transition relies on constant negotiation and societal learning. Without participation, decisions lose their legitimacy. Participation is also older than you might think.
+IMAGE-ALT = School strike for climate in Tartu, Estonia, 15 March 2019
+IMAGE-PATH = img/1280px-School_strike_for_climate_in_Tartu__Estonia__on_March_15__2019_04.jpg
+IMAGE-CAPTION = School strike for climate in Tartu, Estonia, 2019 – Ehitaja – CC BY-SA 4.0
+INTRO-TEXT = """
+Responsibility lies with **society, science, policy makers and industries**, not with one group alone.
+
+- **Stockholm, 1972:** NGOs took part, a first in UN history.
+- **Agenda 21 (Rio, 1992):** addressed governments, business, NGOs and citizens at local, national and global level.
+- **Whole-institution approach (UNEVOC):** leadership, teachers, learners and administration **jointly** develop a vision and a plan.
+- **Young people:** in Tartu, Estonia, students took part in a school strike for climate. Participation is not only a question for ministries and companies.
+"""
+NARRATION-1 = Here is the key message.
+KEY-MESSAGE = Sustainability is normative and contested. That is why it needs constant negotiation and societal learning, not one technical solution.
+NARRATION-2 = Check this date.
+ACTIVATION-QUESTION = At which UN conference did NGOs take part for the first time? Give the year. (4 digits)
+ACTIVATION-ANSWER = 1972
+ACTIVATION-HINT = It was the Stockholm conference.
+ACTIVATION-FEEDBACK = Stockholm, 1972. It was a first in UN history.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Shaping a Just Transition
+NARRATION-0 = A green transition also affects jobs. Milica watches this video once more. Listen for who shapes a just transition and what it puts first. The EU Green Deal includes a Just Transition Mechanism to support the regions and workers most affected.
+WATCH-FOR-1 = **who shapes** a just transition
+WATCH-FOR-2 = **what it puts first**
+VIDEO-ALT = A just transition that puts people and planet first
+VIDEO-URL = https://www.youtube.com/watch?v=kGUKwm04L2k
+VIDEO-CAPTION = ILO – … a just transition that puts people and planet first (1:36)
+VIDEO-SUMMARY = The ILO says: a just transition puts people and planet first, and workers, employers and governments shape it together, through social dialogue. The EU Green Deal includes a Just Transition Mechanism to support the regions and workers most affected.
+NARRATION-1 = What is the EU mechanism for?
+Q1-QUESTION = What is the EU Just Transition Mechanism for?
+Q1-WRONG-1 = Financing new carbon taxes
+Q1-CORRECT = Supporting the regions and workers most affected by the green transition
+Q1-WRONG-2 = Punishing companies that use too much energy
+Q1-HINT = Think about who the mechanism is meant to help.
+Q1-FEEDBACK = The Just Transition Mechanism supports the regions and workers most affected. It is a support tool, not a tax or a punishment.
+NARRATION-2 = One word to type. Together, workers, employers and governments do this.
+Q2-QUESTION = Workers, employers and governments shape a just transition through social … (one word)
+Q2-ANSWER = dialogue
+Q2-HINT = It means talking together.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Who Sits at the Table?
+NARRATION-0 = Back to Milica's municipality. The numbers show that inequality is a real question in Serbia. Coal regions face a specific question. Now you decide who sits at the table.
+IMAGE-ALT = Nikola Tesla thermal power plant in Obrenovac
+IMAGE-PATH = img/1280px-Urovci__Termoelektrana_Nikola_Tesla__12.JPG
+IMAGE-CAPTION = Urovci, Termoelektrana Nikola Tesla – Mickey Mystique – CC BY-SA 3.0
+CASE-TEXT = """
+**Constructed example:** the municipality plans a solar park. Many parents work in the mine. Milica's school has to decide which new programmes to offer. The real numbers for Serbia:
+"""
+DATA-LABEL-1 = At risk of poverty (2023)
+DATA-VALUE-1 = 19.9 % (down 0.3 points from 2022); at risk of poverty or social exclusion: 27.2 %
+DATA-LABEL-2 = Gini index (World Bank series)
+DATA-VALUE-2 = 32.8 in 2023, compared with 29.6 for the EU in 2022: income disparities are larger than the EU average
+DATA-LABEL-3 = Kolubara output
+DATA-VALUE-3 = from 28–30 million tonnes per year to 22 million tonnes (2023, 2024)
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, decide who should be involved. Write your answer, then compare.
+QUESTION-1 = Who should be involved in deciding which new programmes the school offers?
+MODEL-ANSWER-1 = """
+**All local stakeholders:** students, parents, teachers, companies, trade unions and the municipality. "The ministry alone" or "the principal alone" would be wrong: the whole-institution approach says that stakeholders develop the vision **jointly**, and the ILO adds that workers, employers and governments shape a just transition together.
+"""
+NARRATION-Q-1 = Next, look at your own institution.
+QUESTION-2 = Think of one sustainability decision in your institution. Who was involved, and who was not? What would change if the missing group took part?
+MODEL-ANSWER-2 = """
+A **ministry officer** might note that new occupational profiles are developed with school developers and companies, but trade unions and students are only informed later. A **school developer** might note that green measures are decided by leadership and the ministry, while teachers and students are not consulted. A **principal** might note that the school council decides on a solar installation, but canteen staff and the community are not part of the dialogue. In all three cases, the missing group usually brings practical knowledge that improves the decision.
+"""
+NARRATION-Q-2 = And finally, one concrete action.
+QUESTION-3 = Name one **handprint** action you could take in your role to support a just transition in your region.
+MODEL-ANSWER-3 = """
+A **ministry officer** might steer funding so that green training places are offered in coal regions, not only in cities. A **school developer** might help schools in those regions redesign programmes together with local companies and trade unions. A **principal** might open a dialogue with the municipality and local employers about which new programmes make sense. All three create positive effects for people in the region, instead of only reducing negative effects.
+"""
+
+
+[Summary_Recap_Template_2.md]
+SLIDE-TITLE = Exit Ticket
+NARRATION-0 = Three short questions, one per objective. You can repeat them as often as you like.
+OBJECTIVE-1 = Inequality
+Q1-QUESTION = What is the Gini index for Serbia in 2023, and what does it show?
+Q1-CORRECT = 32.8: income disparities are larger than the EU average
+Q1-WRONG-1 = 29.6: income disparities are smaller than the EU average
+Q1-WRONG-2 = 19.9: income disparities are equal to the EU average
+Q1-HINT = 29.6 is the EU figure for 2022; 19.9 % is the at-risk-of-poverty rate.
+NARRATION-1 = Next, participation.
+OBJECTIVE-2 = Participation
+Q2-QUESTION = Which groups did Agenda 21 (Rio, 1992) address?
+Q2-CORRECT-1 = Governments and business
+Q2-WRONG-1 = Future generations only
+Q2-CORRECT-2 = NGOs and citizens
+Q2-HINT = The document addressed concrete groups of people at local, national and global level.
+NARRATION-2 = And one number.
+OBJECTIVE-3 = Serbia's numbers
+Q3-QUESTION = What was the at-risk-of-poverty rate in Serbia in 2023? (number, in %)
+Q3-ANSWER = 19.9
+Q3-HINT = 27.2 % is the broader measure of poverty or social exclusion; 32.8 is the Gini index.
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Milica Takes to the Municipality
+NARRATION-0 = Milica writes to the mayor. Here is what she brings with her.
+NARRATION-1 = First, fairness has two sides.
+TAKEAWAY-1 = Justice means "everyone" (people today) and "forever" (future generations).
+NARRATION-2 = Second, those who suffer most often contributed least.
+TAKEAWAY-2 = **Climate justice:** those who suffer most often contributed least, and women are especially affected.
+NARRATION-3 = Third, act, do not only measure.
+TAKEAWAY-3 = From footprint to **handprint**: from measuring harm to acting.
+NARRATION-4 = Fourth, participation gives decisions legitimacy.
+TAKEAWAY-4 = Without **participation**, decisions lose their legitimacy. A just transition is shaped through social dialogue.
+REMEMBER = Who is included, who is left out, and why does it matter?
+NARRATION-5 = One last question.
+RECAP-QUESTION = What is the main reason the sustainability transition needs constant negotiation and societal learning?
+RECAP-WRONG-1 = Because it is a purely technical task
+RECAP-WRONG-2 = Because the EU requires it
+RECAP-CORRECT = Because sustainability is normative and contested
+RECAP-HINT = Different groups weigh goals differently.
+RECAP-FEEDBACK = Sustainability says how society should develop, and different groups weigh goals differently. That is why the transition relies on negotiation and learning, not on one technical solution.
+NARRATION-6 = Fairness has another everyday side too, and Milica can see it from her window: the school canteen. Its contract is up for renewal. That is session four two.
+OUTLOOK = Session 4_2, *Food, health, and well-being*. The school canteen contract is up for renewal, and Milica has to choose three criteria.
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and her municipality is a constructed example.
+SOURCES = """
+- Hilf, J. (2024): *Introduction to the Sustainability Approach*. GIZ training, Day 1 – adapted
+- Hilf, J. (2024): *SDGs and Sustainable Economies*. GIZ training, Day 2 – adapted
+- Hilf, J. (2025): *Models of Sustainability …*. GIZ workshop – adapted
+- OVGU/GIZ (2026): *Introduction to Sustainability – interactive micro-course* (internal German draft) – adapted
+- Michelsen, G. et al. (2016); Leal Filho, W. et al. (2021): *Handling climate change education at universities*. *Environmental Sciences Europe* 33, 109 – via Hilf – summarised
+- IPCC (2023): *Climate Change 2023: Synthesis Report* – summarised
+- United Nations: *The 17 Goals* – https://sdgs.un.org/goals – referenced
+- UNESCO-UNEVOC (2017): *Greening TVET: A practical guide for institutions* – CC BY-SA 3.0 IGO – adapted
+- Beta Briefing (2024): *At-risk-of-poverty rate in Serbia slightly down from 2022* – https://betabriefing.com/news/politics/28905-at-risk-of-poverty-rate-in-serbia-slightly-down-from-2022 – summarised
+- TheGlobalEconomy.com: *Serbia – Gini inequality index* (World Bank data) – https://www.theglobaleconomy.com/Serbia/gini_inequality_index/ – summarised
+- Eurostat: *Living conditions in candidate countries* – https://ec.europa.eu/eurostat/statistics-explained/index.php/Living_conditions_in_candidate_countries_and_potential_candidates – summarised
+- CEE Bankwatch Network: *The energy sector in Serbia* – https://bankwatch.org/beyond-coal/the-energy-sector-in-serbia – summarised
+- United Nations – *The Sustainable Development Goals Explained: Reduced Inequalities* (2:03) – https://www.youtube.com/watch?v=09pF3-qrpoQ – embedded
+- ILO – *… a just transition that puts people and planet first* (1:36) – https://www.youtube.com/watch?v=kGUKwm04L2k – embedded
+- TED-Ed – *Is inequality inevitable?* (6:50) – https://www.youtube.com/watch?v=rEnf_CFoyv0 – linked (optional)
+- Ehitaja – *School strike for climate in Tartu, 15 March 2019* – CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:School_strike_for_climate_in_Tartu,_Estonia,_on_March_15,_2019_04.jpg – unchanged
+- Mickey Mystique – *Urovci, Termoelektrana Nikola Tesla* – CC BY-SA 3.0 – https://commons.wikimedia.org/wiki/File:Urovci,_Termoelektrana_Nikola_Tesla,_12.JPG – unchanged
+- Case: Milica Stojanović, Ravnica Technical School and the solar park are a constructed example – created for this course
+- [CHECK: Juliana / GIZ – number of jobs in the Kolubara / Kostolac mines]
+"""

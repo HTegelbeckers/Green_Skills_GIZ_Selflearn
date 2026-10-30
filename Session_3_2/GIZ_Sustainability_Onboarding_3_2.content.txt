@@ -1,0 +1,307 @@
+# GIZ Sustainability Onboarding 3_2 – Planetary boundaries
+# Build:  python3 Build/build_course.py 3_2
+# Old version: Archive/Session_3_2/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 3_2 – Planetary boundaries
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to session three two. Milica's agriculture teacher has room for one more lesson. Which of the planet's nine limits should it be about? If you can, turn the sound on.
+
+**Subtopic of Session 3 · about 30 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, Stefan Ilić and Ravnica Technical School are fictional. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 3_2, Planetary boundaries. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = The Chimneys Across the Valley
+NARRATION-0 = On a clear day, you can see the chimneys of a large power plant from far across the plain. Stefan brings a surprising figure to Milica's meeting. In 2023, air pollution was linked to more than twenty-two thousand premature deaths in the Western Balkans.
+IMAGE-ALT = Nikola Tesla thermal power plant in Obrenovac, Serbia
+IMAGE-PATH = img/1280px-Urovci__Termoelektrana_Nikola_Tesla__12.JPG
+IMAGE-CAPTION = Urovci, Termoelektrana Nikola Tesla, 12 – Mickey Mystique – CC BY-SA 3.0 – via Wikimedia Commons
+CASE-TEXT = """
+Stefan Ilić brings a figure to Milica's meeting (both fictional): the European Environment Agency's 2025 report counts more than **22,000 premature deaths** in the Western Balkans in 2023 linked to air pollution. At the same time, Milica's agriculture teacher wants to add just one lesson on "the planet's limits". Where should it start?
+"""
+NARRATION-1 = There is one idea that can answer both.
+GUIDING-QUESTION = Which Earth-system processes must we keep within safe limits – and which ones matter for your schools?
+NARRATION-2 = Here is a first prediction. Scientists speak of boundaries. What does it mean to cross one?
+PREDICT-QUESTION = What does it mean when humanity crosses a planetary boundary?
+PREDICT-CORRECT = The risk of large, possibly irreversible changes rises.
+PREDICT-WRONG-1 = The Earth system collapses immediately.
+PREDICT-WRONG-2 = Nothing, because the boundary is only a suggestion.
+PREDICT-HINT = The scientists compare it to a speed limit, not a cliff edge.
+PREDICT-FEEDBACK = Crossing a boundary is a warning, not a guarantee of collapse. It is not an immediate event, and it is not optional.
+NARRATION-3 = Think of it like a speed limit. Driving ten kilometres per hour over it does not crash your car, but the risk of an accident grows with every extra kilometre.
+OUTCOME = Think of a speed limit: driving 10 km/h over it does not crash your car, but the risk grows with every extra kilometre. By the end of this session, you can help choose the lesson.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Today's Path
+NARRATION-0 = Here is today's path, from the idea to one lesson.
+MODULE-1 = The idea
+MODULE-2 = The nine boundaries
+MODULE-3 = Where we stand
+MODULE-4 = Footprint and handprint
+MODULE-5 = VET sectors
+MILESTONE = Choose the lesson
+NARRATION-1 = After this session, you can do three things.
+KNOW-1 = The idea of a "safe operating space"
+CAN-1 = Describe planetary boundaries and explain the safe operating space
+VALUE-1 = Taking risks seriously without alarmism
+KNOW-2 = The nine boundaries, and which ones are crossed
+CAN-2 = Name them, and discuss which matter for the sectors Serbian VET schools train for
+VALUE-2 = Linking global limits to everyday work
+NARRATION-2 = A quick look at the path.
+ORDER-QUESTION = Which step comes directly before the VET sectors?
+ORDER-CORRECT = Footprint and handprint
+ORDER-WRONG-1 = The idea
+ORDER-WRONG-2 = Where we stand
+ORDER-HINT = Follow the arrows from left to right.
+ORDER-FEEDBACK = Footprint and handprint link the global limits to what people and institutions do.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = The Safe Operating Space
+NARRATION-0 = In 2009, Johan Rockström and colleagues at the Stockholm Resilience Centre introduced a new idea. Instead of asking is the environment okay, they asked: which Earth-system processes must we keep within safe limits? Watch this short video.
+WATCH-FOR-1 = how the video explains the idea of a "safe operating space"
+WATCH-FOR-2 = why scientists speak in terms of *risk* instead of *certainty*
+VIDEO-ALT = Planetary Boundaries and Human Opportunities
+VIDEO-URL = https://www.youtube.com/watch?v=N3XxAwzDvj4
+VIDEO-CAPTION = Stockholm Resilience Centre – Planetary Boundaries and Human Opportunities (2:24)
+VIDEO-SUMMARY = In 2009, Johan Rockström and colleagues at the Stockholm Resilience Centre asked: which Earth-system processes must we keep within safe limits? For each of nine processes, the scientists define a boundary. It marks the edge of a "safe operating space" for humanity. As long as we stay inside it, the Earth system is expected to remain stable.
+NARRATION-1 = Who introduced the idea?
+Q1-QUESTION = Who introduced the planetary boundaries framework, and when?
+Q1-WRONG-1 = The UN, in 1992
+Q1-CORRECT = Johan Rockström and colleagues at the Stockholm Resilience Centre, in 2009
+Q1-WRONG-2 = The Brundtland Commission, in 1987
+Q1-HINT = It is newer than the Brundtland Report and comes from a Swedish research centre.
+Q1-FEEDBACK = The framework was first introduced in 2009 by Johan Rockström and colleagues at the Stockholm Resilience Centre.
+NARRATION-2 = How many are there?
+Q2-QUESTION = How many planetary boundaries are there? (number)
+Q2-ANSWER = 9
+Q2-HINT = You will see them all on the next page.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = The Nine Boundaries
+NARRATION-0 = Here they are. Stefan puts the list next to the diagram. Read through them. They are written in plain words.
+IMAGE-ALT = Diagram of the nine planetary boundaries
+IMAGE-PATH = img/1280px-Diagram_of_the_nine_Planetary_Boundaries.png
+IMAGE-CAPTION = Diagram of the nine Planetary Boundaries – Potsdam Institute for Climate Impact Research (PIK) – CC BY 4.0 – via Wikimedia Commons
+INTRO-TEXT = """
+<!-- data-type="none" -->
+| Boundary | In plain words |
+|---|---|
+| Climate change | Warming of the climate system |
+| Biosphere integrity | Loss of biodiversity and species |
+| Land-system change | For example deforestation |
+| Freshwater change / use | How much water we take and alter |
+| Biogeochemical flows | Nitrogen and phosphorus, for example from fertilisers |
+| Novel entities | Plastics, chemicals and other new substances |
+| Ocean acidification | The ocean becoming more acidic |
+| Atmospheric aerosol loading | Particles in the air |
+| Stratospheric ozone depletion | Thinning of the ozone layer |
+"""
+NARRATION-1 = Here is the key point.
+KEY-MESSAGE = Climate change is only one of nine boundaries. And the doughnut model from Session 2_2 uses these boundaries as its ecological ceiling.
+NARRATION-2 = Check one of the names.
+ACTIVATION-QUESTION = Which boundary covers plastics and chemicals? Complete: "novel …" (one word)
+ACTIVATION-ANSWER = entities
+ACTIVATION-HINT = It is in the sixth row of the table.
+ACTIVATION-FEEDBACK = Novel entities: plastics, chemicals and other new substances.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Where Do We Stand Today?
+NARRATION-0 = Scientists have checked all nine boundaries twice. Here is what they found.
+GUIDING-QUESTION = How many boundaries have we crossed?
+NARRATION-1 = In 2023, the first assessment of all nine found six crossed.
+ASPECT-1 = **2023** (Richardson et al., *Science Advances*): the first assessment of all nine found **six of nine** crossed
+NARRATION-2 = In 2025, the Planetary Health Check reports seven.
+ASPECT-2 = **2025** (Planetary Health Check): **seven of nine** are crossed, and all seven show worsening trends
+NARRATION-3 = Ocean acidification was newly crossed. Surface pH fell by about zero point one units since industrialisation.
+ASPECT-3 = **Newly crossed:** ocean acidification. Surface pH fell by about 0.1 units since industrialisation, a 30–40 % rise in acidity
+NARRATION-4 = Two boundaries remain in the safe zone.
+ASPECT-4 = **Still in the safe zone:** only ozone depletion and aerosol loading
+NARRATION-5 = If you have more time, there are two longer talks by Johan Rockström. The links are on the page.
+WHY-IT-MATTERS = All seven crossed boundaries are getting worse. If you have more time: [Rockström's TED talk (about 18 min)](https://www.youtube.com/watch?v=RgqtrlixYR4) explains the thinking behind the framework, and his [science update from 2026 (24:56)](https://www.youtube.com/watch?v=dhWXmq1XQa4) goes deeper.
+NARRATION-6 = Which of these facts did you already know?
+
+
+[Interactive_Exercise_Template_1.md]
+SLIDE-TITLE = Check: Where We Stand
+NARRATION-0 = Time for a short check. Every question explains its answer.
+Q1-QUESTION = In the 2025 Planetary Health Check, which boundary was *newly* crossed?
+Q1-WRONG-1 = Climate change
+Q1-CORRECT = Ocean acidification
+Q1-WRONG-2 = Land-system change
+Q1-HINT = The surface pH fell by about 0.1 units since industrialisation.
+Q1-FEEDBACK = Ocean acidification was the newly crossed boundary in 2025: surface pH fell by about 0.1 units since industrialisation, a 30–40 % rise in acidity.
+NARRATION-1 = Next, which are still safe?
+Q2-QUESTION = Which two boundaries were still in the safe zone in the 2025 assessment?
+Q2-CORRECT-1 = Stratospheric ozone depletion
+Q2-WRONG-1 = Climate change
+Q2-CORRECT-2 = Atmospheric aerosol loading
+Q2-WRONG-2 = Ocean acidification
+Q2-HINT = Seven of nine are crossed. The two "safe" ones are both about the atmosphere, but not warming.
+Q2-FEEDBACK = Only ozone depletion and aerosol loading remain in the safe zone. Ocean acidification was the newly crossed boundary, and climate change has been crossed for a long time.
+NARRATION-2 = And the number.
+Q3-QUESTION = How many boundaries were crossed according to the first full assessment in 2023? (number)
+Q3-ANSWER = 6
+Q3-HINT = It was one fewer than in 2025.
+Q3-FEEDBACK = Six of nine in 2023 (Richardson et al.), and seven of nine in 2025.
+
+
+[Concept_Explanation_Template_2.md]
+SLIDE-TITLE = Footprint and Handprint
+NARRATION-0 = Milica reads about two related ideas. One says how much we take. The other says how much we give back. She thinks: the second one is something a school can do.
+CONCEPT-A = Footprint
+CONCEPT-B = Handprint
+CRITERION-1 = Asks
+A-1 = how much nature do we use?
+B-1 = what do we actively do to help?
+CRITERION-2 = Side
+A-2 = what you take
+B-2 = what you give back
+CRITERION-3 = Figure or example
+A-3 = humanity uses resources as if we lived on **1.71 Earths**; the Global North uses far more than developing countries
+B-3 = an action by a person or institution
+CRITERION-4 = Critique or strength
+A-4 = can shift responsibility to individuals instead of companies and governments
+B-4 = can be started by an institution, here and now
+NARRATION-1 = Here is one example of each at a school.
+EXAMPLE-A = Measuring the energy and waste of the school
+EXAMPLE-B = Waste sorting and energy-saving routines in workshops, with students involved
+NARRATION-2 = There is one mistake to avoid.
+MISCONCEPTION = "The handprint is the same as the ecological footprint." The footprint measures how much you use; the handprint stands for positive impact.
+NARRATION-3 = Now you sort them.
+STATEMENT-1 = Humanity uses resources as if we lived on 1.71 Earths.
+STATEMENT-2 = A teacher workshop that links each subject to one boundary.
+STATEMENT-3 = It can shift responsibility to individuals.
+STATEMENT-4 = A new occupational profile that includes a sustainability module.
+CLASSIFY-HINT = A footprint says how much you take. A handprint says how much you give back.
+CLASSIFY-FEEDBACK = The footprint measures use, and has been criticised for shifting responsibility to individuals. The handprint is what you actively do. The best handprint is something an institution can actually start, not a slogan.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = One Lesson for the Agriculture Programme
+NARRATION-0 = Now you can help Milica's teacher. The same nine boundaries are not equally relevant everywhere. Here are the links for sectors that Serbian VET schools train for. Remember also the plant across the valley: locally, particles already harm health, even though the global aerosol boundary is not yet crossed.
+IMAGE-ALT = Nikola Tesla thermal power plant in Obrenovac, Serbia
+IMAGE-PATH = img/1280px-Urovci__Termoelektrana_Nikola_Tesla__12.JPG
+IMAGE-CAPTION = Urovci, Termoelektrana Nikola Tesla, 12 – Mickey Mystique – CC BY-SA 3.0 – via Wikimedia Commons
+CASE-TEXT = """
+<!-- data-type="none" -->
+| VET sector | Most relevant boundaries | Why |
+|---|---|---|
+| Energy / electrical | Climate change, aerosol loading | Fossil power plants emit CO₂ and particles |
+| Construction | Climate change, land-system change, novel entities | Cement and steel, land use, building chemicals |
+| Agriculture / food | Biogeochemical flows, freshwater, biosphere integrity, land-system change | Fertiliser, irrigation, habitat loss |
+| Metalworking / mechanical | Climate change, novel entities | Energy-intensive processes, lubricants, coolants |
+| Car mechanics / mobility | Climate change, aerosol loading, novel entities | Exhaust, fuels, waste oil, batteries |
+
+**In Serbia:** locally, aerosols already harm health, even though the *global* aerosol boundary is not yet crossed.
+"""
+DATA-LABEL-1 = Electricity from lignite (2024)
+DATA-VALUE-1 = about 60 %; Kolubara supplies about 75 % of EPS lignite
+DATA-LABEL-2 = Premature deaths linked to air pollution, Western Balkans (2023)
+DATA-VALUE-2 = more than 22,000 (EEA 2025)
+DATA-LABEL-3 = Premature mortality from PM2.5, Serbia
+DATA-VALUE-3 = 188.3 per 100,000 inhabitants over 30 (EEA data cited by RERI)
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, the teacher's question. Write your answer, then compare.
+QUESTION-1 = A school wants to add **one** "planetary boundaries" lesson to its agriculture programme. Which boundary would you choose, and why?
+MODEL-ANSWER-1 = """
+**Biogeochemical flows** fits best: the source links agriculture to fertiliser (nitrogen and phosphorus), irrigation, habitat loss and land use, which are things students meet in practice. Ozone depletion and ocean acidification are real global issues, but they have no direct connection to the daily work of an agriculture programme.
+"""
+NARRATION-Q-1 = Now one of your own programmes.
+QUESTION-2 = Describe one planetary boundary in your own words, and connect it to one VET programme your schools offer.
+MODEL-ANSWER-2 = """
+Name one boundary, explain it simply, and link it to concrete school work. **Biogeochemical flows** means how much nitrogen and phosphorus we add to the land, mainly through fertilisers, so a school training farmers can teach how fertiliser use works and how to reduce it. **Novel entities** means new substances such as plastics and chemicals, so a metalworking programme can discuss lubricants, coolants and waste oils. The point is the link between the global limit and a concrete programme.
+"""
+NARRATION-Q-2 = And finally, what could your institution actively do?
+QUESTION-3 = What is **one handprint idea** for your institution: a ministry, a school development office or a school?
+MODEL-ANSWER-3 = """
+A **ministry officer** might propose that new occupational profiles include a sustainability module. A **school developer** could design a one-day teacher workshop where each teacher links one boundary to their own subject. A **principal** might start with the school itself: waste sorting, energy-saving routines in workshops, or involving students in measuring the school's footprint. A handprint is "what you actively do", so the best answer is something the institution can actually start.
+"""
+
+
+[Summary_Recap_Template_2.md]
+SLIDE-TITLE = Exit Ticket
+NARRATION-0 = Three short questions, one per objective. You can repeat them as often as you like.
+OBJECTIVE-1 = The handprint
+Q1-QUESTION = What is the "handprint"?
+Q1-CORRECT = The positive impact: what a person or institution actively does to help
+Q1-WRONG-1 = The amount of nature a person uses
+Q1-WRONG-2 = A measure of ocean acidification
+Q1-HINT = A footprint says how much you take. A handprint says how much you give back.
+NARRATION-1 = Next, the sectors.
+OBJECTIVE-2 = The sectors
+Q2-QUESTION = Which sector links are the strongest ones in the table?
+Q2-CORRECT-1 = Agriculture / food: biogeochemical flows
+Q2-WRONG-1 = Agriculture / food: stratospheric ozone depletion
+Q2-CORRECT-2 = Energy / electrical: climate change
+Q2-HINT = Follow the "why" column: what does each sector emit or use most?
+NARRATION-2 = And one number.
+OBJECTIVE-3 = Where we stand
+Q3-QUESTION = How many planetary boundaries are crossed according to the Planetary Health Check 2025? (number)
+Q3-ANSWER = 7
+Q3-HINT = Only two remain in the safe zone.
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Milica Tells Her Teacher
+NARRATION-0 = Milica goes back to the agriculture teacher with her answer.
+NARRATION-1 = First, the idea.
+TAKEAWAY-1 = Nine boundaries mark a **safe operating space**. Crossing one raises risk; it does not mean instant collapse.
+NARRATION-2 = Second, the state.
+TAKEAWAY-2 = Seven of nine are crossed (2025). Only ozone depletion and aerosol loading are in the safe zone.
+NARRATION-3 = Third, global and local.
+TAKEAWAY-3 = Global limits and local effects are different things: particles already harm health locally.
+NARRATION-4 = Fourth, sectors.
+TAKEAWAY-4 = Each VET sector has its own links. For agriculture: fertiliser and biogeochemical flows.
+REMEMBER = A footprint says how much you take. A handprint says how much you give back.
+NARRATION-5 = One last question.
+RECAP-QUESTION = Why is the aerosol issue important in Serbia, even though the global aerosol boundary is not yet crossed?
+RECAP-WRONG-1 = It is not important: only the global boundary matters.
+RECAP-WRONG-2 = Because Serbia has crossed the global boundary.
+RECAP-CORRECT = Because locally, particles already harm health: global limits and local effects are two different things.
+RECAP-HINT = Remember the EEA figure for the Western Balkans.
+RECAP-FEEDBACK = Globally, aerosol loading is still in the safe zone, but locally particles already cause harm. That is why both levels matter.
+NARRATION-6 = Milica now knows the limits of the planet. But who pays for all this? Her staff room has a question about fairness. Topic four is about social issues.
+OUTLOOK = Session 4, *Social Issues*. The limits are clear. Now a question of fairness comes up in the staff room: who bears the costs of change?
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Stockholm Resilience Centre: *Planetary boundaries* – https://www.stockholmresilience.org/research/planetary-boundaries.html – linked
+- Stockholm Resilience Centre: *All planetary boundaries mapped out for the first time, six of nine crossed* (2023) – https://www.stockholmresilience.org/research/research-news/2023-09-13-all-planetary-boundaries-mapped-out-for-the-first-time-six-of-nine-crossed.html – summarised
+- Richardson, K. et al. (2023): *Earth beyond six of nine planetary boundaries*. *Science Advances* 9(37) – summarised
+- Stockholm Resilience Centre / PIK (2025): *Seven of nine planetary boundaries now breached* – https://www.stockholmresilience.org/news--events/general-news/2025-09-24-seven-of-nine-planetary-boundaries-now-breached – summarised
+- Hilf, J. (2024): *Introduction to the Sustainability Approach*. GIZ training, Day 1 – adapted (footprint, handprint)
+- Doughnut Economics Action Lab: *What is the Doughnut?* – https://doughnuteconomics.org/tools/what-is-the-doughnut – linked
+- CEE Bankwatch Network: *The energy sector in Serbia* – https://bankwatch.org/beyond-coal/the-energy-sector-in-serbia – summarised
+- Balkan Green Energy News: *RERI publishes analysis of Serbia's air quality in 2025* – https://balkangreenenergynews.com/reri-serbia-facing-at-least-7373-early-deaths-in-2030-from-air-pollution/ ; EEA (2025) air quality health risk assessment – summarised [CHECK: Juliana – confirm the figures in the EEA country annex]
+- Video: Stockholm Resilience Centre – *Planetary Boundaries and Human Opportunities* (2:24) – https://www.youtube.com/watch?v=N3XxAwzDvj4 – embedded
+- Video: TED – Johan Rockström: *Let the environment guide our development* (about 18 min) – https://www.youtube.com/watch?v=RgqtrlixYR4 – linked
+- Video: Stockholm Resilience Centre – *Planetary boundaries – a science update by professor Johan Rockström (2026)* (24:56) – https://www.youtube.com/watch?v=dhWXmq1XQa4 – linked
+- Image: Potsdam Institute for Climate Impact Research (PIK) – *Diagram of the nine Planetary Boundaries* – CC BY 4.0 – https://commons.wikimedia.org/wiki/File:Diagram_of_the_nine_Planetary_Boundaries.png – unchanged
+- Image: Mickey Mystique – *Urovci, Termoelektrana Nikola Tesla, 12* – CC BY-SA 3.0 – https://commons.wikimedia.org/wiki/File:Urovci,_Termoelektrana_Nikola_Tesla,_12.JPG – unchanged
+- Case: Milica Stojanović, Stefan Ilić, Ravnica Technical School and the agriculture teacher are fictional – created for this course
+- [CHECK: Juliana / GIZ – add one source on fertiliser use or water use in Serbian agriculture]
+- This session: GIZ Sustainability Onboarding, GIZ / OVGU – CC BY-SA 4.0 [CHECK: confirm with GIZ]
+"""

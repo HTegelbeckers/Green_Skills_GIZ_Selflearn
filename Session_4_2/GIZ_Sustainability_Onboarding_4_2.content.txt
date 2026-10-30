@@ -1,0 +1,308 @@
+# GIZ Sustainability Onboarding 4_2 – Food, health, and well-being
+# Build:  python3 Build/build_course.py 4_2
+# Old version: Archive/Session_4_2/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 4_2 – Food, health, and well-being
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to session four two. At Milica's school, the canteen contract is up for renewal. What looks like a small administrative task turns out to connect health, climate and fairness. If you can, turn the sound on.
+
+**Subtopic of Session 4 · about 30 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, Ravnica Technical School and its canteen are fictional. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 4_2, Food, health, and well-being. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = The Canteen Contract
+NARRATION-0 = The school canteen contract is up for renewal. The contract is on Milica's desk, and she is on the way to the market. Think about your last meal. Where did the food come from? Who grew it, processed it, transported it and sold it? And where did the leftovers go?
+IMAGE-ALT = Kalenić market in Belgrade, a traditional urban market selling local produce
+IMAGE-PATH = img/1280px-Kaleni__market_in_Belgrade_1.JPG
+IMAGE-CAPTION = Kalenić market in Belgrade 1 – Bebauautu – CC BY-SA 3.0 – via Wikimedia Commons
+CASE-TEXT = """
+The canteen contract at Ravnica Technical School is up for renewal (fictional). Milica thinks of markets like Belgrade's **Kalenić market**, a familiar form of local food supply. Think about your last meal: where did it come from? Who grew it, processed it, transported it and sold it, and where did the leftovers go?
+"""
+NARRATION-1 = Milica has one question before signing.
+GUIDING-QUESTION = How does one food decision connect health, climate and fairness?
+NARRATION-2 = What do you think? How many global goals does food touch?
+PREDICT-QUESTION = How many of the Sustainable Development Goals does food connect to, according to the Stockholm Resilience Centre's short video?
+PREDICT-CORRECT = All of them
+PREDICT-WRONG-1 = Only SDG 2, zero hunger
+PREDICT-WRONG-2 = None: food is separate from the SDGs
+PREDICT-HINT = Food touches hunger, health, consumption, water, climate, oceans and land.
+PREDICT-FEEDBACK = Food connects all the SDGs: it touches hunger, health, consumption, water, climate, oceans and land.
+NARRATION-3 = So the contract is not only about price. In this session, you will help Milica choose her criteria.
+OUTCOME = This is why food is a social issue, not only an ecological one. By the end of this session, you can help Milica choose three criteria for the contract.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Today's Path
+NARRATION-0 = Here is today's path, from the food system to Milica's contract.
+MODULE-1 = The food system
+MODULE-2 = Food and the SDGs
+MODULE-3 = Healthy diets
+MODULE-4 = Well-being
+MODULE-5 = Options by role
+MILESTONE = Three criteria
+NARRATION-1 = After this session, you can do three things.
+KNOW-1 = The stages of a food system and the main impact of each
+CAN-1 = Describe them, and explain how food connects to the SDGs, planetary boundaries and health
+VALUE-1 = Connecting health and sustainability
+KNOW-2 = Options for more sustainable and healthy consumption
+CAN-2 = Reflect on these options in your role
+VALUE-2 = Acting within your real responsibilities
+NARRATION-2 = A quick look at the path.
+ORDER-QUESTION = What comes directly after healthy diets on today's path?
+ORDER-CORRECT = Well-being
+ORDER-WRONG-1 = The food system
+ORDER-WRONG-2 = Options by role
+ORDER-HINT = Follow the arrows from left to right.
+ORDER-FEEDBACK = Food is only one part of well-being. Air and heat also matter.
+
+
+[Concept_Explanation_Template_3.md]
+SLIDE-TITLE = What Is a Food System?
+NARRATION-0 = A food system covers everything from production, meaning farming, to consumption and waste. Each stage has a different main impact. Milica follows the chain.
+STEP-1 = Production
+STEP-2 = Processing and transport
+STEP-3 = Retail and consumption
+STEP-4 = Waste
+NARRATION-1 = It begins on the farm.
+STEP-TEXT-1 = Farming uses **fertilisers and water**: nitrogen and phosphorus from fertilisers, plus freshwater use.
+NARRATION-2 = Then processing needs energy and transport creates emissions.
+STEP-TEXT-2 = Processing needs **energy**. Transport and trade create **emissions**.
+NARRATION-3 = Next comes retail, and our plate, where food meets our health.
+STEP-TEXT-3 = Retail and markets lead to consumption, where food meets our **health**.
+NARRATION-4 = And finally, waste.
+STEP-TEXT-4 = Waste ends up in **landfill**. This is why one decision, for example in a school canteen, touches several stages at once.
+ORDER-TITLE = Put the Chain in Order
+NARRATION-ORDER-0 = Now you put the chain in order. Drag each card into the right gap.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Food and the Goals
+NARRATION-0 = Food is not only an ecological topic. It is also a social one. Several Sustainable Development Goals are directly linked to food systems. Here is a very short video by the Stockholm Resilience Centre.
+WATCH-FOR-1 = how one topic, food, touches many different goals at the same time
+WATCH-FOR-2 = which goals you recognise from Session 2_3
+VIDEO-ALT = How food connects all the SDGs
+VIDEO-URL = https://www.youtube.com/watch?v=kvmoue_EsPo
+VIDEO-CAPTION = Stockholm Resilience Centre – How food connects all the SDGs (0:31)
+VIDEO-SUMMARY = **Directly linked to food systems:** SDG 2 (zero hunger), SDG 3 (good health and well-being), SDG 12 (responsible consumption and production), plus the ecological SDGs 6, 13, 14 and 15. Health (SDG 3) is also essential for education (SDG 4) and for reducing inequalities (SDG 10). If people are hungry or sick, learning and fairness become much harder.
+NARRATION-1 = Which goal is not on the list?
+Q1-QUESTION = Which of these SDGs is **not** listed here as directly linked to food systems?
+Q1-WRONG-1 = SDG 2, zero hunger
+Q1-CORRECT = SDG 7
+Q1-WRONG-2 = SDG 12, responsible consumption and production
+Q1-HINT = Open the text summary of the video if you need it.
+Q1-FEEDBACK = The list has SDGs 2, 3 and 12, plus the ecological SDGs 6, 13, 14 and 15. SDG 7 is not part of that list.
+NARRATION-2 = And one number.
+Q2-QUESTION = Which SDG is "zero hunger"? (number)
+Q2-ANSWER = 2
+Q2-HINT = It is the second goal.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Healthy for People and Planet
+NARRATION-0 = Can a diet be healthy for people and gentle on the planet at the same time? The EAT-Lancet Commission of 2019 says yes. It proposed a planetary health diet. Watch this two-minute video.
+WATCH-FOR-1 = the central idea: what we eat and how it is produced affects both people and the planet
+WATCH-FOR-2 = what a "planetary health diet" is meant to achieve
+VIDEO-ALT = Can healthy food save the planet?
+VIDEO-URL = https://www.youtube.com/watch?v=PIc42oIU0Ik
+VIDEO-CAPTION = EAT – Can healthy food save the planet? (2:11)
+VIDEO-SUMMARY = The EAT-Lancet Commission (2019) proposed a "planetary health diet": a diet that is healthy for people and stays within planetary boundaries. [CHECK: Juliana – decide whether to name food groups/amounts; not in the source]
+NARRATION-1 = What is the idea behind it?
+Q1-QUESTION = What is the idea behind the "planetary health diet"?
+Q1-WRONG-1 = A diet that maximises food production at any cost.
+Q1-CORRECT = A diet that is healthy for people and stays within planetary boundaries.
+Q1-WRONG-2 = A diet that only wealthy countries can afford.
+Q1-HINT = Think of the double benefit in its name.
+Q1-FEEDBACK = The core idea is the double benefit: healthy for people and within planetary boundaries. It is not about producing as much as possible, and it is not about cost.
+NARRATION-2 = One word.
+Q2-QUESTION = A planetary health diet is healthy for people and stays within which boundaries? (one word)
+Q2-ANSWER = planetary
+Q2-HINT = You met them in Session 3_2.
+
+
+[Interactive_Exercise_Template_2.md]
+SLIDE-TITLE = From Field to Policy
+NARRATION-0 = On the production side, Milica meets two ideas: agroecology and local food systems, where farming works with natural systems, and the EU's Farm to Fork strategy. Complete the sentence.
+GAP-TEXT-1 = The EU Green Deal strategy for sustainable farming is called
+GAP-1-CORRECT = Farm to Fork
+GAP-1-WRONG-1 = Field to Table
+GAP-1-WRONG-2 = Plate to Farm
+GAP-TEXT-2 = . It covers the whole chain. The number of the SDG on responsible consumption and production is
+GAP-2-ANSWER = 12
+GAP-TEXT-3 = . Agroecology is an example of
+GAP-3-CORRECT = strong sustainability
+GAP-3-DISTRACTOR = weak sustainability
+GAP-TEXT-4 = .
+GAP-HINT = Strong sustainability means nature sets limits that cannot be compensated by money or technology.
+NARRATION-1 = Now a few statements on agriculture and the planet.
+STATEMENT-1 = In agroecology, farming works with natural systems and preserves soil and biodiversity.
+STATEMENT-2 = Agroecology replaces natural systems with machines.
+STATEMENT-3 = Agriculture is linked to biogeochemical flows, freshwater use, land-system change and biosphere integrity.
+STATEMENT-4 = Agriculture is mainly linked to the ozone layer.
+TF-HINT = Remember the table of VET sectors in Session 3_2.
+TF-FEEDBACK = Agroecology works with natural systems, and is an example of strong sustainability. Agriculture is linked to biogeochemical flows (nitrogen and phosphorus from fertilisers), freshwater use, land-system change and biosphere integrity. The ozone layer is not mentioned.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Our Food, Our Health
+NARRATION-0 = The World Health Organization points out a broader truth. What we eat, and how it is produced, affects our health and the environment. This video takes about a minute.
+WATCH-FOR-1 = the link between food systems and health
+WATCH-FOR-2 = the link between food systems and the environment
+VIDEO-ALT = Food systems: our food, our health, our future
+VIDEO-URL = https://www.youtube.com/watch?v=6Y499vq7tDg
+VIDEO-CAPTION = World Health Organization – Food Systems: Our food, our health, our future (1:05)
+VIDEO-SUMMARY = The WHO message is that food systems connect health and environment: what we eat matters for our health, and how food is produced matters for the environment.
+NARRATION-1 = Which statement fits?
+Q1-QUESTION = Which statement fits the WHO message?
+Q1-WRONG-1 = Food choice is only a private matter with no wider effect.
+Q1-CORRECT = What we eat affects our health, and how food is produced affects the environment.
+Q1-WRONG-2 = Food systems have no link with health.
+Q1-HINT = The video links food systems, health and the environment.
+Q1-FEEDBACK = Because production, trade and consumption affect everyone, food is not only a private matter.
+NARRATION-2 = One more word.
+Q2-QUESTION = Production, trade and consumption affect everyone. So is food only a private matter? (yes or no)
+Q2-ANSWER = no
+Q2-HINT = Read the question again.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = Well-being Beyond the Plate
+NARRATION-0 = Food is only one part of well-being. Well-being also depends on the air we breathe and the heat we endure. One helpful way to hold all of this together is the doughnut model. Its social foundation includes food and health, while the ecological ceiling must not be overshot.
+IMAGE-ALT = Doughnut model: the social foundation includes food and health
+IMAGE-PATH = img/1280px-Doughnut__economic_model_.jpg
+IMAGE-CAPTION = Doughnut (economic model) – Kate Raworth / Doughnut Economics Action Lab – CC BY-SA 4.0 – via Wikimedia Commons
+INTRO-TEXT = """
+**The air we breathe:**
+
+- More than **22,000 premature deaths** in the Western Balkans in 2023 were caused by air pollution (EEA 2025).
+- In Serbia, premature mortality due to PM2.5 (very fine particles in the air) was **188.3 per 100,000 inhabitants over 30** (EEA data via RERI).
+
+**The heat we endure:** climate change brings more **heatwaves**, which are a health risk for workers and learners (IPCC 2023).
+
+**The doughnut** holds this together: its social foundation includes **food and health**, while the ecological ceiling must not be overshot.
+"""
+NARRATION-1 = Here is the main point.
+KEY-MESSAGE = Well-being in Serbia is not only about food, but about air and heat as well.
+NARRATION-2 = Check the unit.
+ACTIVATION-QUESTION = The Western Balkans figure of 22,000 premature deaths is a total for one year. In which year? (4 digits)
+ACTIVATION-ANSWER = 2023
+ACTIVATION-HINT = It is the year in the text.
+ACTIVATION-FEEDBACK = 2023. The 22,000 is a total count for the Western Balkans. The Serbian figure of 188.3 is a rate per 100,000 inhabitants over 30, which is a different measure.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Back to the Contract
+NARRATION-0 = You do not have to solve the food system alone. The same goal, more sustainable and healthy food, is steered at three different levels. One school, one curriculum, one system. Now help Milica.
+IMAGE-ALT = Kalenić market in Belgrade, a traditional urban market selling local produce
+IMAGE-PATH = img/1280px-Kaleni__market_in_Belgrade_1.JPG
+IMAGE-CAPTION = Kalenić market in Belgrade 1 – Bebauautu – CC BY-SA 3.0
+CASE-TEXT = """
+The canteen contract is on Milica's desk (fictional). The options by role:
+"""
+DATA-LABEL-1 = Principal
+DATA-VALUE-1 = canteen and buffet (seasonal, local, less waste), school garden, drinking water, healthy workshop climate (heat, air)
+DATA-LABEL-2 = School developer
+DATA-VALUE-2 = food, waste and health topics in the curricula of cooks, food technicians, farmers and retail
+DATA-LABEL-3 = Ministry
+DATA-VALUE-3 = occupational standards for food and agriculture occupations; public procurement criteria for school meals [CHECK: Serbian rules on school meals]
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, Milica's contract.
+QUESTION-1 = Which three criteria do you add to the school canteen contract, and why?
+MODEL-ANSWER-1 = """
+**Seasonal and local food, less food waste in preparation and serving, and drinking water available to all learners.** "Cheapest price, whatever the source" ignores the sustainability and health goals, and "only imported products" goes against the local-food option. A good contract combines price with these quality criteria.
+"""
+NARRATION-Q-1 = Next, your own choices.
+QUESTION-2 = Name two sustainable choices you could make in your daily or professional life, for example around food, waste or health.
+MODEL-ANSWER-2 = """
+A **principal** might choose seasonal and local food for the canteen and add a school garden. A **school developer** could weave food, waste and health topics into the curricula of cooks, food technicians, farmers or retail occupations. A **ministry officer** might act through public procurement criteria for school meals or occupational standards. What matters is that the choice is concrete, fits your real responsibilities, and connects health with sustainability.
+"""
+NARRATION-Q-2 = And finally, what comes first?
+QUESTION-3 = Which one health topic – heat, air or food – could your institution address first? Why this one?
+MODEL-ANSWER-3 = """
+A **principal** often starts with **food and heat**, because the canteen and the workshop climate are under the school's direct control. A **school developer** often starts with **food**, because integrating it into curricula can change many schools at once. A **ministry officer** may start with what sets the frame for everyone, through procurement criteria and occupational standards. There is no single right answer: the best first step fits your real decision power and your institution's conditions.
+"""
+
+
+[Summary_Recap_Template_2.md]
+SLIDE-TITLE = Exit Ticket
+NARRATION-0 = Three short questions, one per objective. You can repeat them as often as you like.
+OBJECTIVE-1 = Diets
+Q1-QUESTION = What does the "planetary health diet" of the EAT-Lancet Commission (2019) combine?
+Q1-CORRECT = Health for people and staying within planetary boundaries
+Q1-WRONG-1 = Maximum production at any cost
+Q1-WRONG-2 = A diet only wealthy countries can afford
+Q1-HINT = Think of the double benefit in its name.
+NARRATION-1 = Next, the principal's options.
+OBJECTIVE-2 = Options
+Q2-QUESTION = Which options does this session name for a school principal?
+Q2-CORRECT-1 = A canteen with seasonal and local food and less waste
+Q2-WRONG-1 = Public procurement rules for the whole VET system
+Q2-CORRECT-2 = A school garden and drinking water
+Q2-HINT = Procurement rules and occupational standards are options at ministry level.
+NARRATION-2 = And one number.
+OBJECTIVE-3 = Air
+Q3-QUESTION = What was the premature mortality due to PM2.5 in Serbia, per 100,000 inhabitants over 30? (number with a decimal point)
+Q3-ANSWER = 188.3
+Q3-HINT = It is on the page about well-being beyond the plate.
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Milica Signs
+NARRATION-0 = Milica signs the new contract. Here is what she has learned.
+NARRATION-1 = First, it is one system.
+TAKEAWAY-1 = A food system runs from production to consumption and waste, and each stage has its own main impact.
+NARRATION-2 = Second, food connects the goals.
+TAKEAWAY-2 = Food connects **all the SDGs**, and health is essential for education and reducing inequalities.
+NARRATION-3 = Third, a healthy diet can stay within limits.
+TAKEAWAY-3 = A **planetary health diet** is healthy for people and stays within planetary boundaries.
+NARRATION-4 = Fourth, well-being goes beyond the plate.
+TAKEAWAY-4 = Well-being goes beyond the plate: **air and heat** matter too.
+REMEMBER = One goal, three levels: one school, one curriculum, one system.
+NARRATION-5 = One last question.
+RECAP-QUESTION = Why does the canteen contract matter beyond the school?
+RECAP-WRONG-1 = Because the cheapest price is always the most sustainable
+RECAP-WRONG-2 = Because food is only a private matter
+RECAP-CORRECT = Because one food decision touches several stages of the food system at once
+RECAP-HINT = Remember the chain.
+RECAP-FEEDBACK = One decision in a school canteen touches production, transport, consumption and waste at once.
+NARRATION-6 = Milica's plan now has people in it. But her company partners have a harder question: can we go on growing? Topic five is about economic issues.
+OUTLOOK = Session 5, *Economic Issues*. Company partners ask Milica a hard question: can a green plan and economic growth go together?
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Hilf, J. (2024): *Introduction to the Sustainability Approach*. GIZ training, Day 1 – adapted
+- Hilf, J. (2024): *SDGs and Sustainable Economies*. GIZ training, Day 2 – adapted
+- Hilf, J. (2025): *Models of Sustainability …*. GIZ workshop – adapted
+- Hilf, J. (2026): *Green TVET – Concepts and practical approaches*. Expert input – adapted
+- Stockholm Resilience Centre – https://www.stockholmresilience.org/research/planetary-boundaries.html – linked
+- Stockholm Resilience Centre / PIK (2025): *Seven of nine planetary boundaries now breached* – https://www.stockholmresilience.org/news--events/general-news/2025-09-24-seven-of-nine-planetary-boundaries-now-breached – summarised
+- EAT-Lancet Commission (2019): *Food in the Anthropocene* – https://eatforum.org/eat-lancet-commission/ – linked
+- World Health Organization – video "Food Systems: Our food, our health, our future" – https://www.youtube.com/watch?v=6Y499vq7tDg – embedded
+- Balkan Green Energy News (2026): RERI analysis of Serbia's air quality – https://balkangreenenergynews.com/reri-serbia-facing-at-least-7373-early-deaths-in-2030-from-air-pollution/ – summarised
+- IPCC (2023): *Climate Change 2023: Synthesis Report* – summarised
+- EAT – video "Can healthy food save the planet?" – https://www.youtube.com/watch?v=PIc42oIU0Ik – embedded
+- Stockholm Resilience Centre – video "How food connects all the SDGs" – https://www.youtube.com/watch?v=kvmoue_EsPo – embedded
+- Bebauautu – *Kalenić market in Belgrade 1* – CC BY-SA 3.0 – https://commons.wikimedia.org/wiki/File:Kaleni%C4%87_market_in_Belgrade_1.JPG – unchanged
+- Kate Raworth / Doughnut Economics Action Lab – *Doughnut (economic model)* – CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Doughnut_(economic_model).jpg – unchanged
+- Case: Milica Stojanović, Ravnica Technical School and the canteen contract are fictional – created for this course
+- [CHECK: Juliana / GIZ – one source on local food / green markets or school meals in Serbia]
+"""

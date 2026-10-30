@@ -1,0 +1,331 @@
+# GIZ Sustainability Onboarding 1_2 – Historical milestones of sustainability debates
+# Build:  python3 Build/build_course.py 1_2
+# Old version: Archive/Session_1_2/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 1_2 – Historical milestones of sustainability debates
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to session one two. Jelena Marković has to write three sentences that justify green skills in a new occupational standard. For that, she needs the right milestones. If you can, turn the sound on.
+
+**Subtopic of Session 1 · about 35 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Jelena Marković, Milica Stojanović and Ravnica Technical School are fictional. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 1_2, Historical milestones of sustainability debates. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = Three Sentences for a Standard
+NARRATION-0 = Jelena Marković works at the Ministry of Education. She has to write a short text that justifies green skills in new occupational standards. Which milestone should she quote? Sustainability is often treated as a modern idea. It is not.
+IMAGE-ALT = Plenary hall at COP21, Paris 2015, where the Paris Agreement was adopted
+IMAGE-PATH = img/1280px-Kerry_Mxakato-Diseko_Zhenhua_in_the_Plenary_Hall_at_the_COP21.jpg
+IMAGE-CAPTION = Plenary Hall at the COP21 – U.S. Department of State – public domain – via Wikimedia Commons
+CASE-TEXT = """
+Jelena Marković (fictional) has to write a short text that justifies green skills in new occupational standards. Which milestones should she quote? Sustainability is often treated as a modern idea. It is not. It starts as a practical rule for one trade, forestry, and ends up as the guiding goal of the whole global community.
+"""
+NARRATION-1 = So Jelena follows the whole story.
+GUIDING-QUESTION = What did each milestone bring: a new idea, a new institution, or a new set of goals?
+NARRATION-2 = Let us see what you know about the order of events.
+PREDICT-QUESTION = Which of these milestones came first?
+PREDICT-CORRECT = *Silent Spring* (1962)
+PREDICT-WRONG-1 = Stockholm Conference (1972)
+PREDICT-WRONG-2 = Brundtland Report (1987)
+PREDICT-HINT = One of these happened before the first global UN environment conference.
+PREDICT-FEEDBACK = *Silent Spring* came first. It raised environmental awareness, and it prepared the ground for the Stockholm Conference and the Brundtland Report.
+NARRATION-3 = And the story starts even earlier. We will walk through it, one milestone at a time.
+OUTCOME = This session walks you through the story, one milestone at a time, from 1713 to Serbia's own law. By the end, you can write Jelena's sentences.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = The Timeline
+NARRATION-0 = Here is the timeline of this session. And the road continues with Serbia's own entries.
+MODULE-1 = 1713 Forestry
+MODULE-2 = 1970s First conference
+MODULE-3 = 1987 Brundtland
+MODULE-4 = 1992 Rio
+MODULE-5 = 2015 SDGs and Paris
+MILESTONE = Serbia 2020–2023
+NARRATION-1 = After this session, you can do three things.
+KNOW-1 = Central milestones: major reports, conferences, policy agreements
+CAN-1 = Identify them, and characterise what each one brought
+VALUE-1 = Seeing your work as part of a long story
+KNOW-2 = Recent steps in Serbia and the Western Balkans
+CAN-2 = Place these steps on the same timeline
+VALUE-2 = Nothing here is "imported": it is the same timeline
+NARRATION-2 = A quick look at the timeline.
+ORDER-QUESTION = Which milestone comes directly after Brundtland on the timeline?
+ORDER-CORRECT = Rio, 1992
+ORDER-WRONG-1 = Forestry, 1713
+ORDER-WRONG-2 = The 1970s conference
+ORDER-HINT = Follow the arrows from left to right.
+ORDER-FEEDBACK = Rio followed five years after Brundtland, and it turned the idea into a global programme.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = Where the Idea Starts: 1713
+NARRATION-0 = The story begins in 1713. This was not a global vision. It was a rule to keep one valuable resource, the forest, productive for the next generation of foresters.
+IMAGE-ALT = Title page of Sylvicultura oeconomica, 1713, the book that started the sustainability timeline
+IMAGE-PATH = img/Carlowitz_Sylvicultura.jpg
+IMAGE-CAPTION = Sylvicultura oeconomica (1713) – Hans Carl von Carlowitz – public domain – via Wikimedia Commons
+INTRO-TEXT = """
+In **1713**, Hans Carl von Carlowitz published *Sylvicultura oeconomica*, a book on the management of forests. He used the German term for a simple rule of **sustained-yield forestry**: cut only as much wood as can grow back.
+
+This was not a global vision. It was a rule to keep one valuable resource productive for the next generation of foresters.
+"""
+NARRATION-1 = Here is what this milestone brought.
+KEY-MESSAGE = 1713 brought an **idea**: in that year, the term was a practical rule for one trade, not a global goal.
+NARRATION-2 = Check the name.
+ACTIVATION-QUESTION = Carlowitz used the term for sustained-yield … (one word)
+ACTIVATION-ANSWER = forestry
+ACTIVATION-HINT = It is the trade the book is about.
+ACTIVATION-FEEDBACK = Forestry: manage the forest so that it keeps producing. The global goal only appears in 1987, and state-level policy emerges with the UN conferences from 1972 onwards.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Awareness and a First Conference
+NARRATION-0 = Now the debate changes. Jelena notes what happened between 1962 and 1972.
+GUIDING-QUESTION = What changed the debate in the early 1970s?
+NARRATION-1 = In 1962, Rachel Carson published Silent Spring.
+ASPECT-1 = **1962, *Silent Spring*:** Rachel Carson warned about pesticides and pollution, and showed that local pollution can have global consequences
+NARRATION-2 = In 1972, the UN held its first global environment conference.
+ASPECT-2 = **1972, Stockholm:** the first global UN environment conference: 114 states [CHECK: number of states at Stockholm – sources say 113 or 114], about 1,200 delegates including many NGOs; a declaration of principles and an action plan
+NARRATION-3 = From this came a new institution.
+ASPECT-3 = **UNEP:** the UN Environment Programme, the UN body for the environment, was founded in Nairobi
+NARRATION-4 = And also in 1972, the Club of Rome published The Limits to Growth.
+ASPECT-4 = **1972, *The Limits to Growth*:** the Club of Rome presented a computer model from MIT that showed "overshoot and collapse" (more in Session 5_1)
+NARRATION-5 = So in a single decade, a global conversation began.
+WHY-IT-MATTERS = These milestones brought **awareness** (*Silent Spring*), a new **institution** (UNEP) and a first global **declaration** (Stockholm).
+NARRATION-6 = Which of these milestones did you already know?
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = 1987: The Brundtland Definition
+NARRATION-0 = In 1987, the World Commission on Environment and Development, chaired by Norway's Prime Minister Gro Harlem Brundtland, published the report Our Common Future. It gave the definition that is still the reference point today. Watch the video.
+WATCH-FOR-1 = why the report linked environment and development
+WATCH-FOR-2 = what it put at the centre of the debate
+VIDEO-ALT = The ground-breaking Brundtland report
+VIDEO-URL = https://www.youtube.com/watch?v=KIaguVNjZAU
+VIDEO-CAPTION = UVED – The ground-breaking Brundtland report (5:53)
+VIDEO-SUMMARY = """
+For the first time, the report *Our Common Future* (WCED, 1987) explicitly linked economic development and environmental protection, and put **sustainable development** at the centre. Its definition:
+
+"development that meets the needs of the present without compromising the ability of future generations to meet their own needs"
+
+The definition combines three elements: the **needs of the present**, **justice towards future generations**, and the **limits of natural systems**.
+"""
+NARRATION-1 = What did the report do for the first time?
+Q1-QUESTION = What did the Brundtland Report do for the first time?
+Q1-WRONG-1 = It founded the UN Environment Programme.
+Q1-CORRECT = It explicitly linked economic development and environmental protection.
+Q1-WRONG-2 = It set the 1.5 °C limit for global warming.
+Q1-HINT = Think about the two words it put together.
+Q1-FEEDBACK = The report put sustainable development at the centre. Its definition carries a political claim: today's development must not use up what future generations need.
+NARRATION-2 = Complete the definition.
+Q2-QUESTION = Development that meets the needs of the present without compromising the ability of future ______ to meet their own needs. (one word)
+Q2-ANSWER = generations
+Q2-HINT = It is about the people who come after us.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = 1992: Rio Turns the Idea into a Programme
+NARRATION-0 = In 1992, the UN Conference on Environment and Development, the Earth Summit, met in Rio de Janeiro. It produced four key results.
+GUIDING-QUESTION = What did the Earth Summit produce?
+NARRATION-1 = First, Agenda 21.
+ASPECT-1 = **Agenda 21:** an action programme with 40 chapters, for governments, business, NGOs and citizens at local, national and global level
+NARRATION-2 = Second, the Rio Declaration, with two important principles.
+ASPECT-2 = **Rio Declaration:** 27 principles, including the **polluter-pays principle** (the one who causes pollution pays for it) and the **precautionary principle** (act before harm is fully proven)
+NARRATION-3 = Third, the climate convention.
+ASPECT-3 = **UN Framework Convention on Climate Change (UNFCCC):** the treaty that later led to the Kyoto Protocol (1997)
+NARRATION-4 = And fourth, biological diversity.
+ASPECT-4 = **Convention on Biological Diversity:** protection of the variety of life on Earth
+NARRATION-5 = This changed the status of the idea.
+WHY-IT-MATTERS = Rio turned sustainable development from a scientific and political concept into a **global guiding principle**. Agenda 21 became the template for many local, regional and national sustainability processes.
+NARRATION-6 = Which of these results did you already know?
+
+
+[Interactive_Exercise_Template_1.md]
+SLIDE-TITLE = Check: Rio
+NARRATION-0 = Jelena checks her notes. Three short questions, and every question explains its answer.
+Q1-QUESTION = Which conference produced Agenda 21?
+Q1-WRONG-1 = Stockholm 1972
+Q1-CORRECT = Rio 1992
+Q1-WRONG-2 = Paris 2015
+Q1-HINT = It was the Earth Summit.
+Q1-FEEDBACK = Agenda 21 was adopted at the UN Conference on Environment and Development in Rio in 1992. Stockholm produced the first global declaration and led to UNEP. Paris produced the Paris Agreement.
+NARRATION-1 = Next, the Declaration.
+Q2-QUESTION = Which statements apply to the Rio Declaration?
+Q2-CORRECT-1 = It contains the polluter-pays principle.
+Q2-WRONG-1 = It was adopted at the Stockholm Conference in 1972.
+Q2-CORRECT-2 = It contains the precautionary principle.
+Q2-WRONG-2 = It has 40 chapters.
+Q2-HINT = The Declaration is the list of 27 principles. The 40-chapter document is a different Rio outcome.
+Q2-FEEDBACK = The Rio Declaration (27 principles) includes the polluter-pays and the precautionary principle. The 40-chapter document is Agenda 21, a separate outcome of the same conference.
+NARRATION-2 = And one number.
+Q3-QUESTION = How many chapters does Agenda 21 have? (number)
+Q3-ANSWER = 40
+Q3-HINT = It is on the previous page.
+Q3-FEEDBACK = 40 chapters. It became the template for many local, regional and national sustainability processes.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = 2015: Goals and a Temperature Limit
+NARRATION-0 = First, in the year 2000, the UN adopted the Millennium Development Goals. Then in 2015, two things happened. Agenda 2030 was adopted, with the Sustainable Development Goals. And at COP21 in Paris, the Paris Agreement was adopted. Watch this video for the whole story.
+WATCH-FOR-1 = the steps from Stockholm to Rio and beyond
+WATCH-FOR-2 = how the debate moved from one sector to a global goal
+VIDEO-ALT = A Historical View on Sustainable Development
+VIDEO-URL = https://www.youtube.com/watch?v=D5mzI9Kw4JM
+VIDEO-CAPTION = sustainable-globalization – A Historical View on Sustainable Development (6:14)
+VIDEO-SUMMARY = """
+**2000, Millennium Development Goals (MDGs):** 8 goals for 2000–2015 on poverty, education, gender equality, health and environmental sustainability; the first attempt to make development measurable with time-bound goals.
+
+**2015, Agenda 2030:** 17 Sustainable Development Goals, 169 targets, for all UN member states, valid 2016–2030.
+
+**2015, Paris Agreement (COP21):** limit warming to well below 2 °C above pre-industrial levels, preferably 1.5 °C.
+"""
+NARRATION-1 = What does the Paris Agreement aim for?
+Q1-QUESTION = What does the Paris Agreement aim to limit warming to?
+Q1-WRONG-1 = Well below 3 °C, preferably 2 °C
+Q1-CORRECT = Well below 2 °C, preferably 1.5 °C
+Q1-WRONG-2 = 1.5 °C at the latest
+Q1-HINT = The agreement sets a limit "well below" one value and "preferably" a lower one.
+Q1-FEEDBACK = Well below 2 °C, preferably 1.5 °C (COP21, 2015). The other options swap or drop the two levels.
+NARRATION-2 = And the number of goals.
+Q2-QUESTION = How many Sustainable Development Goals does Agenda 2030 contain? (number)
+Q2-ANSWER = 17
+Q2-HINT = The earlier Millennium Goals were 8. These are more than twice as many.
+
+
+[Interactive_Exercise_Template_2.md]
+SLIDE-TITLE = Serbia on the Timeline
+NARRATION-0 = The timeline does not stop in 2015. The Western Balkans and Serbia added their own entries. Jelena fills them in.
+GAP-TEXT-1 = The Sofia Declaration on the Green Agenda for the Western Balkans was endorsed on 10 November
+GAP-1-CORRECT = 2020
+GAP-1-WRONG-1 = 2015
+GAP-1-WRONG-2 = 2023
+GAP-TEXT-2 = , at the Sofia Summit. Serbia's Law on Climate Change was adopted on 18 March of the year
+GAP-2-ANSWER = 2021
+GAP-TEXT-3 = . The EU roadmap for the first climate-neutral continent, the European Green Deal, came first, in
+GAP-3-CORRECT = 2019
+GAP-3-DISTRACTOR = 2022
+GAP-TEXT-4 = .
+GAP-HINT = Serbia's law came one year after the Sofia Declaration.
+NARRATION-1 = And a few statements.
+STATEMENT-1 = Serbia's Law on Climate Change requires a low-carbon development strategy with an action plan, and monitoring, reporting and verification (MRV) of emissions.
+STATEMENT-2 = The Strategy for Low Carbon Development 2023–2030 does not mention green jobs.
+STATEMENT-3 = The GIZ project "Teaching skills for green transformation" runs from January 2024 to December 2026, with the Serbian Ministry of Education.
+STATEMENT-4 = The Sofia Declaration has nothing to do with the EU Green Deal.
+TF-HINT = The strategy's 2050 vision includes green jobs. In Sofia, leaders committed to the green agenda in line with the EU Green Deal.
+TF-FEEDBACK = The law requires a strategy and MRV. The strategy (Official Gazette 46/2023) includes green jobs in its 2050 vision. In Sofia, Western Balkan leaders committed to the green agenda in line with the EU Green Deal. These are the latest chapter of the same global timeline.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Jelena's Three Sentences
+NARRATION-0 = Now you help Jelena. She has to justify green skills in new occupational standards. Which milestones would you quote?
+IMAGE-ALT = Plenary hall at COP21, Paris 2015, where the Paris Agreement was adopted
+IMAGE-PATH = img/1280px-Kerry_Mxakato-Diseko_Zhenhua_in_the_Plenary_Hall_at_the_COP21.jpg
+IMAGE-CAPTION = Plenary Hall at the COP21 – U.S. Department of State – public domain
+CASE-TEXT = """
+Jelena has to justify green skills in new occupational standards (fictional). Her notes on the most recent chapter of the timeline:
+"""
+DATA-LABEL-1 = Sofia Declaration (2020)
+DATA-VALUE-1 = Western Balkan leaders commit to the green agenda in line with the EU Green Deal
+DATA-LABEL-2 = Law on Climate Change (2021)
+DATA-VALUE-2 = requires a low-carbon development strategy, action plan and MRV of emissions
+DATA-LABEL-3 = Strategy for Low Carbon Development 2023–2030
+DATA-VALUE-3 = its 2050 vision includes **green jobs**
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, Jelena's text. Write the two or three sentences you would use.
+QUESTION-1 = Which milestones would you quote to justify green skills in a new occupational standard, and why? Write two or three sentences.
+MODEL-ANSWER-1 = """
+A strong answer quotes the **Brundtland definition (1987)** to show that development and environment belong together, then the **Paris Agreement (2015)** and **Agenda 2030** to show that the goals are concrete and time-bound, and finally Serbia's **Law on Climate Change (2021)** to show that the commitment is national and legal. The logic: the global definition gives the "why", the 2015 agreements give the "what", and the Serbian law gives the "here and now". A principal reading the same text would check whether the standard names the occupations where green skills are needed.
+"""
+NARRATION-Q-1 = Next, the definition and your work.
+QUESTION-2 = Which of the three elements of the Brundtland definition – present needs, future generations, or the limits of natural systems – matters most for your work in education, and why?
+MODEL-ANSWER-2 = """
+A **ministry officer** often points to **present needs**: education is a basic need, and the system must work for the people living today. A **school developer** often points to **future generations**: the programmes we design now shape the workforce of the next 30–40 years. A **principal** often points to the **limits of natural systems**: a school is a physical building that consumes energy and space. All three readings are valid: the definition is deliberately open, and that is why it still works.
+"""
+NARRATION-Q-2 = And finally, Serbia.
+QUESTION-3 = What changed for VET in Serbia because of the Sofia Declaration (2020) and the Law on Climate Change (2021)?
+MODEL-ANSWER-3 = """
+A **ministry officer** would note that green transformation is now **legally anchored**, so schools and training systems are part of that framework. A **school developer** would point to the **strategy**: its 2050 vision includes green jobs, so the occupations your schools train for are changing. A **principal** would add that the GIZ project with the Ministry of Education is one concrete response. None of this is "imported": it sits on the same timeline as Brundtland and Paris.
+"""
+
+
+[Summary_Recap_Template_2.md]
+SLIDE-TITLE = Exit Ticket
+NARRATION-0 = Three short questions, one per objective. You can repeat them as often as you like.
+OBJECTIVE-1 = The report
+Q1-QUESTION = What was the 1987 report called?
+Q1-CORRECT = *Our Common Future*
+Q1-WRONG-1 = *The Limits to Growth*
+Q1-WRONG-2 = *Silent Spring*
+Q1-HINT = It contains the Brundtland definition.
+NARRATION-1 = Next, the principles.
+OBJECTIVE-2 = Rio
+Q2-QUESTION = Which principles are part of the Rio Declaration?
+Q2-CORRECT-1 = Polluter-pays principle
+Q2-WRONG-1 = Free-trade principle
+Q2-CORRECT-2 = Precautionary principle
+Q2-HINT = One says who pays. The other says to act before harm is fully proven.
+NARRATION-2 = And a number.
+OBJECTIVE-3 = Global goals
+Q3-QUESTION = The Millennium Development Goals of the year 2000 were how many goals? (number)
+Q3-ANSWER = 8
+Q3-HINT = It is in the text summary of the last video.
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Jelena Sends Off
+NARRATION-0 = Jelena sends off her text. Here is the timeline it rests on.
+NARRATION-1 = First, the idea.
+TAKEAWAY-1 = **Idea:** Carlowitz 1713, and *Silent Spring* 1962.
+NARRATION-2 = Second, the institutions.
+TAKEAWAY-2 = **Institutions:** Stockholm 1972 and UNEP; Rio 1992 with its conventions.
+NARRATION-3 = Third, the definition and goals.
+TAKEAWAY-3 = **Definition and goals:** Brundtland 1987, MDGs 2000, SDGs and Paris 2015.
+NARRATION-4 = Fourth, here and now.
+TAKEAWAY-4 = **Here and now:** Sofia 2020, Serbia's law 2021, the Low Carbon Development Strategy 2023.
+REMEMBER = The global definition gives the "why", the 2015 agreements give the "what", and the Serbian law gives the "here and now".
+NARRATION-5 = One last question.
+RECAP-QUESTION = The Paris Agreement and Agenda 2030 were both adopted in which year?
+RECAP-WRONG-1 = 2020
+RECAP-WRONG-2 = 2021
+RECAP-CORRECT = 2015
+RECAP-HINT = The two later years belong to the Sofia Declaration and Serbia's law.
+RECAP-FEEDBACK = 2015: Paris Agreement and Agenda 2030. 2020: Sofia Declaration. 2021: Serbia's Law on Climate Change.
+NARRATION-6 = Topic one is complete. But if nobody has the correct definition, how do you work with the concept? That is topic two.
+OUTLOOK = Session 2, *Basic Concepts and Policies*. Milica has written the first page of her green plan, and Stefan circles four frameworks. Which of them actually binds us?
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Jelena and Milica is fictional.
+SOURCES = """
+- Hilf, J. (2024): *Introduction to the Sustainability Approach*. GIZ training, Day 1 – adapted
+- Hilf, J. (2024): *Greening Somalia and Somaliland – SDGs and Sustainable Economies*. GIZ training, Day 2 – adapted
+- Hilf, J. (2025): *Models of Sustainability: Frameworks, Policies and Greening Strategies*. GIZ workshop – adapted
+- OVGU/GIZ (2026): *Introduction to Sustainability – an interactive micro-course* (internal German draft, Session_1) – adapted
+- World Commission on Environment and Development (1987): *Our Common Future* – quoted
+- The Club of Rome: *The Limits to Growth+50* – https://www.clubofrome.org/ltg50/ – linked
+- Regional Cooperation Council (2020): *Sofia Declaration on the Green Agenda for the Western Balkans* – https://www.rcc.int/docs/546/sofia-declaration-on-the-green-agenda-for-the-western-balkans – linked, summarised
+- CEE Legal Matters: *Serbia – The new Law on Climate Change* – https://ceelegalmatters.com/serbia/16624-serbia-the-new-law-on-climate-change-for-the-survival-of-the-living-world – summarised
+- *Strategy for Low Carbon Development of Serbia 2023–2030* – https://leap.unep.org/en/countries/rs/national-legislation/strategy-low-carbon-development-republic-serbia-period-2023-2030 – linked
+- GIZ: *Teaching skills for green transformation* – https://www.giz.de/en/worldwide/123790.html – linked
+- UVED: *The ground-breaking Brundtland report* – https://www.youtube.com/watch?v=KIaguVNjZAU – embedded
+- sustainable-globalization: *A Historical View on Sustainable Development* – https://www.youtube.com/watch?v=D5mzI9Kw4JM – embedded
+- U.S. Department of State: *Plenary Hall at the COP21* – public domain – https://commons.wikimedia.org/wiki/File:Kerry_Mxakato-Diseko_Zhenhua_in_the_Plenary_Hall_at_the_COP21.jpg – unchanged
+- Carlowitz: *Sylvicultura oeconomica* – public domain – https://commons.wikimedia.org/wiki/File:Carlowitz_Sylvicultura.jpg – unchanged
+- Case: Jelena Marković, Milica Stojanović, Ravnica Technical School and the text for the standard are fictional – created for this course
+"""

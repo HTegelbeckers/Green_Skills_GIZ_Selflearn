@@ -1,0 +1,283 @@
+# GIZ Sustainability Onboarding 1 – Introduction to Sustainability
+# Build:  python3 Build/build_course.py 1
+# Old version: Archive/Session_1/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 1 – Introduction to Sustainability
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to the Onboarding to Green Transformation. This is the first session. If you can, turn the sound on. If not, that is fine, because everything important is also written on the pages.
+
+**Main topic · about 20 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> You will follow Milica Stojanović, principal of Ravnica Technical School, and her colleagues Stefan Ilić (school developer) and Jelena Marković (ministry officer). The people, the school and the ministry's letter are fictional. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 1, Introduction to Sustainability. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = The Water Came in May
+NARRATION-0 = May 2014. After days of extreme rain, floods hit Serbia. Obrenovac, near Belgrade, was one of the worst-affected towns.
+IMAGE-ALT = Aerial view of flooded fields beside a wide river near Obrenovac, Serbia, 2014
+IMAGE-PATH = img/1280px-Flood_in_Obrenovac__2014.jpg
+IMAGE-CAPTION = Flood in Obrenovac, 2014 – Gmihail at Serbian Wikipedia – CC BY-SA 3.0 RS – via Wikimedia Commons
+CASE-TEXT = """
+**May 2014:** after days of extreme rain, floods hit Serbia, and Obrenovac near Belgrade was one of the worst-affected towns. Milica Stojanović still remembers that May. She is the principal of Ravnica Technical School, a VET school in the Kolubara region (school and person are fictional). This year a letter from the Ministry of Education is on her desk: every school should prepare a short *green plan*. The word "sustainable" appears nine times in the letter.
+"""
+NARRATION-1 = Milica has one question before she can write anything.
+GUIDING-QUESTION = What does "sustainable" actually mean – and why should a technical school care?
+NARRATION-2 = Before we start, a quick estimate. There is no penalty for a wrong guess.
+PREDICT-QUESTION = How many people in Serbia were affected by the floods of May 2014?
+PREDICT-CORRECT = About 1.6 million people
+PREDICT-WRONG-1 = About 16,000 people
+PREDICT-WRONG-2 = About 160,000 people
+PREDICT-HINT = It was roughly one fifth of the population of Serbia.
+PREDICT-FEEDBACK = About 1.6 million people were affected – roughly a fifth of the population.
+NARRATION-3 = So this is not an abstract topic. It reaches the regions where schools work. This is where our course begins.
+OUTCOME = More than 1.6 million people were affected. Sustainability is not only a word in project texts: it is about risks that reach the regions where your schools work. This course helps you, like Milica, to work with the term confidently. You do not need any prior knowledge.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = The Road Ahead
+NARRATION-0 = Here is the whole course as a road: six main topics, and you are at the start of the first. Milica's green plan grows along this road.
+MODULE-1 = Introduction
+MODULE-2 = Concepts and policies
+MODULE-3 = Ecological issues
+MODULE-4 = Social issues
+MODULE-5 = Economic issues
+MILESTONE = Topic 6 · Responding and acting
+NARRATION-1 = This session is short by design. It orients you and shows you where to go next. Here is what you take away from it.
+KNOW-1 = How the term emerged historically
+CAN-1 = Describe the historical emergence of the term
+VALUE-1 = Fairness towards people today and in future
+KNOW-2 = Key milestones in its development
+CAN-2 = Recognise the milestones and choose your next subtopic
+VALUE-2 = Responsibility for decisions you can influence
+NARRATION-2 = A quick question on the map.
+ORDER-QUESTION = In which topic do you plan your own initiative?
+ORDER-CORRECT = Topic 6 · Responding and acting
+ORDER-WRONG-1 = Topic 1 · Introduction
+ORDER-WRONG-2 = Topic 3 · Ecological issues
+ORDER-HINT = Follow the road to its end.
+ORDER-FEEDBACK = Right. The course is part of the GIZ project "Teaching skills for green transformation" (Serbia, January 2024 to December 2026, partner: Ministry of Education), which revises VET programmes to include green skills.
+
+
+[Content_Introduction_Template_3.md]
+SLIDE-TITLE = Stripes from Blue to Red
+NARRATION-0 = Back to Milica. She opens the staff meeting with this image. Each stripe is one year, from 1850 to 2018. Blue means a cooler year, red a warmer one. Look at the direction of travel.
+IMAGE-ALT = Warming stripes: global average temperature 1850–2018, each stripe one year, blue is cooler, red is warmer
+IMAGE-PATH = img/80px-20181204_Warming_stripes__global__WMO__1850-2018__-_Climate_Lab_Book__Ed_Hawkins_.png
+IMAGE-CAPTION = Warming stripes (global, WMO, 1850–2018) – Ed Hawkins (University of Reading) – CC BY-SA 4.0 – via Wikimedia Commons
+SCENARIO-TEXT = """
+Each stripe is one year from 1850 to 2018: blue means a cooler year, red a warmer one. Look at the direction of travel.
+
+The evidence behind the image comes, among others, from the **IPCC** (Intergovernmental Panel on Climate Change), the UN body for the scientific assessment of climate change. Its 2023 Synthesis Report concludes that global warming today is already about 1.1 °C, that a liveable future is still possible, and that emissions must fall faster than they have so far.
+
+"Pre-industrial level" means the average temperature between 1850 and 1900, before industrial heating of the climate.
+"""
+NARRATION-1 = One teacher asks: so sustainability is simply a scientific term? Milica has an answer from the sustainability researcher Juliana Hilf.
+QUOTE = The concept of sustainable development is not the result of scientific research; instead, it is an ethically grounded concept.
+QUOTE-SOURCE = Juliana Hilf (2024), Introduction to the Sustainability Approach
+NARRATION-2 = In plain words, it is about what we owe to the environment, to people today and to people who will come after us. So what is fact, and what is a goal?
+PROBLEM = Science describes what is happening. The ethical question is what we owe to the environment, to people today and to people who will come after us. To work with the term, you need to keep the two apart.
+POE-TITLE = One Hot Year, One Long-Term Goal
+NARRATION-POE-0 = Here is a test. Stefan, the school developer, reads three statements in the news. Which one is correct?
+PREDICT-QUESTION = Which statement about the temperature record is correct?
+PREDICT-CORRECT = 2024 was the first calendar year with a global average temperature of about 1.60 °C above the pre-industrial level.
+PREDICT-WRONG-1 = The Paris goal has already been missed, because one year was above 1.5 °C.
+PREDICT-WRONG-2 = The IPCC recommends political action to governments.
+PREDICT-HINT = Think about how the Paris goal counts temperature: one single year, or an average over many years?
+NARRATION-POE-1 = The Paris goal refers to an average over at least twenty years. And the IPCC deliberately does not recommend political action.
+OBSERVATION = The Paris goal refers to an average over at least 20 years, so one year above 1.5 °C does not yet mean the goal has been missed. The IPCC provides the scientific basis for decisions; it deliberately does not recommend political action.
+NARRATION-POE-2 = Now try to explain this in your own words, as if a colleague had asked you.
+EXPLAIN-PROMPT = A colleague says: "2024 was above 1.5 °C, so Paris has failed." What do you answer?
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = What Unsustainable Looks Like
+NARRATION-0 = Unsustainable development is not an abstract idea. It shows up in concrete problems. Here are four areas Milica collects for her staff.
+GUIDING-QUESTION = Where does unsustainable development show up?
+NARRATION-1 = First, forests and reefs. Deforestation disrupts water cycles and contributes to climate change. Coral reefs are dying off, and this affects the people who depend on them.
+ASPECT-1 = **Forests and reefs:** deforestation causes biodiversity loss and disrupts water cycles; coral reefs die off through ocean acidification and rising temperatures, which affects livelihoods
+NARRATION-2 = Second, plastic. Four hundred million tons are produced every year, and each day more than two thousand garbage trucks' worth ends up in oceans, rivers and lakes.
+ASPECT-2 = **Plastic pollution:** 400 million tons of plastic are produced every year; each day over 2,000 garbage trucks' worth of plastic waste ends up in oceans, rivers and lakes
+NARRATION-3 = Third, inequality. Women are often more affected by extreme weather, because they have less access to resources, decision-making power and mobility.
+ASPECT-3 = **Gender inequality:** women are more affected by extreme weather events, because they often have limited access to resources, decision-making power and mobility
+NARRATION-4 = And fourth, climate change, with more heatwaves, extreme rain, hurricanes, dry periods and floods.
+ASPECT-4 = **Climate change:** more extreme weather events such as heatwaves, extreme rain, hurricanes, dry periods and floods
+NARRATION-5 = Why does this matter for a school? Because schools train the people who will deal with these problems.
+WHY-IT-MATTERS = These areas reach far beyond the environment. They affect people, livelihoods and the regions where schools work, and they shape the occupations VET prepares for.
+NARRATION-6 = Which of these areas did you already know about? Mark them. Nobody grades this.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Sustainability in Three Minutes
+NARRATION-0 = Milica shows this short video at the end of the staff meeting. Before you press play, read the two things to watch for.
+WATCH-FOR-1 = how the video connects environment, society and economy
+WATCH-FOR-2 = which everyday examples it uses to explain sustainability
+VIDEO-ALT = What is Sustainability
+VIDEO-URL = https://www.youtube.com/watch?v=zx04Kl8y4dE
+VIDEO-CAPTION = UCLA – What is Sustainability (3:06)
+VIDEO-SUMMARY = The video (UCLA, 3:06) introduces the topic by connecting environment, society and economy, and it explains sustainability with everyday examples. If you cannot watch it, you can continue: the questions below only use what this course has already explained.
+NARRATION-1 = One question on what Juliana Hilf said earlier.
+Q1-QUESTION = "Ethically grounded" means that sustainability is about …
+Q1-WRONG-1 = measuring temperatures as exactly as possible
+Q1-CORRECT = what we owe to the environment, to people today and to people who will come after us
+Q1-WRONG-2 = following the recommendations of the IPCC
+Q1-HINT = Think about the word "owe".
+Q1-FEEDBACK = Exactly. Measuring is the work of science, and the IPCC deliberately makes no recommendations. Sustainability asks what we owe to others.
+NARRATION-2 = And one word to type.
+Q2-QUESTION = The video connects environment, economy and which third area? (one word)
+Q2-ANSWER = society
+Q2-HINT = It is about people living together.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = A Word Older Than You Think
+NARRATION-0 = Now to Milica's first question: where does the word come from? The story starts much earlier than any report. This is the title page of a book from 1713.
+IMAGE-ALT = Title page of Carlowitz' Sylvicultura oeconomica, 1713
+IMAGE-PATH = img/Carlowitz_Sylvicultura.jpg
+IMAGE-CAPTION = Sylvicultura oeconomica, title page – Hans Carl von Carlowitz (1713) – public domain – via Wikimedia Commons
+INTRO-TEXT = """
+In 1713, the German forester Hans Carl von Carlowitz published *Sylvicultura oeconomica*. In it he uses the German term for sustainable forestry ("nachhaltende Nutzung").
+
+Later milestones built on this idea: the Brundtland Report *Our Common Future* (1987), *Agenda 2030* with its 17 Sustainable Development Goals, and the Paris Agreement (both 2015).
+
+Session 1_1 tells the full story of the word, and Session 1_2 follows the milestones.
+"""
+NARRATION-1 = Remember this one idea.
+KEY-MESSAGE = Sustainability started as a practical rule for forests and became a set of global goals.
+NARRATION-2 = Let us check that the name has stuck.
+ACTIVATION-QUESTION = Who used the German term for sustainable forestry in 1713? (surname)
+ACTIVATION-ANSWER = Carlowitz
+ACTIVATION-HINT = It is on the title page above: Hans Carl von …
+ACTIVATION-FEEDBACK = Hans Carl von Carlowitz. You will meet him again in Session 1_1.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Where Do You Start?
+NARRATION-0 = Topic one has two subtopics. Which one should come first depends on what you already know. Look at four terms.
+GUIDING-QUESTION = How familiar are these four terms?
+NARRATION-1 = The Brundtland definition, from the report of 1987.
+ASPECT-1 = **Brundtland definition** (1987)
+NARRATION-2 = Carlowitz, whom you have just met.
+ASPECT-2 = **Carlowitz** (1713)
+NARRATION-3 = Agenda 2030, with its seventeen goals.
+ASPECT-3 = **Agenda 2030** (2015)
+NARRATION-4 = And the IPCC, the UN body for the scientific assessment of climate change.
+ASPECT-4 = **IPCC**
+NARRATION-5 = Here is the recommendation. If Brundtland and Carlowitz are new, start with 1_1. If you know the origin but Agenda 2030 or the IPCC feel vague, start with 1_2. If you know all four, read 1_1 quickly and spend your time in 1_2.
+WHY-IT-MATTERS = **Start with 1_1** if Brundtland and Carlowitz are new. **Start with 1_2** if you know the origin, but Agenda 2030 or the IPCC feel vague. **Know all four?** Read 1_1 quickly and spend most of your time in 1_2.
+NARRATION-6 = Now mark the terms you already know, and use your answer to choose your next session.
+
+
+[Interactive_Exercise_Template_1.md]
+SLIDE-TITLE = Warm-up Check
+NARRATION-0 = Three questions, as a warm-up and not an exam. Every question explains its answer.
+Q1-QUESTION = Who wrote the Brundtland definition of sustainable development?
+Q1-WRONG-1 = The IPCC, in its 2023 Synthesis Report
+Q1-CORRECT = The World Commission on Environment and Development (WCED), in 1987
+Q1-WRONG-2 = The Club of Rome, in *The Limits to Growth*
+Q1-HINT = The report is called *Our Common Future*.
+Q1-FEEDBACK = The Brundtland definition comes from the report *Our Common Future*, written in 1987 by the World Commission on Environment and Development. *The Limits to Growth* is an earlier milestone from 1972. The IPCC provides the scientific assessment of climate change and does not define development.
+NARRATION-1 = Next, which of these did Milica put on her list of problems of unsustainable development?
+Q2-QUESTION = Which of these are named as problems of unsustainable development in this session?
+Q2-CORRECT-1 = Plastic pollution in oceans, rivers and lakes
+Q2-WRONG-1 = A shortage of teachers in VET schools
+Q2-CORRECT-2 = Dying coral reefs that affect people's livelihoods
+Q2-WRONG-2 = Too many school holidays
+Q2-HINT = The session named forests and reefs, plastic, gender inequality and climate change.
+Q2-FEEDBACK = Plastic pollution and dying coral reefs are named as problems of unsustainable development. A teacher shortage is a real challenge in education, but it is not one of the problems listed here. Keep the two types of challenge separate.
+NARRATION-2 = And one number to type.
+Q3-QUESTION = In which year was the Brundtland Report *Our Common Future* published? (4 digits)
+Q3-ANSWER = 1987
+Q3-HINT = It lies between Carlowitz in 1713 and Agenda 2030 in 2015, and two years before the fall of the Berlin Wall.
+Q3-FEEDBACK = 1987. The Brundtland Report brought the term into global development policy.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Enough, for Everyone, Forever
+NARRATION-0 = Now it is your turn. A short African paraphrase of the Brundtland definition, used in Juliana Hilf's trainings, says: Enough, for everyone, forever. Milica writes the three words on the board in the staff room.
+IMAGE-ALT = Warming stripes: global average temperature 1850–2018, from blue to red
+IMAGE-PATH = img/80px-20181204_Warming_stripes__global__WMO__1850-2018__-_Climate_Lab_Book__Ed_Hawkins_.png
+IMAGE-CAPTION = Warming stripes – Ed Hawkins (University of Reading) – CC BY-SA 4.0
+CASE-TEXT = """
+**"Enough, for everyone, forever."** This short African paraphrase of the Brundtland definition is used in Juliana Hilf's trainings. Milica writes these three words on the board. Then she looks at what her school has to work with. (All figures are fictional.)
+"""
+DATA-LABEL-1 = Students at Ravnica Technical School
+DATA-VALUE-1 = about 480
+DATA-LABEL-2 = Teachers
+DATA-VALUE-2 = 42
+DATA-LABEL-3 = Programmes
+DATA-VALUE-3 = 5, including electrician, mining and agriculture
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = Write three to five sentences on the first question, then open the expert view and compare.
+QUESTION-1 = Which of the three words – *enough*, *for everyone*, *forever* – is the biggest challenge for VET in Serbia?
+MODEL-ANSWER-1 = """
+All three are defensible, and a good answer names the trade-off. A **ministry officer** might choose *forever*: VET programmes shape the workforce of coming decades, and the green transition is a central TVET challenge, together with economic transformation, technology, digitalisation and demographic change. A **school developer** might choose *for everyone*: green skills must reach all schools, not only well-resourced ones. A **principal** might choose *enough*: a school must deliver green competences with the budget, staff and equipment it actually has.
+"""
+NARRATION-Q-1 = Now connect your word to something you can actually change.
+QUESTION-2 = Which concrete decision in your work could you influence with this word in mind?
+MODEL-ANSWER-2 = """
+Milica's answer: her word is *enough*, so she looks at how the workshop budget is planned. Your decision can be small. It only has to be yours. UNESCO's 2022 strategy frames the task of TVET as helping develop skills for all people to work, live and learn, for inclusive and sustainable economies and for inclusive and peaceful societies. Whichever word you chose, your answer should connect it to a decision you can influence.
+"""
+NARRATION-Q-2 = Last question. Imagine a colleague asks you what sustainable means.
+QUESTION-3 = How would you explain "sustainable" to a colleague in one or two sentences?
+MODEL-ANSWER-3 = """
+For example: "Sustainable means that we meet our needs today without taking away the ability of future generations to meet theirs. It is not only a scientific term: it is about what we owe to others." The first sentence follows the Brundtland definition (1987), and the second follows Juliana Hilf.
+"""
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Milica Takes Back to Her Desk
+NARRATION-0 = Milica returns to the ministry's letter. What has she got so far?
+NARRATION-1 = First, the word is older than the debate.
+TAKEAWAY-1 = The term began in forestry: Carlowitz, 1713.
+NARRATION-2 = Second, it has concrete milestones.
+TAKEAWAY-2 = Key milestones: Brundtland 1987, Agenda 2030 and the Paris Agreement 2015.
+NARRATION-3 = Third, it shows up in concrete problems.
+TAKEAWAY-3 = Unsustainable development shows up in problems such as deforestation, plastic pollution and climate change.
+NARRATION-4 = Fourth, it is not only science.
+TAKEAWAY-4 = Sustainability is an ethically grounded concept, based on scientific evidence.
+REMEMBER = Enough, for everyone, forever.
+NARRATION-5 = One last question, on the milestones.
+RECAP-QUESTION = Which order of milestones is correct?
+RECAP-WRONG-1 = Brundtland Report → Carlowitz → Agenda 2030
+RECAP-WRONG-2 = Agenda 2030 → Carlowitz → Brundtland Report
+RECAP-CORRECT = Carlowitz → Brundtland Report → Agenda 2030
+RECAP-HINT = Think in three steps: a forestry rule in the 1700s, a global report in the 1980s, a set of global goals in 2015.
+RECAP-FEEDBACK = 1713: Carlowitz uses the German term for sustainable forestry. 1987: the Brundtland Report brings the term into global development policy. 2015: Agenda 2030 with the 17 goals and the Paris Agreement turn it into concrete global goals. Session 1_2 shows the full timeline.
+NARRATION-6 = Milica now knows why the word matters, but not yet exactly where it comes from. That is next. Choose your subtopic, as recommended on the page Where Do You Start.
+OUTLOOK = Session 1_1, *Origin of the term "sustainability"*, or Session 1_2, *Historical milestones*, depending on your self-check. In 1_1, Milica faces a budget decision that a forester from 1713 can help with.
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Hilf, J. (2024): *Introduction to the Sustainability Approach*. Capacity building for GIZ, Day 1 – OVGU/GIZ – text and structure adapted
+- World Commission on Environment and Development (1987): *Our Common Future*. Oxford University Press – quoted
+- IPCC (2023): *Climate Change 2023: Synthesis Report. Summary for Policymakers* – https://www.ipcc.ch/report/ar6/syr/ – summarised
+- Copernicus Climate Change Service (2025): *Copernicus: 2024 is the first year to exceed 1.5 °C above pre-industrial level* – https://climate.copernicus.eu/copernicus-2024-first-year-exceed-15degc-above-pre-industrial-level – summarised
+- ReliefWeb: *Serbia floods 2014* – https://reliefweb.int/report/serbia/serbia-floods-2014 – summarised
+- OVGU/GIZ (2026): *Introduction to Sustainability – an interactive micro-course* (internal German draft, Session_1) – adapted
+- GIZ: *Teaching skills for green transformation* – https://www.giz.de/en/worldwide/123790.html – linked
+- UNESCO (2022): *Transforming TVET for successful and just transitions. UNESCO strategy 2022–2029* – summarised
+- Video: UCLA – *What is Sustainability* – https://www.youtube.com/watch?v=zx04Kl8y4dE – embedded (YouTube licence)
+- Image: Ed Hawkins – *Warming stripes (global, WMO, 1850–2018)* – CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:20181204_Warming_stripes_(global,_WMO,_1850-2018)_-_Climate_Lab_Book_(Ed_Hawkins).png – unchanged
+- Image: Carlowitz (1713) – *Sylvicultura oeconomica*, title page – public domain – https://commons.wikimedia.org/wiki/File:Carlowitz_Sylvicultura.jpg – unchanged
+- Image: Gmihail at Serbian Wikipedia – *Flood in Obrenovac, 2014* – CC BY-SA 3.0 RS – via Wikimedia Commons – unchanged
+- Case: Milica Stojanović, Stefan Ilić, Jelena Marković, Ravnica Technical School and the ministry's letter are fictional – created for this course
+- This session: GIZ Sustainability Onboarding, GIZ / OVGU, 2026 – CC BY-SA 4.0 [CHECK: confirm with GIZ]
+"""

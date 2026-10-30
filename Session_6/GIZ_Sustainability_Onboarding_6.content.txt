@@ -1,0 +1,281 @@
+# GIZ Sustainability Onboarding 6 – Responding to Sustainability Challenges
+# Build:  python3 Build/build_course.py 6
+# Old version: Archive/Session_6/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 6 – Responding to Sustainability Challenges
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to the last topic of this course. Milica's green plan is full of problems and goals. Now one of her students asks: so what do we actually do? If you can, turn the sound on.
+
+**Main topic · about 30 minutes, including a 13-minute video you can watch in two breaks · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, principal of Ravnica Technical School, and the people around her are fictional. The facts around them are real, and the sources are on the last page. Your journal entry here feeds the action plan in Session 6_3, so keep a copy.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 6, Responding to Sustainability Challenges. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = So What Do We Do?
+NARRATION-0 = Milica presents the plan to a class of electricians. It covers ecological limits, social inequality and economic pressure. A student raises a hand. So what can we actually do about it?
+IMAGE-ALT = Solar installation technician working on a rooftop
+IMAGE-PATH = img/1280px-Solar_installation_technician_on_rooftop__5392894792_.jpg
+IMAGE-CAPTION = Solar installation technician on rooftop – CoCreatr (Flickr) – CC BY-SA 2.0 – via Wikimedia Commons
+CASE-TEXT = """
+Sessions 1 to 5 showed the challenges: ecological limits, social inequality, economic pressure. Milica presents her green plan to a class of electricians (fictional). A student asks: *"So what can we actually do about it?"* A solar technician on a rooftop is one concrete answer: a real skill, a real job, a real contribution to the energy transition. But who decides on the bigger questions?
+"""
+NARRATION-1 = This is the last topic of the course, so it asks a different question.
+GUIDING-QUESTION = What can we actually do about it – and at which level?
+NARRATION-2 = Make a first guess.
+PREDICT-QUESTION = Which level of action is best suited to set a national climate target?
+PREDICT-CORRECT = Society: policy makers
+PREDICT-WRONG-1 = Individual: personal choices
+PREDICT-WRONG-2 = Organisation: a school or company
+PREDICT-HINT = Who can decide for the whole country?
+PREDICT-FEEDBACK = Setting a national climate target is a policy decision, so it belongs to the society level. Individuals and organisations can support, pressure or follow such a target, but they cannot set it.
+NARRATION-3 = So there are several levels of action. Serbia's system is already moving, and your role is one of the places where these levels meet.
+OUTCOME = Some problems can only be solved by systems, and others begin with one person. Serbia's *Low Carbon Development Strategy* names **green jobs** in its 2050 vision, and the GIZ project *Teaching skills for green transformation* (2024–2026) is revising VET programmes. The system is already moving.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Your Way Through Topic 6
+NARRATION-0 = This main topic has three subtopics. Six one is about pathways towards a great transformation. Six two is about competences and change agency. Six three contains case studies and your own action plan.
+MODULE-1 = Levels of action
+MODULE-2 = Five action fields
+MODULE-3 = 6_1 Pathways
+MODULE-4 = 6_2 Competences
+MODULE-5 = 6_3 Case studies
+MILESTONE = Your own action plan
+NARRATION-1 = After this session, you can do these things.
+KNOW-1 = The three levels of action: individuals, organisations, societies
+CAN-1 = Distinguish them, and place typical actions on the right level
+VALUE-1 = Taking responsibility at your own level
+KNOW-2 = Footprint and handprint, and the five action fields in TVET
+CAN-2 = Explain the difference, name the fields, see where your institution fits, and choose a subtopic
+VALUE-2 = Being a change maker in a team
+NARRATION-2 = Which subtopic ends with an action plan?
+ORDER-QUESTION = Each subtopic takes 20 to 30 minutes. Which one ends with your own action plan?
+ORDER-CORRECT = 6_3
+ORDER-WRONG-1 = 6_1
+ORDER-WRONG-2 = 6_2
+ORDER-HINT = Follow the road to its end.
+ORDER-FEEDBACK = 6_3 is the most practical subtopic: concrete case studies and your own action plan, built on your journal entries. 6_1 gives the big picture, and 6_2 asks what you personally need to act.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Three Levels of Action
+NARRATION-0 = Milica draws three levels on the board. The answer to the student's question starts here.
+GUIDING-QUESTION = Where can action happen?
+NARRATION-1 = Individuals act through everyday decisions.
+ASPECT-1 = **Individuals:** everyday decisions on food, transport, energy use and travel; participation and social engagement
+NARRATION-2 = Organisations act through work decisions, for example by appointing a sustainability officer on a campus.
+ASPECT-2 = **Organisations:** work decisions that change how a school, campus or company runs, for example a **sustainability officer** for strategy, networking, climate protection management and an ESD action plan
+NARRATION-3 = Societies act through democracy and politics.
+ASPECT-3 = **Societies:** democracy and politics, such as the Paris Agreement, the EU Green Deal, the Green Agenda for the Western Balkans and Serbia's climate law
+NARRATION-4 = One idea frames all of this: the great transformation. In 2011, the German Advisory Council on Global Change called for a social contract for sustainability.
+ASPECT-4 = **The great transformation:** the German Advisory Council on Global Change (WBGU) called for a "social contract for sustainability" in 2011. It is not only a technical task, but a shared, political decision
+NARRATION-5 = And responsibility is shared.
+WHY-IT-MATTERS = Responsibility for the transformation lies with society, science, policy makers and industries. In practice, a single initiative often touches all three levels at once.
+NARRATION-6 = Which of these were you already aware of?
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Can You Fix Climate Change?
+NARRATION-0 = This video makes the point in a very direct way. It takes about thirteen minutes, so you can watch it at your own pace, for example in two breaks.
+WATCH-FOR-1 = what individuals can do
+WATCH-FOR-2 = what only systems (politics, companies) can change
+VIDEO-ALT = Can YOU Fix Climate Change? Kurzgesagt, about 13 minutes
+VIDEO-URL = https://www.youtube.com/watch?v=yiw6_JakZFc
+VIDEO-CAPTION = Kurzgesagt – In a Nutshell – Can YOU Fix Climate Change? (about 13 min)
+VIDEO-SUMMARY = The video (Kurzgesagt, about 13 minutes) stresses that some problems can only be solved by systems: politics, companies, regulation. Individuals can support, pressure or follow these decisions.
+NARRATION-1 = Where does this action belong?
+Q1-QUESTION = Where does choosing public transport instead of a private car belong?
+Q1-WRONG-1 = Organisation
+Q1-CORRECT = Individual
+Q1-WRONG-2 = Society
+Q1-HINT = It is an everyday personal choice.
+Q1-FEEDBACK = Everyday personal choices belong to the individual level. Running an ESD action plan belongs to the organisation level, and supporting a national climate policy framework to the society level.
+NARRATION-2 = And a year.
+Q2-QUESTION = In which year did the WBGU call for a "social contract for sustainability"? (4 digits)
+Q2-ANSWER = 2011
+Q2-HINT = It is on the previous page.
+
+
+[Concept_Explanation_Template_2.md]
+SLIDE-TITLE = Footprint, Handprint, Brainprint
+NARRATION-0 = Two more terms will help you think about action. Milica asks the students to look at their hands.
+CONCEPT-A = Footprint
+CONCEPT-B = Handprint
+CRITERION-1 = Side of our impact
+A-1 = negative
+B-1 = positive
+CRITERION-2 = Character
+A-2 = passive
+B-2 = active
+CRITERION-3 = In a school
+A-3 = what the school uses and emits
+B-3 = what the school starts: the action fields are where a school can build a handprint
+CRITERION-4 = Next step
+A-4 = reduce it
+B-4 = grow it, through education and empowerment
+NARRATION-1 = Here are two examples.
+EXAMPLE-A = The energy use of the workshop halls
+EXAMPLE-B = A monthly energy-use check, started with the facilities team
+NARRATION-2 = And a third word.
+MISCONCEPTION = "Handprint and footprint are the same thing, only used in different contexts." They are opposites. Education and empowerment together create a **brainprint**.
+NARRATION-3 = Now you sort them.
+STATEMENT-1 = The negative, passive side of our impact
+STATEMENT-2 = The positive, active side of our impact
+STATEMENT-3 = The waste a campus produces
+STATEMENT-4 = A half-day workshop on green campus
+CLASSIFY-HINT = Negative and passive, or positive and active?
+CLASSIFY-FEEDBACK = A footprint is the negative, passive side of our impact, and a handprint is the positive, active side. They are opposites, not synonyms.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = Five Action Fields in TVET
+NARRATION-0 = How does a great transformation look in practice? In a VET school, it is not one project. It is a set of action fields. Juliana Hilf names five.
+IMAGE-ALT = Solar installation technician working on a rooftop
+IMAGE-PATH = img/1280px-Solar_installation_technician_on_rooftop__5392894792_.jpg
+IMAGE-CAPTION = Solar installation technician on rooftop – CoCreatr (Flickr) – CC BY-SA 2.0
+INTRO-TEXT = """
+- **Green campus:** the buildings, energy and everyday life of the school
+- **Green curriculum:** what students learn
+- **Green community:** the school's role in its neighbourhood and region
+- **Green culture:** how sustainability is lived, not just taught
+- **Green research:** the school's own learning and innovation
+
+A solar technician is a small, concrete example of what "green campus" and "green curriculum" can look like together.
+"""
+NARRATION-1 = Here is the key point.
+KEY-MESSAGE = The action fields are where a school can actually build a handprint.
+NARRATION-2 = Check one of the fields.
+ACTIVATION-QUESTION = Which field covers the school's role in its neighbourhood and region? Complete: "green …" (one word)
+ACTIVATION-ANSWER = community
+ACTIVATION-HINT = It is the third item in the list.
+ACTIVATION-FEEDBACK = Green community. The five fields are green campus, curriculum, community, culture and research.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Where Do You Start?
+NARRATION-0 = Before you choose a starting point, rate yourself honestly. There is no wrong answer.
+GUIDING-QUESTION = How familiar are these three subtopics?
+NARRATION-1 = Six one, pathways towards a great transformation. How can a society move towards sustainability?
+ASPECT-1 = **6_1 Pathways towards a great transformation:** pathways, strategies and current debates
+NARRATION-2 = Six two, competences for sustainable development and change agency. What do you need to act?
+ASPECT-2 = **6_2 Competences and change agency:** which competences you need to act, and how to become a change agent
+NARRATION-3 = Six three, think global, act local. Case studies and your own plan.
+ASPECT-3 = **6_3 Think global, act local:** concrete case studies and your own action plan
+NARRATION-4 = And your own journal entry on the next pages carries over into six three.
+ASPECT-4 = **Your journal entry** in this session feeds the action plan in 6_3
+NARRATION-5 = Here is the recommendation. If all are new, start with six one. If you know six one, go on to six two. If you know both, start with six three. If you know all three, six three is still worthwhile, because only it ends with an action plan.
+WHY-IT-MATTERS = **All new?** Start with 6_1: it is the natural entry point. **Know 6_1?** Go to 6_2, the most personal subtopic. **Know 6_1 and 6_2?** Go to 6_3, the most practical. **Know all three?** Do 6_3 anyway: only it ends with an action plan.
+NARRATION-6 = Now mark what you already know, and use your answer to choose your next session.
+
+
+[Interactive_Exercise_Template_1.md]
+SLIDE-TITLE = Warm-up Check
+NARRATION-0 = Three short checks to make sure the core terms are clear before you move on.
+Q1-QUESTION = Which of Juliana Hilf's take-home messages says that a team is stronger than an individual?
+Q1-WRONG-1 = Be a change maker and let your colleagues, friends and students become change makers.
+Q1-CORRECT = Network with others: a team is stronger than an individual.
+Q1-WRONG-2 = Schools and TVET institutions play the role of a catalyst.
+Q1-HINT = Look for the message that is about working with other people.
+Q1-FEEDBACK = The fifth take-home message is about networking. The change-maker message is about inspiring people around you, and the catalyst message is about the role of schools.
+NARRATION-1 = Now the action fields.
+Q2-QUESTION = Which of the following are action fields in TVET?
+Q2-CORRECT-1 = Green campus
+Q2-WRONG-1 = Green footprint
+Q2-CORRECT-2 = Green culture
+Q2-WRONG-2 = Green budget
+Q2-HINT = The five fields are campus, curriculum, community, culture and research.
+Q2-FEEDBACK = "Green footprint" is a useful trap: a footprint is the negative, passive side of our impact, not a field where a school can act.
+NARRATION-2 = And one number.
+Q3-QUESTION = How many action fields in TVET does Juliana Hilf name? (number)
+Q3-ANSWER = 5
+Q3-HINT = Count the fields in the list.
+Q3-FEEDBACK = Five: green campus, curriculum, community, culture and research.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = One Thing You Could Start
+NARRATION-0 = The student's question now goes to you. It does not have to be big, and it does not have to be funded. It only has to be something you could start. Keep your answer, as it is the seed of your action plan in session six three.
+IMAGE-ALT = Solar installation technician working on a rooftop
+IMAGE-PATH = img/1280px-Solar_installation_technician_on_rooftop__5392894792_.jpg
+IMAGE-CAPTION = Solar installation technician on rooftop – CoCreatr (Flickr) – CC BY-SA 2.0
+CASE-TEXT = """
+Milica passes the student's question on to you. Your answer does not have to be big, and it does not have to be funded. It only has to be something you could start. **Keep a copy: it is the seed of your action plan in Session 6_3.**
+"""
+DATA-LABEL-1 = Individual
+DATA-VALUE-1 = everyday decisions, participation, social engagement
+DATA-LABEL-2 = Organisation
+DATA-VALUE-2 = work decisions in a school, campus or company
+DATA-LABEL-3 = Society
+DATA-VALUE-3 = democracy and politics
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, your idea.
+QUESTION-1 = Write down one concrete **handprint** idea for your own institution: a ministry, a school or a campus.
+MODEL-ANSWER-1 = """
+A good handprint idea is small enough to start and specific enough to name. A **ministry officer**: "We can add one green-skills indicator to the next curriculum review." A **school developer**: "I can offer one half-day workshop on green campus to the schools I support." A **principal**: "We can start a monthly energy-use check with our facilities team." They are not about changing the whole system. They add one concrete, visible step.
+"""
+NARRATION-Q-1 = Next, your level.
+QUESTION-2 = Which of the three levels do you have the most direct influence on in your current role? Name one concrete step you could take there.
+MODEL-ANSWER-2 = """
+Most **ministry officers** will say society, because they shape policy, standards and funding. Most **school developers** will say organisation, because they work directly with schools and teachers. Most **principals** will say organisation too, but at a different scale. What matters is naming one step you can actually take. The three levels are not a hierarchy of importance; they are three places where the same transformation happens.
+"""
+NARRATION-Q-2 = And finally, the student.
+QUESTION-3 = What would you answer the student who asks: "So what can we actually do?"
+MODEL-ANSWER-3 = """
+For example: "Some things you can do yourself, such as your everyday choices. Some we can do as a school, such as running our campus differently. And some only politics can decide, but you can take part in that too. And the skills you are learning here are themselves part of the answer."
+"""
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = Juliana's Take-Home Messages
+NARRATION-0 = Before you go on, keep Juliana Hilf's five take-home messages in mind. They are the thread that runs through the rest of this course.
+NARRATION-1 = The first message.
+TAKEAWAY-1 = Keep reminding yourself of the necessity and power of (Education for) Sustainable Development.
+NARRATION-2 = The second message.
+TAKEAWAY-2 = Green empowerment and competences matter more than just content.
+NARRATION-3 = The third message.
+TAKEAWAY-3 = Be a change maker, and let your colleagues, friends and students become change makers.
+NARRATION-4 = The fourth message.
+TAKEAWAY-4 = Schools and TVET institutions play the role of a catalyst for a sustainable economy, ecology and social equality.
+REMEMBER = Network with others: a team is stronger than an individual.
+NARRATION-5 = One last question.
+RECAP-QUESTION = Which statement about the handprint is correct?
+RECAP-WRONG-1 = It is the negative, passive side of our impact.
+RECAP-WRONG-2 = It is the same as the footprint.
+RECAP-CORRECT = It is the positive, active side of our impact.
+RECAP-HINT = Negative and passive, or positive and active?
+RECAP-FEEDBACK = The footprint is the negative, passive side, and the handprint the positive, active side. Education and empowerment together create a brainprint.
+NARRATION-6 = Choose your subtopic. If you follow the road, Milica needs a route for her whole plan in session six one.
+OUTLOOK = Choose your subtopic as recommended. In Session 6_1, Milica wants to see the route from a national target to her workshop.
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Hilf, J. (2024): *Introduction to the Sustainability Approach*. GIZ training, Day 1 – adapted
+- Hilf, J. (2025): *Models of Sustainability …*. GIZ workshop – adapted
+- Hilf, J. (2026): *Green TVET – Concepts and practical approaches*. Expert input – adapted
+- WBGU (2011): *World in Transition – A Social Contract for Sustainability* – summarised
+- Leal Filho, W. et al. (2021): Handling climate change education at universities. *Environmental Sciences Europe* 33, 109 – via Hilf
+- *Low Carbon Development Strategy Serbia 2023–2030* – https://unfccc.int/sites/default/files/resource/Low_Carbon_Development_Strategy_Serbia_2023-2030_with_2050_Projections.pdf – summarised
+- GIZ: *Teaching skills for green transformation* – https://www.giz.de/en/worldwide/123790.html – linked
+- Video: Kurzgesagt – "Can YOU Fix Climate Change?" – https://www.youtube.com/watch?v=yiw6_JakZFc – embedded
+- Image: CoCreatr – *Solar installation technician on rooftop* – CC BY-SA 2.0 – https://commons.wikimedia.org/wiki/File:Solar_installation_technician_on_rooftop_(5392894792).jpg – unchanged
+- Case: Milica Stojanović, Ravnica Technical School and the class of electricians are fictional – created for this course
+"""

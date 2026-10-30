@@ -1,0 +1,339 @@
+# GIZ Sustainability Onboarding 2_2 – Models of sustainability
+# Build:  python3 Build/build_course.py 2_2
+# Old version: Archive/Session_2_2/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 2_2 – Models of sustainability
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to session two two. Milica has a difficult meeting ahead with her school board, and she needs the right picture for it. If you can, turn the sound on.
+
+**Subtopic of Session 2 · about 30 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, principal of Ravnica Technical School, and her colleagues are fictional. So is the company partner in this session. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 2_2, Models of sustainability. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = Jobs or Climate?
+NARRATION-0 = A company partner asks Milica's school to expand a programme that trains workers for a resource-intensive industry. In a coal region, that is a sensitive request. At the board meeting, one sentence keeps coming back: jobs or climate?
+IMAGE-ALT = The doughnut model: a ring between the social foundation and the ecological ceiling
+IMAGE-PATH = img/1280px-Doughnut__economic_model_.jpg
+IMAGE-CAPTION = Doughnut (economic model) – Kate Raworth / Doughnut Economics Action Lab – CC BY-SA 4.0 – via Wikimedia Commons
+CASE-TEXT = """
+A company partner asks Ravnica Technical School to **expand a programme** that trains workers for a resource-intensive industry (school and company are fictional). The school lies in a coal region. At the board meeting, one sentence keeps coming back: *"Jobs or climate?"* Milica has seen several pictures of sustainability – one of them is shown here – and she wonders whether the picture she chooses changes the discussion.
+"""
+NARRATION-1 = Here is the question for this session.
+GUIDING-QUESTION = Which model of sustainability helps a school decide – and what does each model allow or forbid?
+NARRATION-2 = First, let us look at the region. How much does Serbia's electricity depend on coal?
+PREDICT-QUESTION = In 2024, about what share of electricity in Serbia came from lignite, a low-quality coal?
+PREDICT-CORRECT = About 60 %
+PREDICT-WRONG-1 = About 20 %
+PREDICT-WRONG-2 = About 90 %
+PREDICT-HINT = Hydro supplied most of the rest, gas about 5 % and wind about 3 %.
+PREDICT-FEEDBACK = Lignite supplied about 60 % of Serbia's electricity in 2024. Hydro supplied most of the rest, gas about 5 % and wind about 3 %.
+NARRATION-3 = And the Kolubara basin supplies much of that coal. So the board's question is real. Now we look at four models.
+OUTCOME = The **Kolubara** mining basin supplies about 75 % of the lignite used by the state power company EPS. So the board's question is real. Now you will see how four models frame it.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Four Models, One Decision
+NARRATION-0 = Here is today's path. You will meet four models and compare them. Then you can help Milica with the board.
+MODULE-1 = Three pillars
+MODULE-2 = Nested
+MODULE-3 = Doughnut
+MODULE-4 = Wedding cake
+MODULE-5 = Compare
+MILESTONE = Advise the board
+NARRATION-1 = After this session, you can do three things.
+KNOW-1 = Selected models, such as the three pillars and the doughnut
+CAN-1 = Distinguish the models from each other
+VALUE-1 = Seeing that a picture shapes a decision
+KNOW-2 = Trade-offs versus hard limits
+CAN-2 = Explain what each model allows and forbids, and discuss what that means for a VET decision
+VALUE-2 = Taking both people and limits seriously
+NARRATION-2 = A quick look at the path.
+ORDER-QUESTION = Which model comes directly after the nested model on today's path?
+ORDER-CORRECT = Doughnut
+ORDER-WRONG-1 = Three pillars
+ORDER-WRONG-2 = Wedding cake
+ORDER-HINT = Follow the arrows from left to right.
+ORDER-FEEDBACK = The doughnut comes third. It sets two hard limits, which makes it a useful contrast to the pillars.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = Model 1: The Three Pillars
+NARRATION-0 = Milica starts with the best-known model. It describes sustainability as three dimensions that must be balanced. It is easy to communicate, but look closely at what the picture suggests.
+IMAGE-ALT = Three overlapping circles representing the ecological, social and economic dimensions of sustainability
+IMAGE-PATH = img/1280px-Sustainable_development.svg.png
+IMAGE-CAPTION = Sustainable development – Johann Dréo (nojhan) – CC BY-SA 3.0 – via Wikimedia Commons
+INTRO-TEXT = """
+Three dimensions must be balanced: **ecological**, **social** and **economic**. Purvis, Mao and Robinson (2019) searched for the conceptual origins of this model.
+
+**Strengths:** it is easy to communicate, and it shows that sustainability is more than environmental protection.
+
+**Critique:** the picture suggests that the dimensions are equal and can be **traded against each other**, for example economic gains "compensating" for ecological damage. Some authors therefore add a **fourth dimension**, such as culture or governance (Michelsen et al. 2016; Mulligan 2018).
+"""
+NARRATION-1 = Here is the key point.
+KEY-MESSAGE = The pillar picture invites "balancing". That is its strength in conversation and its weakness in decisions.
+NARRATION-2 = Which dimension is missing in this sentence?
+ACTIVATION-QUESTION = The three pillars are ecological, social and … (one word)
+ACTIVATION-ANSWER = economic
+ACTIVATION-HINT = It is the dimension of jobs, companies and budgets.
+ACTIVATION-FEEDBACK = Ecological, social and economic. Ask yourself which of these gets the most attention in your own institution.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = Model 2: The Nested Model
+NARRATION-0 = The nested model, sometimes called the Russian-doll model, draws the same three dimensions differently. Nothing can happen outside the environment.
+IMAGE-ALT = Nested circles showing the economy inside society and society inside the environment
+IMAGE-PATH = img/1280px-Nested_sustainability-v2.svg.png
+IMAGE-CAPTION = Nested sustainability-v2 – KTucker – CC BY-SA 3.0 – via Wikimedia Commons
+INTRO-TEXT = """
+The **economy sits inside society**, and **society sits inside the environment**. The economy depends on society, and both depend on the environment.
+
+This is the counter-image to equal pillars: the environment sets the frame. It links to the idea of **strong sustainability** from Session 2_1: the ecological dimension is not exchangeable.
+"""
+NARRATION-1 = The picture is about dependence.
+KEY-MESSAGE = The nested model is a picture of dependence, so trade-offs are limited: the environment does not sit next to the others as an equal partner.
+NARRATION-2 = Check the order of the picture.
+ACTIVATION-QUESTION = In the nested model, the economy is drawn inside … (one word)
+ACTIVATION-ANSWER = society
+ACTIVATION-HINT = Economy inside this, and this inside the environment.
+ACTIVATION-FEEDBACK = The economy sits inside society, and society sits inside the environment.
+
+
+[Media_Template_2.md]
+SLIDE-TITLE = Model 3: The Doughnut
+NARRATION-0 = Kate Raworth's doughnut draws two boundaries. Look at the numbered parts one by one.
+IMAGE-ALT = The doughnut model: a green ring between an inner social foundation and an outer ecological ceiling
+IMAGE-PATH = img/1280px-Doughnut__economic_model_.jpg
+SPOT-1-X = 48%
+SPOT-1-Y = 68.3%
+SPOT-2-X = 24%
+SPOT-2-Y = 49.4%
+SPOT-3-X = 48%
+SPOT-3-Y = 78.3%
+NARRATION-1 = Number one is the inner ring, the social foundation.
+PART-1 = Social foundation
+PART-TEXT-1 = The inner ring: the minimum every person needs, for example food, health, education and work. Falling short of it is a **shortfall**.
+NARRATION-2 = Number two is the safe and just space, between the rings.
+PART-2 = Safe and just space
+PART-TEXT-2 = The ring **between** the two boundaries. The economy is a means of staying here, not a pillar of equal weight.
+NARRATION-3 = Number three is the outer ring, the ecological ceiling.
+PART-3 = Ecological ceiling
+PART-TEXT-3 = The outer ring: the planetary limits humanity should not overshoot. Going beyond it is an **overshoot**. Both shortfall and overshoot are failures, so the doughnut does **not** allow trade-offs. The Doughnut Economics Action Lab describes 12 dimensions of the social foundation and 9 planetary boundaries of the ceiling. [CHECK: Juliana – confirm we want these numbers on the page]
+LABEL-TITLE = Label the Doughnut
+NARRATION-LABEL-0 = Now you label it. Drag each name to its number.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = The Doughnut in 90 Seconds
+NARRATION-0 = Here is a short introduction by Kate Raworth herself. Read the two things to watch for, then press play.
+WATCH-FOR-1 = the two rings of the doughnut
+WATCH-FOR-2 = where the "safe and just space" is
+VIDEO-ALT = What is Doughnut Economics? With Kate Raworth
+VIDEO-URL = https://www.youtube.com/watch?v=kxQeb2PDz9M
+VIDEO-CAPTION = What is Doughnut Economics? – with Kate Raworth (1:36)
+VIDEO-SUMMARY = """
+The doughnut has a floor (the social foundation) and a ceiling (the ecological limits). The safe and just space is the ring between them.
+
+To go deeper, watch Kate Raworth's [TED talk "A healthy economy should be designed to thrive, not grow" (about 16 minutes)](https://www.youtube.com/watch?v=Rhcrbcg8HBw). It is fine to watch it in parts. Watch for what "overshoot" and "shortfall" mean in her picture.
+"""
+NARRATION-1 = What does the model say?
+Q1-QUESTION = Which statement describes the doughnut model?
+Q1-WRONG-1 = It treats ecology, society and economy as equal and exchangeable.
+Q1-CORRECT = It defines a lower social limit and an upper ecological limit.
+Q1-WRONG-2 = Falling short of the social foundation is acceptable if the economy grows.
+Q1-HINT = In the doughnut, both going below the inner ring and going above the outer ring count as failure.
+Q1-FEEDBACK = The doughnut defines a floor and a ceiling. Treating the dimensions as exchangeable is exactly what it rejects, and growth does not "buy" a pass for missing social needs.
+NARRATION-2 = And one word to type.
+Q2-QUESTION = The safe and just space lies between the social foundation and the ecological … (one word)
+Q2-ANSWER = ceiling
+Q2-HINT = It is the opposite of a floor.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Model 4: The Wedding Cake
+NARRATION-0 = Stefan brings a fourth model. The Stockholm Resilience Centre arranged the Sustainable Development Goals as a wedding cake. Read what to watch for. The original graphic is linked in the sources.
+WATCH-FOR-1 = the order of the layers
+WATCH-FOR-2 = why the biosphere sits at the bottom of the cake
+VIDEO-ALT = Wedding Cake model of the Sustainable Development Goals
+VIDEO-URL = https://www.youtube.com/watch?v=Wu8xvzIPRhM
+VIDEO-CAPTION = Lyndsay Walsh – Wedding Cake model of the Sustainable Development Goals (1:42)
+VIDEO-SUMMARY = The Stockholm Resilience Centre (2016) arranged the SDGs as a wedding cake: biosphere-related goals form the base layer, society goals the middle layer, and economy goals the top. Economies and societies are embedded in the biosphere.
+NARRATION-1 = Where is the biosphere?
+Q1-QUESTION = In the SDG wedding cake, where do biosphere-related goals sit?
+Q1-WRONG-1 = At the top
+Q1-CORRECT = At the base
+Q1-WRONG-2 = In the middle
+Q1-HINT = What carries everything else?
+Q1-FEEDBACK = The biosphere is at the base, society in the middle and the economy on top: economies and societies are embedded in the biosphere.
+NARRATION-2 = And one more word.
+Q2-QUESTION = Which layer of the cake is on top? (one word)
+Q2-ANSWER = economy
+Q2-HINT = It rests on society, and both rest on the biosphere.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = The Layers of the Cake
+NARRATION-0 = Here is the grouping used in this course, from Juliana Hilf, 2026. Note it as a memory aid.
+GUIDING-QUESTION = Which SDGs belong to which layer in this course's grouping (Hilf 2026)?
+NARRATION-1 = The base, the foundation, is the environment.
+ASPECT-1 = **Environment, the foundation:** SDGs 6, 13, 14, 15
+NARRATION-2 = The middle, the core, is society.
+ASPECT-2 = **Society, the core:** SDGs 1, 2, 3, 4, 5, 11, 16
+NARRATION-3 = The top, the challenge, is the economy.
+ASPECT-3 = **Economy, the challenge:** SDGs 8, 9, 10, 12
+NARRATION-4 = And the order is the point.
+ASPECT-4 = **The order is the point:** the economy rests on society, and both rest on the biosphere
+NARRATION-5 = Why this matters for your work: a school can find its own programmes in these layers.
+WHY-IT-MATTERS = Education (SDG 4) sits in the society core, decent work (SDG 8) in the economy challenge and climate action (SDG 13) in the environment foundation. VET touches all three layers.
+NARRATION-6 = Which of these did you already know?
+
+
+[Concept_Explanation_Template_2.md]
+SLIDE-TITLE = Pillars or Doughnut?
+NARRATION-0 = Milica compares the two models that matter most for her board. The nested model sits in between: its trade-offs are limited, because the environment sets the frame.
+CONCEPT-A = Three pillars
+CONCEPT-B = Doughnut
+CRITERION-1 = Picture
+A-1 = three equal pillars or overlapping circles
+B-1 = a ring between a floor and a ceiling
+CRITERION-2 = Trade-offs
+A-2 = possible ("balance")
+B-2 = not allowed: two hard limits
+CRITERION-3 = Fits
+A-3 = weak sustainability
+B-3 = strong sustainability and social justice
+CRITERION-4 = Good for
+A-4 = starting a conversation
+B-4 = decisions involving limits
+NARRATION-1 = Here is how each model frames the coal region.
+EXAMPLE-A = Jobs in coal regions (social, economic) can be "balanced" against emissions (ecological).
+EXAMPLE-B = Decent jobs for coal workers and the climate are both hard limits. The question becomes *how* to move into the safe space: a just transition, new green skills.
+NARRATION-2 = Here is a common error.
+MISCONCEPTION = "The nested model shows that the economy is the most important part." It shows the opposite: the economy depends on society and on the environment.
+NARRATION-3 = Now you decide. Which model does each feature belong to?
+STATEMENT-1 = Allows balancing between dimensions
+STATEMENT-2 = Going below the inner ring counts as failure
+STATEMENT-3 = Easy to use for starting a conversation
+STATEMENT-4 = Economic activity is a means of staying inside the safe space
+CLASSIFY-HINT = Ask for each model: what does its picture forbid?
+CLASSIFY-FEEDBACK = The pillars allow trade-offs, which is also the main critique. The doughnut sets two hard limits. Many practitioners use the pillars to start a conversation and the doughnut to guide decisions.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Milica Before the Board
+NARRATION-0 = Now you help Milica prepare. The company wants the programme expanded. Look at the figures for the region once more, and then answer as if you were on the board.
+IMAGE-ALT = The doughnut model: a ring between the social foundation and the ecological ceiling
+IMAGE-PATH = img/1280px-Doughnut__economic_model_.jpg
+IMAGE-CAPTION = Doughnut (economic model) – Kate Raworth / Doughnut Economics Action Lab – CC BY-SA 4.0
+CASE-TEXT = """
+**The request (fictional):** a company partner asks the school to expand a programme for a resource-intensive industry in a coal region.
+
+**The real context in Serbia:**
+"""
+DATA-LABEL-1 = Electricity from lignite (2024)
+DATA-VALUE-1 = about 60 %
+DATA-LABEL-2 = Gas / wind (2024)
+DATA-VALUE-2 = about 5 % / about 3 %
+DATA-LABEL-3 = Kolubara's share of EPS lignite
+DATA-VALUE-3 = about 75 %
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, choose your model. Write your answer, then compare.
+QUESTION-1 = Which model helps Milica discuss the request most productively with the board, and why?
+MODEL-ANSWER-1 = """
+**The doughnut:** it keeps decent work (social foundation) and the climate (ecological ceiling) both as hard limits. The discussion shifts from "jobs *or* climate" to "how do we get into the safe space", for example through a just transition and new green skills. The pillar framing invites exactly the trade-off the critique warns about, and the nested model shows dependence on nature – the opposite of "the economy is most important".
+"""
+NARRATION-Q-1 = Next, apply one model yourself.
+QUESTION-2 = Explain one model in three sentences, and apply it to one VET programme in Serbia.
+MODEL-ANSWER-2 = """
+Name the model, state its rule, and make a programme-level claim. With the **doughnut**: "The doughnut sets a social floor and an ecological ceiling, and allows no trade-offs between them. For a VET school in a coal region, a programme for battery maintenance and renewable-installation work is not a 'green alternative' to the old programme. It is the way to keep the social floor while respecting the ceiling." A ministry officer might apply it to funding rules, and a school developer might use the **nested** model instead: every programme decision sits inside the local labour market, and that sits inside the regional energy system. What matters is that the model's rule drives the claim.
+"""
+NARRATION-Q-2 = Finally, look at your own institution.
+QUESTION-3 = Which pillar gets the most attention in your institution today, and which the least?
+MODEL-ANSWER-3 = """
+In many VET schools the **economic pillar** gets the most attention: placement rates, company partnerships and labour-market relevance are the daily language. The **ecological pillar** often gets the least, appearing as energy-saving measures rather than a design principle. A ministry officer might see this in funding rules, and a school developer in curricula that mention "green" only in one elective. Notice which pillar your institution defaults to, because that reveals which trade-offs are invisible there.
+"""
+
+
+[Summary_Recap_Template_2.md]
+SLIDE-TITLE = Exit Ticket
+NARRATION-0 = Three short questions, one per objective. You can repeat them as often as you like.
+OBJECTIVE-1 = Pillars
+Q1-QUESTION = What is the main critique of the three-pillar model?
+Q1-CORRECT = It suggests that damage in one dimension can be compensated by gains in another.
+Q1-WRONG-1 = It is too complicated to communicate.
+Q1-WRONG-2 = It ignores the social dimension.
+Q1-HINT = Think about what a picture of three equal pillars implies.
+NARRATION-1 = Next, the nested model.
+OBJECTIVE-2 = Nested model
+Q2-QUESTION = Which statements apply to the nested model?
+Q2-CORRECT-1 = The economy is drawn inside society.
+Q2-WRONG-1 = It allows trade-offs in the same way as the three-pillar model.
+Q2-CORRECT-2 = Society is drawn inside the environment.
+Q2-HINT = It is a picture of dependence.
+NARRATION-2 = And one number, from the wedding cake.
+OBJECTIVE-3 = Wedding cake
+Q3-QUESTION = How many SDGs does the economy layer hold in this course's grouping? (number)
+Q3-ANSWER = 4
+Q3-HINT = The economy layer holds SDGs 8, 9, 10 and 12.
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Milica Says to the Board
+NARRATION-0 = Milica stands up at the board meeting. She draws one picture on the board.
+NARRATION-1 = First, the pillars are a starting point.
+TAKEAWAY-1 = **Three pillars:** easy to communicate, but they invite trade-offs.
+NARRATION-2 = Second, the nested model shows dependence.
+TAKEAWAY-2 = **Nested:** the economy sits inside society, and society inside the environment.
+NARRATION-3 = Third, the doughnut sets two hard limits.
+TAKEAWAY-3 = **Doughnut:** a social floor and an ecological ceiling, with no trade-offs.
+NARRATION-4 = Fourth, the wedding cake arranges the goals.
+TAKEAWAY-4 = **Wedding cake:** the SDGs in layers, with the biosphere at the base.
+REMEMBER = Use the pillars to start a conversation and the doughnut to guide decisions.
+NARRATION-5 = One last question.
+RECAP-QUESTION = Which model turns "jobs or climate" into "how do we reach the safe space"?
+RECAP-WRONG-1 = The three pillars
+RECAP-WRONG-2 = None of them
+RECAP-CORRECT = The doughnut
+RECAP-HINT = Which model has two hard limits?
+RECAP-FEEDBACK = The doughnut keeps decent work and the climate both as hard limits, so the discussion moves to how to reach the safe space.
+NARRATION-6 = The board asks Milica to map her programmes against the global goals. But what exactly do these goals say about electricians? That is session two three.
+OUTLOOK = Session 2_3, *Sustainable Development Goals*. Milica and Stefan map the electrician curriculum against the goals.
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Hilf, J. (2024): *Introduction to the Sustainability Approach* – GIZ training, Day 1 – adapted
+- Hilf, J. (2025): *Models of Sustainability …* – GIZ workshop – adapted
+- Hilf, J. (2026): *Green TVET – Concepts and practical approaches* – expert input – adapted (SDG grouping)
+- Hilf, J. (2026): *C1 Sustainability: origins and concepts* (course sample) – adapted
+- Purvis, B., Mao, Y. & Robinson, D. (2019): *Three pillars of sustainability: in search of conceptual origins*. Sustainability Science 14, 681–695 – https://doi.org/10.1007/s11625-018-0627-5 – via Hilf – linked
+- Michelsen, G. et al. (2016); Mulligan, M. (2018): *An Introduction to Sustainability*. Routledge – via Hilf – linked
+- Doughnut Economics Action Lab: *What is the Doughnut?* – https://doughnuteconomics.org/tools/what-is-the-doughnut – CC BY-SA 4.0 – summarised
+- Stockholm Resilience Centre (2016): *The SDGs wedding cake* – https://www.stockholmresilience.org/research/research-news/2016-06-14-the-sdgs-wedding-cake.html – linked (graphic not copied)
+- CEE Bankwatch Network: *The energy sector in Serbia* – https://bankwatch.org/beyond-coal/the-energy-sector-in-serbia – summarised
+- TED – Kate Raworth: *A healthy economy should be designed to thrive, not grow* – https://www.youtube.com/watch?v=Rhcrbcg8HBw – linked
+- *What is Doughnut Economics? – with Kate Raworth* – https://www.youtube.com/watch?v=kxQeb2PDz9M – embedded
+- Lyndsay Walsh: *Wedding Cake model of the Sustainable Development Goals* – https://www.youtube.com/watch?v=Wu8xvzIPRhM – embedded
+- Kate Raworth / Doughnut Economics Action Lab: *Doughnut (economic model)* – CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Doughnut_(economic_model).jpg – unchanged, numbered markers added in the session
+- Johann Dréo (nojhan): *Sustainable development.svg* – CC BY-SA 3.0 – https://commons.wikimedia.org/wiki/File:Sustainable_development.svg – unchanged
+- KTucker: *Nested sustainability-v2.svg* – CC BY-SA 3.0 – https://commons.wikimedia.org/wiki/File:Nested_sustainability-v2.svg – unchanged
+- Case: Milica Stojanović, Ravnica Technical School, the company partner and the board meeting are fictional – created for this course
+"""

@@ -1,0 +1,324 @@
+# GIZ Sustainability Onboarding 1_1 – Origin of the term “sustainability”
+# Build:  python3 Build/build_course.py 1_1
+# Old version: Archive/Session_1_1/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 1_1 – Origin of the term “sustainability”
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to session one one. Milica has a budget decision to make, and the best adviser she can find died more than three hundred years ago. If you can, turn the sound on.
+
+**Subtopic of Session 1 · about 30 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, principal of Ravnica Technical School, and her colleagues are fictional. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 1_1, Origin of the term sustainability. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = Buy New, or Keep What You Have?
+NARRATION-0 = Milica has a limited budget for workshop equipment. One option is to buy new machines every few years. The other is to buy fewer, high-quality machines now, and to budget for their maintenance and gradual replacement. Stefan laughs: you should ask a forester from the year 1700.
+IMAGE-ALT = Portrait of Hans Carl von Carlowitz, engraving
+IMAGE-PATH = img/Hans_Carl_von_Carlowitz.jpg
+IMAGE-CAPTION = Hans Carl von Carlowitz – Martin Bernigeroth (engraving, 18th century) – public domain – via Wikimedia Commons
+CASE-TEXT = """
+Milica has a limited budget for workshop equipment (fictional). **Option A:** buy new machines every few years. **Option B:** buy fewer, high-quality machines now, and budget for their long-term maintenance and gradual replacement. Stefan laughs: *"Ask this man."* Hans Carl von Carlowitz (1645–1714) was the Saxon chief mining official in Freiberg, and he faced a very similar problem with wood.
+"""
+NARRATION-1 = So what can a mining official of the eighteenth century teach a school principal?
+GUIDING-QUESTION = Where does the word "sustainability" come from – and what can its origin teach us about resources in VET?
+NARRATION-2 = What do you think Carlowitz recommended?
+PREDICT-QUESTION = Which statement best describes Carlowitz' core rule?
+PREDICT-CORRECT = Cut only as much wood as can grow back.
+PREDICT-WRONG-1 = Forests must be protected and never used.
+PREDICT-WRONG-2 = Wood should be traded to other countries.
+PREDICT-HINT = His rule allows use, but with a limit. What is the limit?
+PREDICT-FEEDBACK = Carlowitz' rule was sustained use: harvest no more than regrows. He did not call for banning use, or for trade. Use is allowed, but only within the forest's ability to recover.
+NARRATION-3 = That rule is more than three hundred years old. By the end of this session, you can apply it to Milica's workshop.
+OUTCOME = Use is allowed, but only within the ability to recover. By the end of this session, you can apply this idea to Milica's workshop budget.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Today's Path
+NARRATION-0 = Here is today's path, from an everyday word to a rule for resources.
+MODULE-1 = Everyday language
+MODULE-2 = Roots of the word
+MODULE-3 = Carlowitz
+MODULE-4 = Four components
+MODULE-5 = Interest and capital
+MILESTONE = Decide on the budget
+NARRATION-1 = After this session, you can do three things.
+KNOW-1 = Where the term "sustainability" comes from
+CAN-1 = Explain its origin, and outline its early use in environmental and resource management debates
+VALUE-1 = Precaution and self-limitation
+KNOW-2 = The core idea: "live from the interest, not from the capital"
+CAN-2 = Apply this idea to resources of the VET system
+VALUE-2 = Fairness towards future generations
+NARRATION-2 = A quick look at the path.
+ORDER-QUESTION = Which step comes directly before the budget decision?
+ORDER-CORRECT = Interest and capital
+ORDER-WRONG-1 = Carlowitz
+ORDER-WRONG-2 = Roots of the word
+ORDER-HINT = Follow the arrows from left to right.
+ORDER-FEEDBACK = The money metaphor of interest and capital gives Milica what she needs for her budget.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Two Everyday Meanings
+NARRATION-0 = Milica starts with the dictionary. The word is used in two ways in everyday language. The second meaning is easy to miss.
+GUIDING-QUESTION = What does "sustainable" mean in everyday language?
+NARRATION-1 = The Oxford dictionary gives this first meaning.
+ASPECT-1 = **Oxford, meaning 1:** using natural products and energy in a way that does not harm the environment
+NARRATION-2 = And this second meaning.
+ASPECT-2 = **Oxford, meaning 2:** being able to continue, or be continued, for a long time
+NARRATION-3 = In everyday German, nachhaltig still means lasting, for example a lasting success.
+ASPECT-3 = **German *nachhaltig*:** "lasting, having a long-term effect", as in a "nachhaltiger Erfolg" (a lasting success)
+NARRATION-4 = And in Serbian, the word is održiv.
+ASPECT-4 = **Serbian *održivost*:** from *održati*, to keep, to maintain. [CHECK: Juliana / GIZ Serbia – confirm and add one sentence on how the term is used in Serbian VET documents]
+NARRATION-5 = Here is a question for your own work. In your work, is the word used as an environmental term, as long-lasting, or as a buzzword in project texts? There is no right answer.
+WHY-IT-MATTERS = The word is older than the environmental debate. In your work, is "sustainable" (or *održiv*) used mostly as an environmental term, as "long-lasting", or as a buzzword in project texts? There is no right answer: it is a starting point for your own reflection.
+NARRATION-6 = Which of these meanings did you already know?
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = The Roots of the Word
+NARRATION-0 = The modern German word Nachhaltigkeit goes back to the noun Nachhalt. It describes an old survival strategy. Do not use everything today. Keep something for a hard winter.
+IMAGE-ALT = Title page of Sylvicultura oeconomica, 1713
+IMAGE-PATH = img/Carlowitz_Sylvicultura.jpg
+IMAGE-CAPTION = Sylvicultura oeconomica, title page – Hans Carl von Carlowitz (1713) – public domain – via Wikimedia Commons
+INTRO-TEXT = """
+The modern German word *Nachhaltigkeit* goes back to the noun *Nachhalt*. It originally meant "support, backing" or "what is held back": reserves kept for times of scarcity. It describes an old survival strategy of **precaution and self-limitation**.
+
+The adjective *nachhaltig* / *nachhalten* is documented in German by the end of the 18th century. [CHECK: Juliana – confirm the dating; Carlowitz used "nachaltende" already in 1713]
+"""
+NARRATION-1 = This explains a lot.
+KEY-MESSAGE = At its root, sustainability is about **not using everything at once**.
+NARRATION-2 = Check the meaning.
+ACTIVATION-QUESTION = *Nachhalt* originally meant what is held back for times of scarcity. What is the English word for this? (one word, plural)
+ACTIVATION-ANSWER = reserves
+ACTIVATION-HINT = Think of what you keep aside for a hard winter.
+ACTIVATION-FEEDBACK = Reserves. It is a strategy of precaution and self-limitation, not a tree or a trade rule.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = Carlowitz and the Wood Crisis
+NARRATION-0 = Now to the man himself. In the eighteenth century, German-speaking territories faced a severe wood shortage. In 1713, Carlowitz published the first systematic description of sustainable forestry.
+IMAGE-ALT = Portrait of Hans Carl von Carlowitz, engraving
+IMAGE-PATH = img/Hans_Carl_von_Carlowitz.jpg
+IMAGE-CAPTION = Hans Carl von Carlowitz – Martin Bernigeroth (engraving, 18th century) – public domain
+INTRO-TEXT = """
+In the 18th century, German-speaking territories faced a severe **wood shortage**. Forests were over-used for timber trade, war, mining and smelting, tanning and glass-making. Forests shrank, and erosion and soil degradation threatened whole regions.
+
+**Hans Carl von Carlowitz (1645–1714)** was the Saxon chief mining official (*Oberberghauptmann*) in Freiberg. In **1713** he published *Sylvicultura oeconomica*. He called for a "continuous, steady and *nachaltende* (sustained) use" of forests.
+
+He also argued **economically**: a country that destroys its forests destroys the basis of its own economy. For him, sustainability was a smart long-term strategy, not altruism.
+"""
+NARRATION-1 = His core rule was simple.
+KEY-MESSAGE = **Cut only as much wood as can grow back** through reforestation.
+NARRATION-2 = Check the year.
+ACTIVATION-QUESTION = In which year did Carlowitz publish *Sylvicultura oeconomica*? (4 digits)
+ACTIVATION-ANSWER = 1713
+ACTIVATION-HINT = It was the year before he died (he lived 1645–1714).
+ACTIVATION-FEEDBACK = 1713. It was a response to the wood shortage of his time.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = From Forests to a Social Goal
+NARRATION-0 = In this video of about five minutes, a historian tells the story. Read what to watch for, then press play.
+WATCH-FOR-1 = why the idea started with forests and wood
+WATCH-FOR-2 = how it moved from a technical rule to a social goal
+VIDEO-ALT = Sustainability – A History, by Jeremy L. Caradonna
+VIDEO-URL = https://www.youtube.com/watch?v=hho1h7OR6l8
+VIDEO-CAPTION = Oxford Academic (OUP) – Sustainability – A History by Jeremy L. Caradonna (5:30)
+VIDEO-SUMMARY = The video (Oxford Academic, 5:30) tells how the idea of sustainability started with forests and wood, and how it moved from a technical rule to a social goal.
+NARRATION-1 = How did Carlowitz argue?
+Q1-QUESTION = How did Carlowitz argue for sustained use of forests?
+Q1-WRONG-1 = Only ecologically: nature must be protected for its own sake.
+Q1-CORRECT = Also economically: a country that destroys its forests destroys the basis of its own economy.
+Q1-WRONG-2 = Only from a trade perspective: wood should go to other countries.
+Q1-HINT = He was a mining official, responsible for an economy.
+Q1-FEEDBACK = For Carlowitz, sustainability was a smart long-term strategy, not altruism. Mining and smelting depended on wood.
+NARRATION-2 = And one more word.
+Q2-QUESTION = Carlowitz' rule was sustained … : harvest no more than regrows. (one word)
+Q2-ANSWER = use
+Q2-HINT = It means the opposite of not touching the forest at all.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Four Core Components
+NARRATION-0 = Carlowitz' idea was developed further by Georg Ludwig Hartig, in his work of 1804. Hartig wrote that the present generation should use the forest as much as possible, but so that the descendants can draw at least as much advantage from it. It contains four core components.
+GUIDING-QUESTION = What does forest sustainability consist of?
+NARRATION-1 = First, long-term thinking.
+ASPECT-1 = **Long-term thinking:** the forest's services (timber, water storage, erosion protection, habitat) must be secured continuously; planning over decades to centuries
+NARRATION-2 = Second, social obligation.
+ASPECT-2 = **Social obligation:** forests also serve public functions; public interests can limit private property rights
+NARRATION-3 = Third, economy.
+ASPECT-3 = **Economy:** sustainability does not mean "no use", but economic use with planned protection of the resource
+NARRATION-4 = And fourth, responsibility.
+ASPECT-4 = **Responsibility:** awareness of the forest's importance for future generations
+NARRATION-5 = And that is an early form of a very modern idea.
+WHY-IT-MATTERS = **Hartig (1764–1837)** wrote in his work of 1804 that the present generation should use the forest, but so "that the descendants can draw at least as much advantage from it". This is an early form of **intergenerational justice**: fairness towards future generations.
+NARRATION-6 = Which of these components did you already know?
+
+
+[Concept_Explanation_Template_2.md]
+SLIDE-TITLE = Live from the Interest
+NARRATION-0 = The forest idea is often explained with a money metaphor. A forest is managed sustainably if the annual harvest equals the annual growth. This is also how Milica looks at her budget.
+CONCEPT-A = Interest
+CONCEPT-B = Capital
+CRITERION-1 = In a forest
+A-1 = the annual growth
+B-1 = the stock of trees
+CRITERION-2 = Sustainable use
+A-2 = may be used
+B-2 = stays intact
+CRITERION-3 = In a school workshop
+A-3 = the value the workshop produces year after year
+B-3 = the working capacity: machines, trained staff, the budget line for maintenance
+CRITERION-4 = Warning sign
+A-4 = the harvest of a year is larger than the growth
+B-4 = the stock is shrinking
+NARRATION-1 = Here are two examples.
+EXAMPLE-A = The wood that regrows in one year
+EXAMPLE-B = The pipeline of qualified teachers, which must not shrink below what schools need
+NARRATION-2 = There is one error to avoid.
+MISCONCEPTION = "Sustainability means no use." Carlowitz' rule was to use the resource, but not to destroy the stock that produces it. Profit maximisation, on the other hand, is the opposite of the idea.
+NARRATION-3 = Now you sort them.
+STATEMENT-1 = What may be used each year
+STATEMENT-2 = What must be kept intact
+STATEMENT-3 = The annual growth of a forest
+STATEMENT-4 = The stock of experienced teachers
+CLASSIFY-HINT = "Live from the interest, not from the capital." Which one do you use, and which one do you keep?
+CLASSIFY-FEEDBACK = The growth is the interest, and it can be used. The stock is the capital, and it must stay intact. For a long time this principle stayed in specialised fields such as forestry. Only in the second half of the 20th century did it become a global idea.
+
+
+[Interactive_Exercise_Template_1.md]
+SLIDE-TITLE = From Forest to Global Goal
+NARRATION-0 = Only in the second half of the twentieth century did the principle become a global idea. The Brundtland Report of 1987 put sustainable development at the centre of the international debate. Details follow in session one two. First, a question about the Serbian word.
+Q1-QUESTION = The Serbian word *održivost* comes from *održati*. What does *održati* mean?
+Q1-WRONG-1 = To cut down
+Q1-CORRECT = To keep, to maintain
+Q1-WRONG-2 = To trade
+Q1-HINT = Think of the everyday sentence "održavati vezu": to keep in touch.
+Q1-FEEDBACK = *Održati* means to keep, to maintain, very close to the Carlowitz idea of keeping a stock intact. The Serbian word already carries the core meaning of sustainability.
+NARRATION-1 = Next, the four components.
+Q2-QUESTION = Which of these are core components of forest sustainability?
+Q2-CORRECT-1 = Long-term thinking
+Q2-WRONG-1 = Profit maximisation
+Q2-CORRECT-2 = Social obligation
+Q2-WRONG-2 = A ban on all use
+Q2-HINT = The four are long-term thinking, social obligation, economy and responsibility.
+Q2-FEEDBACK = The four components are long-term thinking, social obligation, economy and responsibility. The component is economy: economic use with planned protection, not unlimited profit.
+NARRATION-2 = And the Brundtland definition. Sustainable development meets the needs of the present without compromising the ability of future generations to meet their own needs.
+Q3-QUESTION = Brundtland (WCED, 1987): "Sustainable development is development that meets the needs of the present without compromising the ability of future ______ to meet their own needs." (one word)
+Q3-ANSWER = generations
+Q3-HINT = It is about the people who come after us.
+Q3-FEEDBACK = Generations. The definition connects the needs of people living today with the ability of future generations to meet their own needs.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Back to the Workshop Budget
+NARRATION-0 = Back to Milica's budget. Forestry, by the way, is still a sustainability arena in Serbia today. The Strategy for Low Carbon Development covers it. The original forest of sustainability is still part of national planning.
+IMAGE-ALT = Title page of Sylvicultura oeconomica, 1713
+IMAGE-PATH = img/Carlowitz_Sylvicultura.jpg
+IMAGE-CAPTION = Sylvicultura oeconomica, title page – Carlowitz (1713) – public domain
+CASE-TEXT = """
+**Option A:** buy new machines every few years. **Option B:** buy fewer, high-quality machines now, and budget for maintenance and gradual replacement. (The school is fictional.)
+
+Forestry is still a sustainability arena in Serbia: the *Strategy for Low Carbon Development 2023–2030 with projections until 2050* (Official Gazette No. 46/2023) covers energy, industry, transport, agriculture, **forestry** and waste.
+"""
+DATA-LABEL-1 = Carlowitz' rule
+DATA-VALUE-1 = cut only as much as can grow back
+DATA-LABEL-2 = The "stock" of a school
+DATA-VALUE-2 = machines, trained staff, the budget line
+DATA-LABEL-3 = The test
+DATA-VALUE-3 = if the harvest of a year is larger than the growth, the stock is shrinking
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, Milica's decision. Write your answer, then compare.
+QUESTION-1 = Which option fits the Carlowitz principle, and why?
+MODEL-ANSWER-1 = """
+**Option B.** Carlowitz' rule was to use the resource, but not to destroy the stock that produces it. In a school, the "stock" is the working capacity of the workshop: the machines, the trained staff who can maintain them, and the budget line that keeps them running. Buying new machines every few years spends the "capital". Maintaining and gradually replacing a smaller set of good machines keeps the stock intact and lets the school "live from the interest". A ministry officer might frame it the same way: fund maintenance lines, not only new purchases.
+"""
+NARRATION-Q-1 = Now your own area.
+QUESTION-2 = Name one concrete "stock" that your VET system must keep intact. What would "sustained use" look like for it?
+MODEL-ANSWER-2 = """
+A **ministry officer** might name the pipeline of qualified teachers: sustained use means planning replacement and continuing education. A **school developer** might name company partnerships: maintain the relationship, instead of activating it only when a new programme is launched. A **principal** might name the school's reputation or the buildings: a maintenance budget keeps the stock usable for decades.
+"""
+NARRATION-Q-2 = And finally, what is being over-used today?
+QUESTION-3 = Which resource in your area of responsibility is being "over-used" today, like the forests in the 18th century?
+MODEL-ANSWER-3 = """
+Common answers: the time of teachers and pedagogical advisors, who take on more tasks without replacement; the trust of companies in VET partnerships, which is spent when schools cannot deliver on promises; or a school's budget, used for visible projects while maintenance is postponed. A Carlowitz-style rule would be to plan the resource's recovery before the next demand round.
+"""
+
+
+[Summary_Recap_Template_2.md]
+SLIDE-TITLE = Exit Ticket
+NARRATION-0 = Three short questions, one per objective. You can repeat them as often as you like.
+OBJECTIVE-1 = Origin of the word
+Q1-QUESTION = What did the German word *Nachhalt* originally mean?
+Q1-CORRECT = Reserves kept for times of scarcity
+Q1-WRONG-1 = A type of forest tree
+Q1-WRONG-2 = A rule for international trade
+Q1-HINT = Think of an old survival strategy: what do you keep aside for a hard winter?
+NARRATION-1 = Next, key terms.
+OBJECTIVE-2 = Key terms
+Q2-QUESTION = Which pairs of term and meaning are correct?
+Q2-CORRECT-1 = Sustained yield: harvest no more than regrows
+Q2-WRONG-1 = Intergenerational justice: fairness only among people alive today
+Q2-CORRECT-2 = Precaution: acting early to avoid harm
+Q2-HINT = "Inter" means between generations.
+NARRATION-2 = And one number.
+OBJECTIVE-3 = Hartig
+Q3-QUESTION = How many core components of forest sustainability did this session name? (number)
+Q3-ANSWER = 4
+Q3-HINT = Long-term thinking, social obligation, economy and …
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = Milica's Decision
+NARRATION-0 = Milica chooses option B. She writes one line into her green plan. Here is what she takes from this session.
+NARRATION-1 = First, the word.
+TAKEAWAY-1 = *Nachhalt* meant reserves: **precaution and self-limitation**.
+NARRATION-2 = Second, the rule.
+TAKEAWAY-2 = Carlowitz (1713): **cut only as much as can grow back**.
+NARRATION-3 = Third, the components.
+TAKEAWAY-3 = Four components: long-term thinking, social obligation, economy, responsibility.
+NARRATION-4 = Fourth, the idea.
+TAKEAWAY-4 = The idea moved from forestry to a global goal with the Brundtland Report (1987).
+REMEMBER = Live from the interest, not from the capital.
+NARRATION-5 = One last question.
+RECAP-QUESTION = What was Carlowitz' core rule for forestry?
+RECAP-WRONG-1 = Protect forests and never use them.
+RECAP-WRONG-2 = Trade wood with other countries.
+RECAP-CORRECT = Cut only as much wood as can grow back.
+RECAP-HINT = Use is allowed, but with a limit.
+RECAP-FEEDBACK = Carlowitz' rule was sustained use: harvest no more than regrows. Use is allowed, but within the forest's ability to recover.
+NARRATION-6 = How did a forester's rule become a global goal? Jelena has to answer exactly that in session one two.
+OUTLOOK = Session 1_2, *Historical milestones of sustainability debates*. Jelena has to justify green skills in a new standard, and she needs the right milestones.
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Hilf, J. (2024): *Introduction to the Sustainability Approach*. Capacity building for GIZ, Day 1 – adapted (text and structure)
+- OVGU/GIZ (2026): *Introduction to Sustainability – an interactive micro-course* (internal German draft, Session_1) – adapted
+- World Commission on Environment and Development (1987): *Our Common Future*. Oxford University Press – quoted
+- Carlowitz, H. C. von (1713): *Sylvicultura oeconomica*. Leipzig – public domain – referred to
+- Government of the Republic of Serbia (2023): *Strategy for Low Carbon Development 2023–2030 with projections until 2050* – https://leap.unep.org/en/countries/rs/national-legislation/strategy-low-carbon-development-republic-serbia-period-2023-2030 – linked
+- Oxford Academic (OUP): *Sustainability – A History* (J. L. Caradonna) – https://www.youtube.com/watch?v=hho1h7OR6l8 – embedded
+- Martin Bernigeroth: *Hans Carl von Carlowitz* (engraving, 18th century) – https://commons.wikimedia.org/wiki/File:Hans_Carl_von_Carlowitz.jpg – public domain – unchanged
+- Carlowitz, H. C. von: *Sylvicultura oeconomica*, title page (1713) – https://commons.wikimedia.org/wiki/File:Carlowitz_Sylvicultura.jpg – public domain – unchanged
+- Case: Milica Stojanović, Stefan Ilić, Ravnica Technical School and the workshop budget are fictional – created for this course
+- This session: GIZ Sustainability Onboarding, GIZ / OVGU, 2026 – CC BY-SA 4.0 [CHECK: confirm with GIZ]
+"""

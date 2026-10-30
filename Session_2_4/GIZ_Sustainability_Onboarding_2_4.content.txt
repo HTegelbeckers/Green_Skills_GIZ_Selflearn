@@ -1,0 +1,361 @@
+# GIZ Sustainability Onboarding 2_4 – International and national climate policies
+# Build:  python3 Build/build_course.py 2_4
+# Old version: Archive/Session_2_4/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 2_4 – International and national climate policies
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to session two four. Today we are at the ministry, with Jelena Marković. A new strategy is on her desk, and she has to work out what comes next. If you can, turn the sound on.
+
+**Subtopic of Session 2 · about 30 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Jelena Marković, Milica Stojanović, Stefan Ilić and Ravnica Technical School are fictional. The strategy, the laws and the figures are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 2_4, International and national climate policies. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = Green Jobs in Construction
+NARRATION-0 = Jelena Marković works at the Ministry of Education. On her desk is Serbia's Strategy for Low Carbon Development. Its vision for 2050 names green jobs in construction. But what does a global climate conference have to do with a bricklayer's training?
+IMAGE-ALT = Plenary hall of the COP21 climate conference in Paris, 2015, with delegates seated in the large hall
+IMAGE-PATH = img/1280px-Kerry_Mxakato-Diseko_Zhenhua_in_the_Plenary_Hall_at_the_COP21.jpg
+IMAGE-CAPTION = COP21 plenary hall, Paris 2015 – U.S. Department of State – public domain – via Wikimedia Commons
+CASE-TEXT = """
+Jelena Marković (fictional) works at the Ministry of Education. On her desk is Serbia's *Strategy for Low Carbon Development 2023–2030 with projections until 2050*. Its 2050 vision names **green jobs**, including in **construction**. The road to that document began in a hall like this one: Paris, 2015.
+"""
+NARRATION-1 = Jelena's question is the one every ministry officer asks.
+GUIDING-QUESTION = How does a global agreement reach a Serbian classroom – and what do you have to do next?
+NARRATION-2 = Put yourself in Jelena's place.
+PREDICT-QUESTION = The strategy names green jobs in construction. Which is the logical next step for the ministry?
+PREDICT-CORRECT = Start the process to develop or update the occupational standards and qualifications for these jobs
+PREDICT-WRONG-1 = Add a climate unit to every subject in every school
+PREDICT-WRONG-2 = Wait until 2050 and see what happens
+PREDICT-HINT = Think about the chain: targets, tasks in companies, standards, curricula, training.
+PREDICT-FEEDBACK = The strategy signals new tasks in companies, so the ministry develops or updates standards and qualifications first. Only then can curricula, teacher training and equipment follow.
+NARRATION-3 = To see why, let us follow the road from Paris to the classroom.
+OUTCOME = Standards come first. Climate policy works on three levels, one above the other, and it creates a chain from targets to training. This session follows that chain.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = From Paris to the Classroom
+NARRATION-0 = Here is the path of this session.
+MODULE-1 = Three levels
+MODULE-2 = Paris Agreement
+MODULE-3 = Net zero
+MODULE-4 = EU and Western Balkans
+MODULE-5 = Serbia
+MILESTONE = From policy to VET
+NARRATION-1 = After this session, you can do these things.
+KNOW-1 = Central elements of international and national climate policies
+CAN-1 = Outline them, and compare the three policy levels
+VALUE-1 = Precision about what commitments really mean
+KNOW-2 = What net zero means
+CAN-2 = Explain net zero, and reflect on what policies mean for companies, schools and VET in Serbia
+VALUE-2 = Seeing your own link in the chain
+NARRATION-2 = A quick look at the path.
+ORDER-QUESTION = Which step comes directly before Serbia on the path?
+ORDER-CORRECT = EU and Western Balkans
+ORDER-WRONG-1 = Paris Agreement
+ORDER-WRONG-2 = Net zero
+ORDER-HINT = Serbia aligns with what comes just before it.
+ORDER-FEEDBACK = Serbia aligns with the European Green Deal through the Green Agenda for the Western Balkans.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Three Levels, One Above the Other
+NARRATION-0 = Climate policy is not one big document. It works on three levels, one above the other. The global level sets the direction. The EU and regional level translates it into programmes and money. The national level turns it into law, strategies and targets.
+GUIDING-QUESTION = Who decides what, at which level?
+NARRATION-1 = At the global level, we have the Paris Agreement and the Sustainable Development Goals.
+ASPECT-1 = **Global:** Paris Agreement (2015), Sustainable Development Goals
+NARRATION-2 = At EU level, there is the European Green Deal.
+ASPECT-2 = **EU:** European Green Deal (2019)
+NARRATION-3 = The Western Balkan region has its own green agenda.
+ASPECT-3 = **Region:** Green Agenda for the Western Balkans (2020)
+NARRATION-4 = And Serbia has its own law, strategy and targets.
+ASPECT-4 = **Serbia:** Law on Climate Change (2021), Low Carbon Development Strategy, NDC
+NARRATION-5 = A simple rule helps.
+WHY-IT-MATTERS = Follow the "who decides" rule: the UN, the EU, the Western Balkan leaders, or Serbia itself.
+NARRATION-6 = Which of these do you already know?
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = How the Paris Agreement Works
+NARRATION-0 = Let us start at the top. Watch this short video and look out for two things.
+WATCH-FOR-1 = who decides the actual climate plans
+WATCH-FOR-2 = what those plans are called
+VIDEO-ALT = What is the Paris Agreement, and how does it work?
+VIDEO-URL = https://www.youtube.com/watch?v=5THr3bFj8Z4
+VIDEO-CAPTION = United Nations – What is the 'Paris Agreement', and how does it work? (1:40)
+VIDEO-SUMMARY = The Paris Agreement was adopted in 2015 at COP21 and signed by nearly 200 countries. Each country submits its own climate action plan with emission targets, called a Nationally Determined Contribution (NDC). The plans must be updated and strengthened over time, and progress is reviewed.
+NARRATION-1 = What are these plans called?
+Q1-QUESTION = Each country submits its own climate action plan. What are these plans called?
+Q1-WRONG-1 = Global Stocktake
+Q1-CORRECT = Nationally Determined Contributions (NDCs)
+Q1-WRONG-2 = Just Transition Mechanism
+Q1-HINT = The name contains the idea that each nation decides its own contribution.
+Q1-FEEDBACK = An NDC is a country's own climate action plan with emission targets. The global stocktake is the review of progress every 5 years, and the Just Transition Mechanism is part of the European Green Deal.
+NARRATION-2 = And one number.
+Q2-QUESTION = In which year was the Paris Agreement adopted? (4 digits)
+Q2-ANSWER = 2015
+Q2-HINT = It was the same year as Agenda 2030.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = The Paris Agreement in Five Points
+NARRATION-0 = Jelena writes down the five elements that hold the Paris Agreement together. Its main goal is to limit global warming to well below two degrees, preferably one point five degrees, above pre-industrial levels.
+IMAGE-ALT = Plenary hall of the COP21 climate conference in Paris, 2015
+IMAGE-PATH = img/1280px-Kerry_Mxakato-Diseko_Zhenhua_in_the_Plenary_Hall_at_the_COP21.jpg
+IMAGE-CAPTION = COP21 plenary hall, Paris 2015 – U.S. Department of State – public domain
+INTRO-TEXT = """
+**Main goal:** limit warming to **well below 2 °C**, preferably **1.5 °C**, above pre-industrial levels.
+
+1. **NDCs:** each country sets its own climate action plan; plans must be updated and strengthened.
+2. **Transparency and accountability:** regular reporting on emissions and progress.
+3. **Climate finance:** developed countries pledged to mobilise USD 100 billion per year for developing countries.
+4. **Adaptation and resilience:** preparing for floods, droughts and other climate impacts.
+5. **Global stocktake:** a review of progress every 5 years.
+"""
+NARRATION-1 = Note what is not in the Agreement.
+KEY-MESSAGE = There is no single binding emission target for all countries. The Agreement is built on national plans, and it is legally binding on reporting.
+NARRATION-2 = Check one number.
+ACTIVATION-QUESTION = The global stocktake reviews progress every how many years? (number)
+ACTIVATION-ANSWER = 5
+ACTIVATION-HINT = It is element five in the list.
+ACTIVATION-FEEDBACK = Every 5 years. Each country decides its own contribution and reports on it, and the whole system is reviewed.
+
+
+[Concept_Explanation_Template_2.md]
+SLIDE-TITLE = Net Zero Is Not Zero
+NARRATION-0 = You will hear the term net zero in every policy text from now on, so let us be precise. Remember the company in session two one, with its carbon neutral workshop? Jelena compares the two terms.
+CONCEPT-A = Net zero
+CONCEPT-B = Carbon neutral
+CRITERION-1 = Means
+A-1 = balancing greenhouse gases emitted with the amount **removed** from the atmosphere
+B-1 = a claim that often applies only to CO₂
+CRITERION-2 = Covers
+A-2 = greenhouse gases
+B-2 = often only CO₂
+CRITERION-3 = Priority
+A-3 = reduce as much as possible, then offset the rest
+B-3 = relies more on offsets
+CRITERION-4 = Ways of offsetting
+A-4 = nature-based solutions, technology (carbon capture and storage), carbon credits (controversial)
+B-4 = often credits and tree planting
+NARRATION-1 = Here are two examples.
+EXAMPLE-A = The EU's legally binding target for 2050
+EXAMPLE-B = The company's workshop in Session 2_1: credits and trees, with emissions continuing
+NARRATION-2 = And one common error.
+MISCONCEPTION = "Net zero means zero emissions." It does not. It is a balance: as much removed as emitted, with the priority on reducing emissions first.
+NARRATION-3 = Now you sort them.
+STATEMENT-1 = Balances greenhouse gases emitted with those removed
+STATEMENT-2 = Often applies only to CO₂
+STATEMENT-3 = Reduce as much as possible first, then offset the rest
+STATEMENT-4 = Relies more on offsets
+CLASSIFY-HINT = Which term covers all greenhouse gases, and which relies more on offsets?
+CLASSIFY-FEEDBACK = Net zero is a balance across greenhouse gases, with reduction first. "Carbon neutral" often applies only to CO₂ and relies more on offsets.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = The European Green Deal
+NARRATION-0 = Next level: the EU. The European Green Deal was launched in December 2019. It also reaches beyond the EU, including to candidate countries such as Serbia. Watch out for two things.
+WATCH-FOR-1 = the 2050 goal
+WATCH-FOR-2 = the areas the Green Deal covers
+VIDEO-ALT = What is the European Green Deal and why is it important?
+VIDEO-URL = https://www.youtube.com/watch?v=H37grur6HaU
+VIDEO-CAPTION = European Commission – What is the European Green Deal and why is it important? (1:59)
+VIDEO-SUMMARY = """
+**Launched December 2019.** Goal: Europe as the first climate-neutral continent by 2050, with a legally binding net zero target. Key step: at least 55 % emission reduction by 2030 compared with 1990.
+
+**Areas:** clean energy, circular economy (textiles, electronics, packaging), sustainable mobility, biodiversity and agriculture ("Farm to Fork"), zero pollution.
+
+**For people and regions:** the Just Transition Mechanism for the regions and workers most affected, and the goal to mobilise at least EUR 1 trillion in sustainable investments.
+
+**Beyond the EU:** it influences climate diplomacy, trade and development partnerships, including with EU candidate countries such as Serbia.
+"""
+NARRATION-1 = Here is the interim target.
+Q1-QUESTION = The European Green Deal aims to reduce EU emissions by at least how much by 2030, compared with 1990?
+Q1-WRONG-1 = 40 %
+Q1-CORRECT = 55 %
+Q1-WRONG-2 = 100 %
+Q1-HINT = It is a step on the way to the 2050 goal, not the 2050 goal itself.
+Q1-FEEDBACK = The 2030 step is at least 55 % below 1990 levels. Climate neutrality (net zero) is the goal for 2050.
+NARRATION-2 = And one year.
+Q2-QUESTION = By which year should the EU be climate-neutral? (4 digits)
+Q2-ANSWER = 2050
+Q2-HINT = It is the same year as the vision of Serbia's strategy.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = The Green Agenda for the Western Balkans
+NARRATION-0 = For the Western Balkans, the Sofia Declaration is the regional answer. It was endorsed on the tenth of November 2020 at the Sofia Summit, and it aligns the region with the European Green Deal. This short video shows how the region frames the agenda.
+WATCH-FOR-1 = the link to the European Green Deal
+WATCH-FOR-2 = the areas the agenda covers
+VIDEO-ALT = Green Agenda for the Western Balkans
+VIDEO-URL = https://www.youtube.com/watch?v=OivEuG7hGOg
+VIDEO-CAPTION = Regional Cooperation Council – Green Agenda for the Western Balkans (1:09)
+VIDEO-SUMMARY = The **Sofia Declaration** was endorsed on 10 November 2020 by Western Balkan leaders and aligns the region with the European Green Deal. Its five areas: climate, energy and mobility (decarbonisation, meaning reducing carbon emissions); circular economy; depollution (air, water, soil); sustainable food systems and rural areas; biodiversity. [CHECK: Juliana – confirm the five pillars against the RCC text]
+NARRATION-1 = Who endorsed it?
+Q1-QUESTION = Who endorsed the Sofia Declaration on the Green Agenda?
+Q1-WRONG-1 = The United Nations
+Q1-CORRECT = Western Balkan leaders
+Q1-WRONG-2 = The Government of Serbia alone
+Q1-HINT = This is the regional level.
+Q1-FEEDBACK = It was endorsed by Western Balkan leaders at the Sofia Summit, on 10 November 2020. That makes it regional.
+NARRATION-2 = And its year.
+Q2-QUESTION = In which year was the Sofia Declaration endorsed? (4 digits)
+Q2-ANSWER = 2020
+Q2-HINT = One year after the European Green Deal.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = Serbia: From Targets to Law
+NARRATION-0 = Now the national level. Serbia has turned the international and regional direction into national instruments. One number shows why this matters: about sixty percent of Serbia's electricity came from lignite in 2024. But the transition is visible already, in wind farms like this one.
+IMAGE-ALT = Wind farm Čibuk 1 in Serbia, with wind turbines on a hillside, photo from 2018
+IMAGE-PATH = img/1280px-Wind_farm__ibuk_1__2018__1.jpg
+IMAGE-CAPTION = Wind farm Čibuk 1 (2018) – Ivan25 – CC BY-SA 4.0 – via Wikimedia Commons
+INTRO-TEXT = """
+- **Law on Climate Change** (18 March 2021): requires a low-carbon development strategy with an action plan, and monitoring, reporting and verification (MRV: checking that the reported numbers are real) of emissions.
+- **Strategy for Low Carbon Development 2023–2030 with projections until 2050** (Official Gazette 46/2023): energy, industry, transport, agriculture, forestry and waste; its 2050 vision includes **green jobs**.
+- **NDC (update 2022):** −33.3 % greenhouse gases by 2030 compared with 1990, without the land-use sector (equal to 13.2 % below 2010).
+- **NDC 3.0 (September 2025):** −40.1 % by 2035 compared with 1990 (conditional, excluding land use and forestry). CAN Europe called it a raise in ambition, but criticised that the 2030 target was not updated.
+"""
+NARRATION-1 = One number shows why this matters.
+KEY-MESSAGE = About 60 % of Serbia's electricity came from lignite in 2024. But the transition is already visible, in wind farms like Čibuk 1.
+NARRATION-2 = Check the date of the law.
+ACTIVATION-QUESTION = In which year was Serbia's Law on Climate Change adopted? (4 digits)
+ACTIVATION-ANSWER = 2021
+ACTIVATION-HINT = It was one year after the Sofia Declaration.
+ACTIVATION-FEEDBACK = 18 March 2021. It requires a low-carbon development strategy with an action plan, and MRV of greenhouse gas emissions.
+
+
+[Concept_Explanation_Template_3.md]
+SLIDE-TITLE = The Chain from Policy to VET
+NARRATION-0 = Now Jelena's question can be answered. Policies do not stay on paper. They create a chain.
+STEP-1 = New targets
+STEP-2 = New tasks in companies
+STEP-3 = Standards and curricula
+STEP-4 = Teachers and equipment
+NARRATION-1 = It starts with new targets.
+STEP-TEXT-1 = New targets in policies, such as emission reduction and climate neutrality.
+NARRATION-2 = These create new tasks.
+STEP-TEXT-2 = Energy audits, efficient buildings, renewable installations, emissions reporting.
+NARRATION-3 = Then, standards and curricula must change. This is the ministry's step.
+STEP-TEXT-3 = New or changed occupational standards, qualifications and curricula.
+NARRATION-4 = Finally, teachers and schools must be able to deliver.
+STEP-TEXT-4 = Teacher training and school equipment. The **ministry** steers standards, **school developers** support the curriculum review, and **principals** organise implementation and company partnerships.
+ORDER-TITLE = Put the Chain in Order
+NARRATION-ORDER-0 = Now you put the chain in order. Drag each card into the right gap.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Your Link in the Chain
+NARRATION-0 = Jelena sends the chain to Milica and Stefan. Each of them works on a different link. Which link is yours?
+IMAGE-ALT = Wind farm Čibuk 1 in Serbia, with wind turbines on a hillside, photo from 2018
+IMAGE-PATH = img/1280px-Wind_farm__ibuk_1__2018__1.jpg
+IMAGE-CAPTION = Wind farm Čibuk 1 (2018) – Ivan25 – CC BY-SA 4.0
+CASE-TEXT = """
+Jelena sends the chain to Milica and Stefan (all fictional). All three levels meet in one country: Serbia aligns with the European Green Deal through the **Green Agenda**, and national law makes the work concrete. Here are the three comparisons Jelena adds:
+"""
+DATA-LABEL-1 = European Green Deal (2019)
+DATA-VALUE-1 = binding within the EU (EU laws); climate-neutral EU by 2050
+DATA-LABEL-2 = SDGs (2015)
+DATA-VALUE-2 = voluntary (national plans, Voluntary National Reviews); global development by 2030
+DATA-LABEL-3 = Paris Agreement (2015)
+DATA-VALUE-3 = legally binding on reporting (NDCs, 5-year reviews); limit of 1.5–2 °C
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, your own daily work.
+QUESTION-1 = Which policy level – global, EU and region, or Serbia – influences your daily work the most? Give one concrete example.
+MODEL-ANSWER-1 = """
+A **ministry officer** usually feels the national level most directly: the Law on Climate Change and the Low Carbon Development Strategy decide which standards and qualifications must be developed next. A **school developer** often works at the EU and regional level: Green Deal requirements appear in EU-funded projects, and the Green Agenda frames what "green" means for the region. A **principal** usually sees the national level in concrete form: equipment, partnerships, and which occupations the local labour market needs. All three levels show up in one school day. The question is which one you can act on this week.
+"""
+NARRATION-Q-1 = Next, one sector.
+QUESTION-2 = Pick one sector your schools train for. What does the NDC target mean for that sector's future tasks?
+MODEL-ANSWER-2 = """
+Follow the chain. For **energy**: more tasks around renewable installations, grid operation and energy efficiency, and fewer around lignite-only skills. For **construction**: efficient buildings and retrofits become core tasks. For **transport and agriculture**: emissions reporting and low-carbon methods enter daily work. As a **school developer**, check which tasks already appear in the standards. As a **principal**, ask your company partners which tasks they will hire for. The target number is the signal; the sector tasks are the consequence.
+"""
+NARRATION-Q-2 = And one more practical case.
+QUESTION-3 = You support VET schools with curriculum review. A company partner reports new tasks: energy audits and emissions reporting. What is your first move?
+MODEL-ANSWER-3 = """
+**Check whether the current occupational standards and curricula already cover these tasks.** That is the school developer's role. New tasks in companies are the signal for the next step in the chain. Waiting until the next strategy review only delays the update the chain requires.
+"""
+
+
+[Summary_Recap_Template_2.md]
+SLIDE-TITLE = Exit Ticket
+NARRATION-0 = Three short questions, one per objective. You can repeat them as often as you like.
+OBJECTIVE-1 = Paris Agreement
+Q1-QUESTION = What is a Nationally Determined Contribution (NDC)?
+Q1-CORRECT = A country's own climate action plan with emission targets
+Q1-WRONG-1 = A review of all countries' progress every 5 years
+Q1-WRONG-2 = A fund that pays for all climate projects worldwide
+Q1-HINT = "Nationally" tells you who decides; "contribution" tells you what it is.
+NARRATION-1 = Next, the Green Deal.
+OBJECTIVE-2 = European Green Deal
+Q2-QUESTION = Which statements apply to the European Green Deal?
+Q2-CORRECT-1 = It aims for a climate-neutral EU by 2050.
+Q2-WRONG-1 = It sets the same NDC for all EU member states.
+Q2-CORRECT-2 = It includes a Just Transition Mechanism for the regions and workers most affected.
+Q2-HINT = NDCs belong to the Paris Agreement.
+NARRATION-2 = And one number, from Serbia.
+OBJECTIVE-3 = Serbia
+Q3-QUESTION = Serbia's NDC 3.0 (September 2025) aims to cut greenhouse gas emissions by how many percent by 2035, compared with 1990? (number)
+Q3-ANSWER = 40.1
+Q3-HINT = The 33.3 % target for 2030 comes from the earlier update. This one is higher, around 40.
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Jelena Sends Out
+NARRATION-0 = Jelena writes her note. Here is what it says.
+NARRATION-1 = First, three levels.
+TAKEAWAY-1 = Climate policy works on three levels: global, EU and region, and Serbia.
+NARRATION-2 = Second, Paris runs on national plans.
+TAKEAWAY-2 = The Paris Agreement is built on national plans (**NDCs**) and is legally binding on reporting.
+NARRATION-3 = Third, net zero is a balance.
+TAKEAWAY-3 = **Net zero** is a balance, not zero emissions.
+NARRATION-4 = Fourth, national law makes it concrete.
+TAKEAWAY-4 = Serbia's law, strategy and NDC make it concrete, and policy reaches VET through a **chain**.
+REMEMBER = Targets → tasks in companies → standards and curricula → teachers and equipment.
+NARRATION-5 = One last question.
+RECAP-QUESTION = The strategy names green jobs in construction. What does the ministry do first?
+RECAP-WRONG-1 = Buy new equipment for all schools.
+RECAP-WRONG-2 = Wait for the next strategy review.
+RECAP-CORRECT = Develop or update the occupational standards and qualifications.
+RECAP-HINT = Remember the chain.
+RECAP-FEEDBACK = Standards and qualifications come first. Only then can curricula, teacher training and equipment follow.
+NARRATION-6 = Milica now has her firm ground, with concepts, models, goals and policies. Then she looks out of the window of the school. It is thirty-eight degrees outside, and the workshop is hotter still. Topic three is about the ecological issues.
+OUTLOOK = Session 3, *Ecological Issues*. Milica's firm ground is ready. Now the summer heat in her workshop halls brings the topic right into her school.
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Jelena, Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Hilf, J. (2025): *Models of Sustainability: Frameworks, Policies …* – GIZ workshop – no licence stated – adapted (incl. comparison table)
+- UN Climate Change: *The Paris Agreement* – UNFCCC – https://unfccc.int/process-and-meetings/the-paris-agreement – summarised
+- Climatepartner (2024): *What does net zero mean?* – https://www.climatepartner.com/en/knowledge/insights/what-does-net-zero-mean – via Hilf (2025) – summarised
+- European Commission: *The European Green Deal* – https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/european-green-deal_en – summarised
+- Regional Cooperation Council (2020): *Sofia Declaration on the Green Agenda for the Western Balkans* – https://www.rcc.int/docs/546/sofia-declaration-on-the-green-agenda-for-the-western-balkans – summarised
+- CEE Legal Matters: *Serbia – The new Law on Climate Change* – https://ceelegalmatters.com/serbia/16624-serbia-the-new-law-on-climate-change-for-the-survival-of-the-living-world – summarised; official text [CHECK: link to Official Gazette]
+- *Low Carbon Development Strategy Serbia 2023–2030 with 2050 projections* – https://unfccc.int/sites/default/files/resource/Low_Carbon_Development_Strategy_Serbia_2023-2030_with_2050_Projections.pdf – summarised
+- NDC Partnership: *Serbia* – https://ndcpartnership.org/country/srb – summarised; CAN Europe: *Western Balkans NDCs 3.0* – https://caneurope.org/western-balkans-ndcs-3-0-serbia-joins-montenegro-in-updating-climate-commitments – summarised
+- CEE Bankwatch Network: *The energy sector in Serbia* – https://bankwatch.org/beyond-coal/the-energy-sector-in-serbia – summarised
+- Video: United Nations – *What is the "Paris Agreement", and how does it work?* – https://www.youtube.com/watch?v=5THr3bFj8Z4 – embedded
+- Video: Regional Cooperation Council – *Green Agenda for the Western Balkans* – https://www.youtube.com/watch?v=OivEuG7hGOg – embedded
+- Video: European Commission – *What is the European Green Deal and why is it important?* – https://www.youtube.com/watch?v=H37grur6HaU – embedded
+- Image: U.S. Department of State – *COP21 plenary hall, Paris 2015* – public domain – https://commons.wikimedia.org/wiki/File:Kerry_Mxakato-Diseko_Zhenhua_in_the_Plenary_Hall_at_the_COP21.jpg – unchanged
+- Image: Ivan25 – *Wind farm Čibuk 1 (2018)* – CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Wind_farm_%C4%8Cibuk_1_(2018)_1.jpg – unchanged
+- Case: Jelena Marković, Milica Stojanović, Stefan Ilić and Ravnica Technical School are fictional – created for this course
+- This session: GIZ Sustainability Onboarding – GIZ / OVGU – CC BY-SA 4.0 [CHECK: confirm with GIZ]
+"""

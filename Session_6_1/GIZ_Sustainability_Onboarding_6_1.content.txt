@@ -1,0 +1,342 @@
+# GIZ Sustainability Onboarding 6_1 – Pathways towards a great transformation
+# Build:  python3 Build/build_course.py 6_1
+# Old version: Archive/Session_6_1/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 6_1 – Pathways towards a great transformation
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to session six one. Milica wants to see the whole route, from a national target to her own workshop. If you can, turn the sound on.
+
+**Subtopic of Session 6 · about 35 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, Jelena Marković and Ravnica Technical School are fictional. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 6_1, Pathways towards a great transformation. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = From a Wind Farm to a Workshop
+NARRATION-0 = Milica visits a wind farm with her electricians. Such capacity is already visible in Serbia, but the country's starting point is still fossil-based. On the bus home she asks Jelena: how do societies actually change?
+IMAGE-ALT = Wind farm Čibuk 1 in Serbia, 2018
+IMAGE-PATH = img/1280px-Wind_farm__ibuk_1__2018__2.jpg
+IMAGE-CAPTION = Wind farm Čibuk 1 (2018) – Ivan25 – CC BY-SA 4.0 – via Wikimedia Commons
+CASE-TEXT = """
+Milica visits a wind farm with her electricians (the visit is fictional). New renewable capacity is already visible in Serbia, but the starting point is still fossil-based: about **60 %** of electricity comes from lignite (2024), while wind provides about **3 %**. On the bus home she asks Jelena: *"How do societies actually change?"*
+"""
+NARRATION-1 = This session turns from the problems to the other side.
+GUIDING-QUESTION = What is a pathway from today's situation to the 2050 vision – and who has to do what along the way?
+NARRATION-2 = What do you think such a change mainly needs?
+PREDICT-QUESTION = According to the WBGU (2011), what does the transformation towards sustainability mainly need?
+PREDICT-CORRECT = A new "social contract" between citizens, science, business and the state
+PREDICT-WRONG-1 = A single international law that all countries must follow
+PREDICT-WRONG-2 = Only technical innovation: society can stay the same
+PREDICT-HINT = Think about who has to agree to change, not just what has to be built.
+PREDICT-FEEDBACK = The transformation needs a new social contract. A single law cannot do it, because the goal is normative and contested. Technology alone is not enough, because the change also concerns how we consume, organise work and make decisions.
+NARRATION-3 = So a pathway is not a straight line. It is a route that is negotiated again and again.
+OUTCOME = A pathway is not a straight line. It is a route that is negotiated again and again by governments, companies, schools and citizens.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Today's Path
+NARRATION-0 = Here is today's path. Yes, it is a path about pathways.
+MODULE-1 = Great transformation
+MODULE-2 = Five strategies
+MODULE-3 = From policy to jobs
+MODULE-4 = Green Deal
+MODULE-5 = TVET
+MILESTONE = Serbia's route
+NARRATION-1 = After this session, you can do three things.
+KNOW-1 = Possible **pathways and strategies** for societal transformation
+CAN-1 = Outline them, and name the main **actors** at each level
+VALUE-1 = Negotiation as part of the route
+KNOW-2 = Current debates and examples
+CAN-2 = Relate pathways to the European Green Deal, Serbia and TVET
+VALUE-2 = Seeing education as a load-bearing step
+NARRATION-2 = A quick look at the path.
+ORDER-QUESTION = Which step comes directly before TVET on today's path?
+ORDER-CORRECT = Green Deal
+ORDER-WRONG-1 = Five strategies
+ORDER-WRONG-2 = Great transformation
+ORDER-HINT = Follow the arrows from left to right.
+ORDER-FEEDBACK = First the European example, then the role of TVET in it.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = What Is a Great Transformation?
+NARRATION-0 = The German Advisory Council on Global Change used the expression great transformation in 2011. Jelena sums it up for Milica.
+IMAGE-ALT = Wind farm Čibuk 1 in Serbia, 2018
+IMAGE-PATH = img/1280px-Wind_farm__ibuk_1__2018__2.jpg
+IMAGE-CAPTION = Wind farm Čibuk 1 (2018) – Ivan25 – CC BY-SA 4.0
+INTRO-TEXT = """
+The WBGU's report *World in Transition – A Social Contract for Sustainability* (2011) argues that the transformation towards sustainability is as deep as the great transformations of earlier centuries. It cannot be achieved by technology alone. It needs a new **"social contract"** between citizens, science, business and the state. [CHECK: Juliana – confirm wording against the WBGU summary for policy-makers]
+
+Two consequences follow:
+
+- The transformation is **normative**: it is a goal society chooses, not a technical problem with one solution.
+- It is **contested**: different actors weigh goals differently, so it relies on **constant negotiation and societal learning** (UNESCO 2022).
+"""
+NARRATION-1 = Here is the idea to keep.
+KEY-MESSAGE = A pathway is a route that is negotiated again and again: by governments, companies, schools and citizens.
+NARRATION-2 = Complete the sentence.
+ACTIVATION-QUESTION = The transformation relies on constant … and societal learning. (one word)
+ACTIVATION-ANSWER = negotiation
+ACTIVATION-HINT = Different actors weigh goals differently, so they have to talk.
+ACTIVATION-FEEDBACK = Constant negotiation and societal learning (UNESCO 2022).
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = Five Strategies
+NARRATION-0 = Debates about transformation usually revolve around five strategies. You will recognise them in policy documents from the EU and from Serbia. They are not alternatives that exclude each other.
+IMAGE-ALT = Heat pump installation on a building, photo by Jim Barton
+IMAGE-PATH = img/1280px-Heat_pump_installation_-_geograph.org.uk_-_7495844.jpg
+IMAGE-CAPTION = Heat pump installation – Jim Barton – CC BY-SA 2.0 – via Wikimedia Commons / geograph.org.uk
+INTRO-TEXT = """
+<!-- data-type="none" -->
+| Strategy | In plain words |
+|---|---|
+| **Efficiency** | Doing more with fewer resources (weak sustainability) |
+| **Sufficiency** | Using less, consuming differently (strong sustainability, degrowth) |
+| **Consistency / circularity** | Closing loops so materials stay in use (circular economy) [CHECK: Juliana – "consistency" is a common third strategy in German debates; keep or drop] |
+| **Decarbonisation / net zero** | Reduce emissions, balance the rest (Paris Agreement, European Green Deal) |
+| **Just transition** | Make the change fair for workers and regions (EU Just Transition Mechanism; ILO) |
+"""
+NARRATION-1 = A real pathway usually combines several.
+KEY-MESSAGE = A real pathway combines several strategies. For example, a school installs heat pumps (efficiency), buys them as a shared service (sufficiency) and keeps them repairable (circularity).
+NARRATION-2 = Check one of them.
+ACTIVATION-QUESTION = Which strategy means "doing more with fewer resources"? (one word)
+ACTIVATION-ANSWER = efficiency
+ACTIVATION-HINT = It is the first row of the table.
+ACTIVATION-FEEDBACK = Efficiency. Sufficiency, by contrast, means using less and consuming differently.
+
+
+[Interactive_Exercise_Template_2.md]
+SLIDE-TITLE = Which Strategy Is It?
+NARRATION-0 = Milica looks at her green plan and asks which strategy each measure stands for.
+GAP-TEXT-1 = LED lighting in a school building uses less energy for the same light. This is
+GAP-1-CORRECT = efficiency
+GAP-1-WRONG-1 = sufficiency
+GAP-1-WRONG-2 = just transition
+GAP-TEXT-2 = . The number of strategies on the previous page is
+GAP-2-ANSWER = 5
+GAP-TEXT-3 = . A repair workshop for machines and tools keeps materials in use. This is
+GAP-3-CORRECT = circularity
+GAP-3-DISTRACTOR = decarbonisation
+GAP-TEXT-4 = .
+GAP-HINT = Does the example use less of a resource, keep materials in use, reduce emissions, or protect workers?
+NARRATION-1 = Now some true or false statements.
+STATEMENT-1 = Car-sharing instead of private cars is an example of sufficiency.
+STATEMENT-2 = A new solar park is an example of a just transition.
+STATEMENT-3 = Retraining coal miners for green jobs is an example of a just transition.
+STATEMENT-4 = Each real project uses exactly one strategy.
+TF-HINT = A solar park replaces fossil electricity. Real projects often combine strategies.
+TF-FEEDBACK = Car-sharing means fewer cars in total, which is sufficiency. A solar park replaces fossil electricity, which is decarbonisation. Retraining miners makes the change fair for workers. Real projects often combine several strategies at once.
+
+
+[Concept_Explanation_Template_3.md]
+SLIDE-TITLE = A Pathway from Policy to Jobs
+NARRATION-0 = How do these strategies become reality? One simple pathway connects today, which is fossil-based and linear, to the vision for 2050. Every arrow is a job for a different group of actors.
+STEP-1 = Targets and policies
+STEP-2 = New tasks in companies
+STEP-3 = New skills and qualifications
+STEP-4 = Green jobs
+NARRATION-1 = First, targets and policies. Jelena's ministry works here.
+STEP-TEXT-1 = Paris Agreement, European Green Deal, Green Agenda for the Western Balkans, Serbian climate law. They set the direction, starting from today's fossil-based, linear situation.
+NARRATION-2 = Second, companies get new tasks.
+STEP-TEXT-2 = Renewables, efficiency, circularity.
+NARRATION-3 = Third, VET turns tasks into skills. This is your step.
+STEP-TEXT-3 = VET standards, curricula, teacher training. Policy creates new tasks, and VET must turn them into skills and qualifications.
+NARRATION-4 = Fourth, green jobs and a just transition. This is the vision for 2050.
+STEP-TEXT-4 = Green jobs and a just transition: the 2050 vision. Responsibility lies with **society, science, policy makers and industries** (Leal Filho et al. 2021). Change can start through democracy and politics, participation and social engagement, work decisions and everyday decisions.
+ORDER-TITLE = Put the Pathway in Order
+NARRATION-ORDER-0 = Now you put the pathway in order. Drag each card into the right gap.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Climate Goals and Jobs
+NARRATION-0 = This video shows how a GIZ project makes the link between climate goals and jobs. Read what to watch for.
+WATCH-FOR-1 = how the video connects climate goals with jobs
+WATCH-FOR-2 = which groups it names as partners in the transition
+VIDEO-ALT = TVET4GreenJobs: Skills for a Just Transition to a Green Future
+VIDEO-URL = https://www.youtube.com/watch?v=P-L2YULZHVI
+VIDEO-CAPTION = GIZ – TVET4GreenJobs: Skills for a Just Transition to a Green Future (3:45)
+VIDEO-SUMMARY = The GIZ project *TVET4GreenJobs* links climate goals and jobs: VET prepares people for the new tasks that a greener economy creates. That is step 3 of the pathway: new skills and qualifications.
+NARRATION-1 = What does the project connect?
+Q1-QUESTION = What does the GIZ project *TVET4GreenJobs* connect?
+Q1-WRONG-1 = Only school curricula and examination formats
+Q1-CORRECT = Climate goals and jobs: skills for a just transition to a green future
+Q1-WRONG-2 = Household energy use and private consumption
+Q1-HINT = Look at the project's title.
+Q1-FEEDBACK = The title says it: Skills for a Just Transition to a Green Future. VET prepares people for the new tasks that a greener economy creates.
+NARRATION-2 = One word.
+Q2-QUESTION = The pathway's step 3 is new … and qualifications. (one word)
+Q2-ANSWER = skills
+Q2-HINT = It is the step where VET comes in.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = An Example: the European Green Deal
+NARRATION-0 = The clearest recent example of a societal pathway is the European Green Deal. This short introductory video is optional. Notice what is missing from the list: a ban on all fossil fuels by a fixed date.
+WATCH-FOR-1 = the targets and the package of policies
+WATCH-FOR-2 = what a "steering framework" does
+VIDEO-ALT = European Green Deal: Achieving Climate Neutrality and Economic Growth
+VIDEO-URL = https://www.youtube.com/watch?v=e-OiG6p2dHQ
+VIDEO-CAPTION = European Commission – European Green Deal: Achieving Climate Neutrality and Economic Growth (3:13, optional)
+VIDEO-SUMMARY = """
+**Central commitments:** net zero greenhouse gas emissions by 2050; at least −55 % emissions by 2030 (compared with 1990); a package of policies: clean energy, circular economy, sustainable mobility, Farm to Fork, zero pollution; a Just Transition Mechanism to support regions and workers affected; at least EUR 1 trillion in investments.
+
+**Not on the list:** a ban on all fossil fuels by a fixed date. The Green Deal is a **steering framework**: it sets targets, funds investment and protects the most vulnerable. That is what a pathway means in practice: a direction, a budget, and rules for fairness.
+"""
+NARRATION-1 = Which statement fits?
+Q1-QUESTION = Which statement describes the European Green Deal?
+Q1-WRONG-1 = It plans to phase out all fossil fuels completely by 2025.
+Q1-CORRECT = It aims at net zero by 2050, and sets up a Just Transition Mechanism for affected regions and workers.
+Q1-WRONG-2 = It is financed only by voluntary donations from companies.
+Q1-HINT = Open the text summary of the video if you need it.
+Q1-FEEDBACK = The Green Deal is a framework of targets, policies and investments (at least EUR 1 trillion), not a single ban.
+NARRATION-2 = And its year.
+Q2-QUESTION = Net zero under the European Green Deal is planned by which year? (4 digits)
+Q2-ANSWER = 2050
+Q2-HINT = It is the year of the vision on the pathway too.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = TVET as a Load-Bearing Step
+NARRATION-0 = Education is not a side track on the pathway. It is a load-bearing step. Without new skills and qualifications, new tasks in companies cannot be filled. The ILO explains the idea of a just transition in this short video.
+WATCH-FOR-1 = who is affected by the transition
+WATCH-FOR-2 = what "fair" means in practice
+VIDEO-ALT = A just transition to a new, greener life
+VIDEO-URL = https://www.youtube.com/watch?v=xu-PyeicH64
+VIDEO-CAPTION = ILO – A just transition to a new, greener life (2:40)
+VIDEO-SUMMARY = """
+**Two international documents frame the role of TVET:**
+
+- **UNESCO TVET strategy 2022–2029**, *Transforming TVET for successful and just transitions*: TVET should build skills for work and life, for inclusive and sustainable economies, and for inclusive and peaceful societies.
+- **Cedefop & UNESCO-UNEVOC (2025)**, [*Meeting skill needs for the green transition*](https://www.cedefop.europa.eu/en/publications/4220) (Practical guide 4): how to anticipate green skill needs and turn them into VET.
+"""
+NARRATION-1 = What does the term mean?
+Q1-QUESTION = In this course, what does the term "just transition" mean?
+Q1-WRONG-1 = A transition that is finished as quickly as possible
+Q1-CORRECT = A transition that is fair for workers and regions affected by the change
+Q1-WRONG-2 = A transition that is financed only by the EU
+Q1-HINT = The word "just" means "fair". Ask who must be protected.
+Q1-FEEDBACK = Workers and regions that lose jobs or industries during the change must not be left behind. That is why UNESCO names "successful and just transitions" in its TVET strategy.
+NARRATION-2 = One word.
+Q2-QUESTION = The word "just" in "just transition" means … (one word)
+Q2-ANSWER = fair
+Q2-HINT = Read the question above.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Serbia's Route
+NARRATION-0 = Serbia has its own set of targets that feed into the pathway. At the regional level, the Green Agenda for the Western Balkans sets a common direction. Milica and Jelena put the numbers side by side.
+IMAGE-ALT = Wind farm Čibuk 1 in Serbia, 2018
+IMAGE-PATH = img/1280px-Wind_farm__ibuk_1__2018__2.jpg
+IMAGE-CAPTION = Wind farm Čibuk 1 (2018) – Ivan25 – CC BY-SA 4.0 [CHECK: Juliana – add capacity/year from an official source if wanted]
+CASE-TEXT = """
+The **Low Carbon Development Strategy 2023–2030 with projections until 2050** (Official Gazette 46/2023) covers energy, industry, transport, agriculture, forestry and waste, and its 2050 vision explicitly includes **green jobs**. Regionally, the **Green Agenda for the Western Balkans** (Sofia Declaration, 10 November 2020) sets a common direction.
+"""
+DATA-LABEL-1 = NDC 2022
+DATA-VALUE-1 = −33.3 % greenhouse gases by 2030 compared with 1990 (without land use)
+DATA-LABEL-2 = NDC 3.0 (September 2025)
+DATA-VALUE-2 = −40.1 % by 2035 compared with 1990 (conditional). CAN Europe: ambition raised, but the 2030 target was not updated
+DATA-LABEL-3 = Starting point (2024)
+DATA-VALUE-3 = about 60 % of electricity from lignite; about 3 % from wind
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, one sector.
+QUESTION-1 = Pick one sector. Describe one pathway from a policy target to a VET offering in that sector, in three or four sentences.
+MODEL-ANSWER-1 = """
+Follow the steps of the pathway. Example (energy): a policy sets a target for renewable energy → companies and municipalities build solar parks and heat-pump systems and need installers → VET updates standards, curricula and teacher training → graduates fill green jobs, including in regions affected by the shift away from coal. A ministry officer might emphasise the first steps, a school developer the middle ones, and a principal the last one.
+"""
+NARRATION-Q-1 = Now the obstacles.
+QUESTION-2 = Which obstacle do you see on this pathway in your role?
+MODEL-ANSWER-2 = """
+A **ministry officer** may see slow updates of occupational standards or a gap between climate targets and education policy. A **school developer** may see that curricula and teacher training lag behind new company tasks, or that few companies offer training places in green occupations. A **principal** may see budget limits, a shortage of qualified teachers, or partners who are themselves in transition. None of these stops the pathway, but each needs a concrete answer at its level.
+"""
+NARRATION-Q-2 = Finally, a question for Jelena. And for you.
+QUESTION-3 = As a ministry officer, which step of the pathway is the most direct lever? And which of the five strategies is the most realistic for Serbia by 2030?
+MODEL-ANSWER-3 = """
+A ministry works mainly at the **targets and policies** step: it sets the framework (strategy, standards, funding rules) that companies, schools and citizens then follow. It does not run companies, and it cannot decide everyday behaviour directly. That is why the quality of the policy step decides how fast the later steps move. On the most realistic strategy there is no right answer: it is your own opinion, and a good answer gives a reason.
+"""
+
+
+[Summary_Recap_Template_2.md]
+SLIDE-TITLE = Exit Ticket
+NARRATION-0 = Three short questions, one per objective. You can repeat them as often as you like.
+OBJECTIVE-1 = Serbia's targets
+Q1-QUESTION = What does Serbia's NDC 3.0 (September 2025) commit to?
+Q1-CORRECT = −40.1 % greenhouse gas emissions by 2035 compared with 1990 (conditional)
+Q1-WRONG-1 = −33.3 % greenhouse gas emissions by 2030
+Q1-WRONG-2 = Net zero greenhouse gas emissions by 2045
+Q1-HINT = NDC 3.0 is the newer document. Check both the percentage and the year.
+NARRATION-1 = Next, the Green Deal.
+OBJECTIVE-2 = European Green Deal
+Q2-QUESTION = Which statements apply to the European Green Deal?
+Q2-CORRECT-1 = At least −55 % emissions by 2030 compared with 1990
+Q2-WRONG-1 = A complete phase-out of fossil fuels by 2025
+Q2-CORRECT-2 = A Just Transition Mechanism for affected regions and workers
+Q2-HINT = It is a steering framework, not a single ban.
+NARRATION-2 = And one number.
+OBJECTIVE-3 = Strategies
+Q3-QUESTION = How many strategies for transformation did this session name? (number)
+Q3-ANSWER = 5
+Q3-HINT = Efficiency, sufficiency, circularity, decarbonisation, and …
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Milica Adds to the Plan
+NARRATION-0 = Back at school, Milica draws the pathway into her plan.
+NARRATION-1 = First, a social contract.
+TAKEAWAY-1 = The transformation needs a new **social contract**, and it is normative and contested.
+NARRATION-2 = Second, five strategies.
+TAKEAWAY-2 = Five strategies: efficiency, sufficiency, circularity, decarbonisation and just transition. Real pathways combine them.
+NARRATION-3 = Third, one chain.
+TAKEAWAY-3 = One pathway: targets and policies → new tasks → new skills → green jobs.
+NARRATION-4 = Fourth, VET is load-bearing.
+TAKEAWAY-4 = **TVET is a load-bearing step**, not a side track.
+REMEMBER = A pathway means a direction, a budget, and rules for fairness.
+NARRATION-5 = One last question.
+RECAP-QUESTION = Match the example to its actor level: which one is a policy framework?
+RECAP-WRONG-1 = A company energy audit
+RECAP-WRONG-2 = A school strike for the climate
+RECAP-CORRECT = The European Green Deal
+RECAP-HINT = Ask who decides, who operates, and who mobilises.
+RECAP-FEEDBACK = The European Green Deal is a policy framework. A company energy audit is a business decision, and a school strike is civil society. All three can initiate change.
+NARRATION-6 = The route is clear. But who walks it? Which competences do people need? Stefan and Milica look at that in session six two.
+OUTLOOK = Session 6_2, *Competences for sustainable development and change agency*. The route is clear. But what do Milica's teachers need in order to walk it?
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- *World in Transition – A Social Contract for Sustainability* – WBGU, 2011 – https://www.wbgu.de/en/publications/publication/world-in-transition-a-social-contract-for-sustainability – summarised
+- *Introduction to the Sustainability Approach* – Hilf, J., 2024, GIZ training, Day 1 – adapted
+- *SDGs and Sustainable Economies* – Hilf, J., 2024, GIZ training, Day 2 – adapted
+- *Models of Sustainability …* – Hilf, J., 2025, GIZ workshop – adapted
+- *Green TVET – Concepts and practical approaches* – Hilf, J., 2026, expert input – adapted
+- *Transforming TVET for successful and just transitions. UNESCO strategy 2022–2029* – UNESCO, 2022 – summarised
+- *Meeting skill needs for the green transition – Skills anticipation and VET for a greener future* (Practical guide 4) – Cedefop & UNESCO-UNEVOC, 2025 – https://www.cedefop.europa.eu/en/publications/4220 – linked only
+- Leal Filho, W. et al. (2021) – via Hilf
+- *Sofia Declaration on the Green Agenda for the Western Balkans* – Regional Cooperation Council, 2020 – https://www.rcc.int/docs/546/sofia-declaration-on-the-green-agenda-for-the-western-balkans – linked
+- *Low Carbon Development Strategy Serbia 2023–2030 with 2050 Projections* – Republic of Serbia, 2023 – https://unfccc.int/sites/default/files/resource/Low_Carbon_Development_Strategy_Serbia_2023-2030_with_2050_Projections.pdf – summarised
+- Serbia NDCs – NDC Partnership – https://ndcpartnership.org/country/srb ; CAN Europe – https://caneurope.org/western-balkans-ndcs-3-0-serbia-joins-montenegro-in-updating-climate-commitments – summarised
+- *The energy sector in Serbia* – CEE Bankwatch Network – https://bankwatch.org/beyond-coal/the-energy-sector-in-serbia – summarised
+- Video: *TVET4GreenJobs: Skills for a Just Transition to a Green Future* – GIZ – https://www.youtube.com/watch?v=P-L2YULZHVI – embedded
+- Video: *A just transition to a new, greener life* – ILO – https://www.youtube.com/watch?v=xu-PyeicH64 – embedded
+- Video: *European Green Deal: Achieving Climate Neutrality and Economic Growth* – European Commission – https://www.youtube.com/watch?v=e-OiG6p2dHQ – embedded
+- Image: *Wind farm Čibuk 1 (2018) 2* – Ivan25, CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Wind_farm_%C4%8Cibuk_1_(2018)_2.jpg – unchanged
+- Image: *Heat pump installation* – Jim Barton, CC BY-SA 2.0 – https://commons.wikimedia.org/wiki/File:Heat_pump_installation_-_geograph.org.uk_-_7495844.jpg – unchanged
+- Case: Milica Stojanović, Jelena Marković, Ravnica Technical School and the wind farm visit are fictional – created for this course
+"""

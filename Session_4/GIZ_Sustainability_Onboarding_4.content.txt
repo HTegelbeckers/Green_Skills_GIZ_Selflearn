@@ -1,0 +1,243 @@
+# GIZ Sustainability Onboarding 4 – Social Issues
+# Build:  python3 Build/build_course.py 4
+# Old version: Archive/Session_4/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 4 – Social Issues
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to topic four. So far, sustainability may have felt like an environmental topic. Then a father stands up at Milica's parents' evening and asks a very different question. If you can, turn the sound on.
+
+**Main topic · about 20 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, principal of Ravnica Technical School, and the people around her are fictional. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 4, Social Issues. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = A Question at the Parents' Evening
+NARRATION-0 = It is the parents' evening at Milica's school. She presents her green plan. A father who works in the mine stands up and asks: green for whom? And who pays for it?
+IMAGE-ALT = Students holding banners at a school strike for climate (Fridays for Future), Milan, 24 May 2019
+IMAGE-PATH = img/__School_strikes_for_climate_-_Fridays_For_Future_in_Milan__Italy_-_24_May__2019-05-24.jpg
+IMAGE-CAPTION = Students holding banners, School strikes for climate, Milan 2019 – Mænsard vokser – CC BY-SA 4.0 – via Wikimedia Commons
+CASE-TEXT = """
+At a parents' evening at Ravnica Technical School (fictional), Milica presents her green plan. A father who works in the mine stands up: *"Green for whom? And who pays for it?"* Milica thinks of pictures like this one, from Milan in 2019: young people demanding a say in how their society develops. Social sustainability is about who is included, who is affected and who has a voice.
+"""
+NARRATION-1 = The father's question leads to this one.
+GUIDING-QUESTION = What are the social dimensions of sustainability – and how can a green transition be fair?
+NARRATION-2 = First, an estimate for Serbia.
+PREDICT-QUESTION = In 2023, about what share of people in Serbia were at risk of poverty?
+PREDICT-CORRECT = About 19.9 %
+PREDICT-WRONG-1 = About 2 %
+PREDICT-WRONG-2 = About 50 %
+PREDICT-HINT = It is about one person in five.
+PREDICT-FEEDBACK = About 19.9 %, according to the Statistical Office of Serbia (SILC 2023). You will look at this in detail in Session 4_1.
+NARRATION-3 = Sustainability has a strong social side. And the father's question has a name.
+OUTCOME = One person in five. The shift to a green economy must be **fair** for workers and regions: this is called a **just transition**.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Your Way Through Topic 4
+NARRATION-0 = Topic four has two subtopics. Four one is about inequalities and democracy. Four two is about food, health and well-being. Here is the path.
+MODULE-1 = The social side
+MODULE-2 = Just transition
+MODULE-3 = Where to start
+MODULE-4 = 4_1 Inequalities
+MODULE-5 = 4_2 Food and health
+MILESTONE = Answer the father
+NARRATION-1 = After this session, you can do three things.
+KNOW-1 = The social dimensions of sustainability
+CAN-1 = Recognise them, and connect issues such as inequality, democracy, food and health to your life and work
+VALUE-1 = Asking who is included and who has a voice
+KNOW-2 = What a just transition means
+CAN-2 = Choose your starting point in the two subtopics
+VALUE-2 = Fairness for workers and regions
+NARRATION-2 = Which subtopic is which?
+ORDER-QUESTION = Each subtopic takes 20 to 30 minutes. Which one covers social inequalities and democratic participation, with examples?
+ORDER-CORRECT = 4_1
+ORDER-WRONG-1 = 4_2
+ORDER-WRONG-2 = Neither
+ORDER-HINT = The other one is about food systems, health and well-being.
+ORDER-FEEDBACK = 4_1 covers how inequalities and democratic participation are linked to sustainable development. 4_2 covers connections between food systems, health and well-being, and options for more sustainable choices.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = People and Planet First
+NARRATION-0 = The EU's Just Transition Mechanism supports the regions and workers most affected by the shift. And UNESCO says that TVET should help develop skills for inclusive and sustainable economies, and for inclusive and peaceful societies. Milica shows the parents this short video.
+WATCH-FOR-1 = why workers and communities must be part of the transition
+WATCH-FOR-2 = what "people and planet first" means in practice
+VIDEO-ALT = To solve the climate emergency, we need a just transition that puts people and planet first
+VIDEO-URL = https://www.youtube.com/watch?v=kGUKwm04L2k
+VIDEO-CAPTION = International Labour Organization – To solve the climate emergency, we need a just transition that puts people and planet first (1:36)
+VIDEO-SUMMARY = The ILO calls for a just transition: the shift to a green economy must be fair for workers and regions, not only fast. The EU's Just Transition Mechanism supports the regions and workers most affected. UNESCO (2022) says that TVET should help develop skills for inclusive and sustainable economies and for inclusive and peaceful societies.
+NARRATION-1 = What is needed, according to the ILO?
+Q1-QUESTION = According to the ILO, what is needed to solve the climate emergency?
+Q1-WRONG-1 = Faster economic growth
+Q1-CORRECT = A just transition that puts people and planet first
+Q1-WRONG-2 = A complete stop of economic activity
+Q1-HINT = Think about the phrase "people and planet first" in the title.
+Q1-FEEDBACK = The shift must be fair for workers and regions, not only fast. Growth alone does not address fairness, and stopping the economy would harm the very people the transition is meant to protect.
+NARRATION-2 = And one word.
+Q2-QUESTION = The fair shift to a green economy is called a … transition. (one word)
+Q2-ANSWER = just
+Q2-HINT = It is also in the name of the EU mechanism.
+
+
+[Concept_Explanation_Template_2.md]
+SLIDE-TITLE = Two Forms of Fairness
+NARRATION-0 = Milica answers the father with two ideas. In the three-pillar model, sustainability rests on ecological, social and economic pillars. In the doughnut, the inner ring is a social foundation. At the heart of the social dimension is justice, and researchers distinguish two forms.
+CONCEPT-A = Intragenerational justice
+CONCEPT-B = Intergenerational justice
+CRITERION-1 = Word
+A-1 = *intra* = within
+B-1 = *inter* = between
+CRITERION-2 = Fairness towards
+A-2 = people living today
+B-2 = future generations
+CRITERION-3 = Claim
+A-3 = everyone should be able to lead a decent life that at least satisfies fundamental needs
+B-3 = people who come later must also be able to satisfy their needs
+CRITERION-4 = Question for the school
+A-4 = Who is affected by our plan today?
+B-4 = What do we leave for later cohorts?
+NARRATION-1 = Here is what this looks like in Milica's plan.
+EXAMPLE-A = Training places that reach the students who need them most
+EXAMPLE-B = Programmes that still lead to jobs in thirty years
+NARRATION-2 = Be careful with one assumption.
+MISCONCEPTION = "Fairness between countries is all that counts." Intragenerational justice covers everyone living today, including within one country or one town.
+NARRATION-3 = Now you decide.
+STATEMENT-1 = Everyone today should be able to lead a decent life.
+STATEMENT-2 = Decisions today must not take away the chances of people yet to come.
+STATEMENT-3 = A miner's family should not carry the cost of change alone.
+STATEMENT-4 = Keeping the forest for the next generation of foresters.
+CLASSIFY-HINT = "Intra" means "within": which group of people is meant here?
+CLASSIFY-FEEDBACK = Statements 1 and 3 are about people living today. Statements 2 and 4 are about future generations. (Michelsen et al. 2016)
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Where Do You Start?
+NARRATION-0 = Now a short self-assessment. Nothing is graded. This helps you choose a starting point.
+GUIDING-QUESTION = How familiar are these topics?
+NARRATION-1 = Inequalities and democracy.
+ASPECT-1 = **Inequalities and democracy** (4_1)
+NARRATION-2 = Food, health and well-being.
+ASPECT-2 = **Food, health and well-being** (4_2)
+NARRATION-3 = The just transition.
+ASPECT-3 = **The just transition** (4_1)
+NARRATION-4 = And the social foundation of the doughnut.
+ASPECT-4 = **The social foundation:** the minimum every person needs, for example food, health, education and work
+NARRATION-5 = Here is the recommendation. Start where you are weakest. If both areas are new, start with four one, because four two builds on its ideas of justice and fairness.
+WHY-IT-MATTERS = **Inequalities and democracy weakest?** Start with 4_1: it gives you the ideas of justice that 4_2 builds on. **Food and health weakest?** Start with 4_2. **Both new?** Start with 4_1, then 4_2. **Know both well?** Still read 4_1 first: the facts on inequalities in Serbia are a useful reference.
+NARRATION-6 = Now mark what you already know, and use your answer to choose your next session.
+
+
+[Interactive_Exercise_Template_1.md]
+SLIDE-TITLE = Warm-up Check
+NARRATION-0 = Three quick checks to activate what you already know. Every check explains its answer.
+Q1-QUESTION = In the doughnut model, the social foundation is the minimum every person needs. Which item belongs to it?
+Q1-WRONG-1 = Power
+Q1-CORRECT = Food, health, education and work
+Q1-WRONG-2 = Money and shares
+Q1-HINT = Remember the inner ring of the doughnut.
+Q1-FEEDBACK = Food, health, education and work are examples of the social foundation: the minimum every person needs for a decent life.
+NARRATION-1 = Next, which are social dimensions?
+Q2-QUESTION = Which of the following are social dimensions of sustainability?
+Q2-CORRECT-1 = Gender inequality
+Q2-WRONG-1 = Reducing CO₂ emissions
+Q2-CORRECT-2 = Democratic participation and strong institutions
+Q2-WRONG-2 = Protecting the ozone layer
+Q2-HINT = Ecological measures are important, but they are not social dimensions themselves.
+Q2-FEEDBACK = Gender inequality, food, health, well-being and democratic participation (SDG 16: peace, justice, strong institutions) are social dimensions. Reducing CO₂ emissions is an ecological measure.
+NARRATION-2 = And a goal number. S D G one is no poverty, five is gender equality, ten is reduced inequalities and sixteen is peace, justice and strong institutions.
+Q3-QUESTION = SDG 1 is "no poverty", SDG 5 "gender equality" and SDG 16 "peace, justice and strong institutions". Which goal number stands for "reduced inequalities"? (number)
+Q3-ANSWER = 10
+Q3-HINT = It lies between 5 and 16: it is a round number.
+Q3-FEEDBACK = SDG 10. Together with SDG 1, 2 (zero hunger), 3 (health), 4 (education), 5 and 16, it forms the social core of the SDGs.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Green for Whom?
+NARRATION-0 = Milica writes to the father after the parents' evening. To do that, she needs to name a concrete issue and a concrete group. What would you write?
+IMAGE-ALT = Students holding banners at a school strike for climate (Fridays for Future), Milan, 24 May 2019
+IMAGE-PATH = img/__School_strikes_for_climate_-_Fridays_For_Future_in_Milan__Italy_-_24_May__2019-05-24.jpg
+IMAGE-CAPTION = Students holding banners, School strikes for climate, Milan 2019 – Mænsard vokser – CC BY-SA 4.0
+CASE-TEXT = """
+After the parents' evening, Milica writes a short answer to the father. A good answer names a **concrete group** and a **concrete link** to the transition. She notes:
+"""
+DATA-LABEL-1 = At risk of poverty, Serbia (2023)
+DATA-VALUE-1 = about 19.9 %
+DATA-LABEL-2 = The school's region (fictional)
+DATA-VALUE-2 = many families depend on the mine
+DATA-LABEL-3 = Support for affected regions in the EU
+DATA-VALUE-3 = Just Transition Mechanism
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = Think of your own region. Name a concrete issue.
+QUESTION-1 = Name one social issue in your region that has a link to the green transition: a change in jobs, a health or food concern, or a group that is affected more than others.
+MODEL-ANSWER-1 = """
+There is no single correct answer, but a good reflection names a **concrete group** and a **concrete link**. A **ministry officer** might point to regions whose industry is shrinking, and ask how qualifications and funding follow the people. A **school developer** might look at which occupations students will actually have in ten years. A **principal** might notice who is most affected when the campus changes, for example staff with low incomes or students without easy access to transport.
+"""
+NARRATION-Q-1 = Next, who is involved?
+QUESTION-2 = Who in your system – ministry, school or company – is involved in this issue?
+MODEL-ANSWER-2 = """
+All three views share the same core question of a just transition: **who benefits, who is affected, and who has a say?** A good answer names at least one actor who decides, and one group that is affected but not yet heard.
+"""
+NARRATION-Q-2 = Finally, what would you write to the father?
+QUESTION-3 = If you were Milica, what would you answer the father in two sentences?
+MODEL-ANSWER-3 = """
+For example: "You are right to ask. A green plan is only fair if families who depend on the mine have a say and if new training reaches them first, and that is what we want to work on with you." The answer takes the question seriously, and it names who is involved.
+"""
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Milica Learned That Evening
+NARRATION-0 = Milica drives home after the parents' evening. Here is what stayed with her.
+NARRATION-1 = First, sustainability has a strong social side.
+TAKEAWAY-1 = Sustainability has a strong social side: the social pillar, and the doughnut's social foundation.
+NARRATION-2 = Second, at its heart is justice.
+TAKEAWAY-2 = At its heart is **justice**: for people living today, and for future generations.
+NARRATION-3 = Third, the transition must be fair.
+TAKEAWAY-3 = The shift to a green economy must be fair for workers and regions: a **just transition**.
+NARRATION-4 = Fourth, VET has a role.
+TAKEAWAY-4 = TVET should help develop skills for inclusive and sustainable economies, and for inclusive and peaceful societies (UNESCO 2022).
+REMEMBER = Who benefits, who is affected, and who has a say?
+NARRATION-5 = One last question.
+RECAP-QUESTION = What is *intragenerational* justice?
+RECAP-WRONG-1 = Fairness towards future generations
+RECAP-WRONG-2 = Fairness between different countries only
+RECAP-CORRECT = Fairness towards people living today
+RECAP-HINT = "Intra" means "within".
+RECAP-FEEDBACK = Intragenerational justice is about people living today. Fairness towards future generations is intergenerational justice.
+NARRATION-6 = Choose your subtopic. If you follow the road, the municipality announces a solar park in session four one. Who should have a say?
+OUTLOOK = Choose your subtopic as recommended. In Session 4_1, the municipality announces a solar park, and Milica has to decide who sits at the table.
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Hilf, J. (2024): *Introduction to the Sustainability Approach*. GIZ training, Day 1 – adapted
+- Hilf, J. (2024): *SDGs and Sustainable Economies*. GIZ training, Day 2 – adapted
+- Hilf, J. (2025): *Models of Sustainability …*. GIZ workshop – adapted
+- Hilf, J. (2026): *Green TVET – Concepts and practical approaches*. Expert input – adapted
+- Hilf, J. (2026): *C1 Sustainability: origins and concepts* (course sample) – adapted
+- Michelsen, G. et al. (2016) – via Hilf (2024)
+- Wichterich, C. (2002) – via Hilf (2024)
+- UNESCO (2022): *Transforming TVET for successful and just transitions* – summarised
+- Beta Briefing (2024): *At-risk-of-poverty rate in Serbia slightly down from 2022* – https://betabriefing.com/news/politics/28905-at-risk-of-poverty-rate-in-serbia-slightly-down-from-2022 – summarised
+- Video: International Labour Organization – *To solve the climate emergency, we need a just transition that puts people and planet first* – https://www.youtube.com/watch?v=kGUKwm04L2k – embedded
+- Image: Mænsard vokser – *Students holding banners, School strikes for climate, Milan 2019* – CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Students_holding_banners,_School_strikes_for_climate_-_Fridays_For_Future_in_Milan,_Italy_-_24_May,_2019-05-24.jpg – unchanged
+- Case: Milica Stojanović, Ravnica Technical School, the parents' evening and the father are fictional – created for this course
+- This session: GIZ Sustainability Onboarding, GIZ / OVGU – CC BY-SA 4.0 [CHECK: confirm with GIZ]
+"""

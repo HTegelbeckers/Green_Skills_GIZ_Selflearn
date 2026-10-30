@@ -1,0 +1,341 @@
+# GIZ Sustainability Onboarding 6_2 – Competences for sustainable development and change agency
+# Build:  python3 Build/build_course.py 6_2
+# Old version: Archive/Session_6_2/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 6_2 – Competences for sustainable development and change agency
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to session six two. The route is clear, but Milica's teachers have an objection: green topics are not in our curriculum. If you can, turn the sound on.
+
+**Subtopic of Session 6 · about 30 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, Stefan Ilić, Ravnica Technical School and its teachers are fictional. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 6_2, Competences for sustainable development and change agency. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = "Not in Our Curriculum"
+NARRATION-0 = Milica shares the plan with her teachers. Their answer is not hostile, just tired. Green topics are not in our curriculum. And outside the school, young people are already taking action, like these students in Tartu.
+IMAGE-ALT = School strike for climate in Tartu, Estonia, young people as change agents
+IMAGE-PATH = img/1280px-School_strike_for_climate_in_Tartu__Estonia__on_March_15__2019_04.jpg
+IMAGE-CAPTION = School strike for climate in Tartu – Ehitaja – CC BY-SA 4.0 – via Wikimedia Commons
+CASE-TEXT = """
+Milica shares the green plan with her teachers (fictional). Their answer: *"Green topics are not in our curriculum."* Meanwhile, young people elsewhere are already acting, like these students in Tartu, Estonia. Sustainability is changing what schools and VET institutions are expected to do.
+"""
+NARRATION-1 = Milica wonders whether more content is really the answer.
+GUIDING-QUESTION = Which competences do people need to act – and how can you become a change agent in your own role?
+NARRATION-2 = What do you think?
+PREDICT-QUESTION = Which statement about Education for Sustainable Development (ESD) is correct?
+PREDICT-CORRECT = ESD enables people to understand the impact of their own actions and to make responsible, sustainable choices.
+PREDICT-WRONG-1 = ESD is the same as environmental education.
+PREDICT-WRONG-2 = ESD transfers fixed knowledge that every learner must reproduce exactly.
+PREDICT-HINT = Think of what a learner should be able to do afterwards.
+PREDICT-FEEDBACK = ESD grew out of environmental education in the 1990s, but it is broader. It is about understanding the impact of your own actions and making responsible choices. It is not rigid knowledge transfer.
+NARRATION-3 = So it is not enough to know about sustainability. You must be able to do something with that knowledge.
+OUTCOME = It is not enough to *know* about sustainability. You must be able to *do* something with that knowledge: in a ministry, in a school development team, or in a school.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Today's Path
+NARRATION-0 = Here is today's path.
+MODULE-1 = Why competences
+MODULE-2 = Four steps
+MODULE-3 = GreenComp
+MODULE-4 = Green skills in VET
+MODULE-5 = Change agents
+MILESTONE = Your first step
+NARRATION-1 = After this session, you can do three things.
+KNOW-1 = The four ESD competence steps and the GreenComp areas and competences
+CAN-1 = Describe these key competences for sustainable development
+VALUE-1 = Competence matters more than content alone
+KNOW-2 = Occupation-specific green skills and cross-cutting competences
+CAN-2 = Explain the difference, and reflect on acting as a small-scale change agent in your role
+VALUE-2 = You do not need a special title to act
+NARRATION-2 = A quick look at the path.
+ORDER-QUESTION = Which step comes directly before change agents?
+ORDER-CORRECT = Green skills in VET
+ORDER-WRONG-1 = Four steps
+ORDER-WRONG-2 = GreenComp
+ORDER-HINT = Follow the arrows from left to right.
+ORDER-FEEDBACK = First the skills, then the people who use them to change something.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Why Competences, Not Just Content?
+NARRATION-0 = Stefan offers Milica an idea. ESD stands for Education for Sustainable Development. Modern education aims at competences instead of rigid knowledge transfer. Watch this video of about three minutes.
+WATCH-FOR-1 = what ESD means, and how it differs from "just teaching about the environment"
+WATCH-FOR-2 = what it asks of learners
+VIDEO-ALT = What is Education for Sustainable Development?
+VIDEO-URL = https://www.youtube.com/watch?v=YUFqamr78Xk
+VIDEO-CAPTION = Deutsche UNESCO-Kommission – Learning to change the world! What is Education for Sustainable Development? (3:06)
+VIDEO-SUMMARY = """
+*"ESD enables all people to understand the impact of their own actions on the world and to make responsible, sustainable choices."* (UNESCO 2022)
+
+**ESD** evolved from environmental education in the 1990s, after the Rio Conference. Its key idea: education has a central role for future developments.
+
+A **competence** is the ability to act in variable situations. Four kinds are often named: professional, methodological, self- and social competence, plus cognitive and problem-solving skills.
+"""
+NARRATION-1 = What does UNESCO say?
+Q1-QUESTION = According to UNESCO (2022), ESD enables people to …
+Q1-WRONG-1 = reproduce a fixed set of environmental facts
+Q1-CORRECT = understand the impact of their own actions and make responsible, sustainable choices
+Q1-WRONG-2 = vote for sustainability policies in the European Parliament
+Q1-HINT = It is about understanding and choice.
+Q1-FEEDBACK = UNESCO's definition is about understanding and choice, not about memorising facts or a specific political act.
+NARRATION-2 = One word.
+Q2-QUESTION = A … is the ability to act in variable situations. (one word)
+Q2-ANSWER = competence
+Q2-HINT = It is the title of this session.
+
+
+[Concept_Explanation_Template_3.md]
+SLIDE-TITLE = Four Steps: From Recognising to Acting
+NARRATION-0 = Research describes ESD competence development in four steps. They build on each other. Milica recognises herself in them.
+STEP-1 = Recognise
+STEP-2 = Evaluate
+STEP-3 = Change
+STEP-4 = Act
+NARRATION-1 = First, notice the problem.
+STEP-TEXT-1 = Apply knowledge; recognise problems of unsustainable development. A ministry officer recognises that VET programmes are missing green skills.
+NARRATION-2 = Second, draw conclusions.
+STEP-TEXT-2 = Draw conclusions from analyses of the present and studies of the future.
+NARRATION-3 = Third, develop solutions.
+STEP-TEXT-3 = Rethink human–nature relations; develop ways to solve problems. The officer changes the programmes.
+NARRATION-4 = Fourth, implement decisions.
+STEP-TEXT-4 = Make and implement decisions that realise sustainable development, for example by funding new training places (de Haan 2008; Brundiers et al. 2021).
+ORDER-TITLE = Put the Steps in Order
+NARRATION-ORDER-0 = Now you put the four steps in order. Drag each card into the right gap.
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = GreenComp: Four Areas, Twelve Competences
+NARRATION-0 = In 2022, the European Commission's Joint Research Centre published GreenComp, the European sustainability competence framework. It is a reference framework for all learners, of any age. It is licensed CC BY 4.0, so you may adapt it with credit.
+IMAGE-ALT = Heat pump installation on a building, photo by Jim Barton
+IMAGE-PATH = img/1280px-Heat_pump_installation_-_geograph.org.uk_-_7495844.jpg
+IMAGE-CAPTION = Heat pump installation – Jim Barton – CC BY-SA 2.0 – via Wikimedia Commons / geograph.org.uk
+INTRO-TEXT = """
+**GreenComp** (European Commission JRC, 2022; CC BY 4.0) is a reference framework for all learners, of any age.
+
+<!-- data-type="none" -->
+| Area | Competences |
+|---|---|
+| **1. Embodying sustainability values** | valuing sustainability · supporting fairness · promoting nature |
+| **2. Embracing complexity in sustainability** | systems thinking · critical thinking · problem framing |
+| **3. Envisioning sustainable futures** | futures literacy · adaptability · exploratory thinking |
+| **4. Acting for sustainability** | political agency · collective action · individual initiative |
+
+Area 2 in one line: **systems thinking** is seeing how parts of a system are connected; **critical thinking** is questioning assumptions and evidence; **problem framing** is defining a problem clearly before solving it.
+"""
+NARRATION-1 = Here is the key point.
+KEY-MESSAGE = The competences are **interrelated and non-hierarchical**: none is "higher" than another, and they work together.
+NARRATION-2 = Check the number.
+ACTIVATION-QUESTION = How many competences does GreenComp describe in total? (number)
+ACTIVATION-ANSWER = 12
+ACTIVATION-HINT = Four areas with three competences each.
+ACTIVATION-FEEDBACK = 12 competences in 4 areas. The framework was published in 2022 (Bianchi, Pisiotis & Cabrera Giraldez).
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Introducing GreenComp
+NARRATION-0 = In this video of about seven minutes, the JRC author introduces GreenComp. Watch for the four areas, and for why the competences are described as not hierarchical.
+WATCH-FOR-1 = the four competence areas
+WATCH-FOR-2 = why the competences are described as **not hierarchical**
+VIDEO-ALT = Introducing GreenComp: the European sustainability competence framework
+VIDEO-URL = https://www.youtube.com/watch?v=F6DGQXE8fD0
+VIDEO-CAPTION = Guia Bianchi (JRC) – Introducing GreenComp – the European sustainability competence framework (7:15)
+VIDEO-SUMMARY = The video (Guia Bianchi, JRC, 7:15) introduces GreenComp: 4 competence areas with 12 interrelated, non-hierarchical competences, as a reference framework for all learners, of any age.
+NARRATION-1 = How is it structured?
+Q1-QUESTION = How is GreenComp structured?
+Q1-WRONG-1 = 12 independent, hierarchical competences
+Q1-CORRECT = 4 competence areas with 12 interrelated, non-hierarchical competences
+Q1-WRONG-2 = 4 competences, one for each pillar of sustainability
+Q1-HINT = Remember the table on the previous page.
+Q1-FEEDBACK = GreenComp (JRC, 2022) has 4 competence areas with 12 interrelated, non-hierarchical competences. Because they are non-hierarchical, you group them; you do not rank them.
+NARRATION-2 = One more word.
+Q2-QUESTION = Read the area names as verbs: embody values, embrace complexity, envision futures, and … (one word)
+Q2-ANSWER = act
+Q2-HINT = It is the fourth area: "… for sustainability". The base form of the verb is enough.
+
+
+[Concept_Explanation_Template_2.md]
+SLIDE-TITLE = Green Skills: Two Kinds
+NARRATION-0 = In VET, green competences combine two kinds. Stefan points at the heat pump in the school's new workshop.
+CONCEPT-A = Occupation-specific skills
+CONCEPT-B = Cross-cutting competences
+CRITERION-1 = What
+A-1 = what you do in a concrete job
+B-1 = what you can do in many jobs
+CRITERION-2 = Examples
+A-2 = installing heat pumps, handling refrigerants, working with high-voltage systems in electric vehicles
+B-2 = systems thinking, adaptability and the other GreenComp competences
+CRITERION-3 = Who needs them
+A-3 = people in that occupation
+B-3 = all learners, of any age
+CRITERION-4 = When you review a VET course, use
+A-4 = three lenses: **resource efficiency** (material, energy, water; reuse versus replacement; waste), **climate relevance** (emissions of the technology and work process), **occupational safety** (new hazards and protective measures)
+B-4 = the GreenComp competences as a reference
+NARRATION-1 = Here are two examples.
+EXAMPLE-A = Handling refrigerants safely
+EXAMPLE-B = Seeing how a building's heating, electricity and insulation connect (systems thinking)
+NARRATION-2 = There is a common error here.
+MISCONCEPTION = "Systems thinking and adaptability are occupation-specific skills." They are cross-cutting. That is why they appear in GreenComp for all learners.
+NARRATION-3 = Now you sort them.
+STATEMENT-1 = Installing heat pumps
+STATEMENT-2 = Systems thinking
+STATEMENT-3 = Handling refrigerants
+STATEMENT-4 = Adaptability
+CLASSIFY-HINT = Does it belong to a concrete job, or does it work in many jobs?
+CLASSIFY-FEEDBACK = Heat pumps and refrigerants are occupation-specific. Systems thinking and adaptability work in many occupations. Green competences combine both kinds.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = You Can Be a Change Agent
+NARRATION-0 = You do not need a special title to be a change agent. Milica thinks of one of her teachers, who has started a small project all on his own.
+GUIDING-QUESTION = What is a change agent, and where do change agents act?
+NARRATION-1 = First, the definition.
+ASPECT-1 = **Change agent (change maker):** a person who consciously or unconsciously exerts influence on sustainability-relevant changes in the world (Bellina et al. 2021; Brandt 2016)
+NARRATION-2 = Second, three words for influence.
+ASPECT-2 = **Footprint:** the negative, passive effect. **Handprint:** the positive, active effect. **Brainprint:** education plus empowerment, the ability to think through problems and act on them
+NARRATION-3 = Third, their fields.
+ASPECT-3 = **Fields:** leadership and management, education, culture and arts, activism, everyday decisions, political decision-making, economic and consumer decisions, universities, and **schools and TVET institutions**
+NARRATION-4 = And fourth, a practical role: the sustainability officer.
+ASPECT-4 = **Sustainability officer for a TVET campus:** implements the strategy (measures, support, funding), networks stakeholders (initiatives, events, advice on applications and green-skills jobs), manages climate protection (energy and GHG balance) and develops an integrated ESD action plan
+NARRATION-5 = And here are the take-home messages.
+WHY-IT-MATTERS = Green empowerment and competences matter more than content alone. Be a change maker, and let colleagues and students become change makers. Network: a team is stronger than an individual.
+NARRATION-6 = Which of these ideas did you already know?
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = Example: The Green Art Incubator
+NARRATION-0 = The GIZ project Teaching skills for green transformation works with the Ministry of Education to revise VET programmes to include green skills. And here is one example of what is already happening in Serbia.
+WATCH-FOR-1 = what the project does
+WATCH-FOR-2 = how young people turn green skills into action
+VIDEO-ALT = Green Skills Award 2023 Finalist: Serbia, The Green Art Incubator
+VIDEO-URL = https://www.youtube.com/watch?v=ZvukstUO9a0
+VIDEO-CAPTION = European Training Foundation – Green Skills Award 2023 Finalist: Serbia – The Green Art Incubator (1:26)
+VIDEO-SUMMARY = "The Green Art Incubator" was a finalist of the ETF Green Skills Award 2023 from Serbia. [CHECK: Juliana – one sentence on what the project does, from the ETF page]
+NARRATION-1 = Which statement is correct?
+Q1-QUESTION = Which statement about "The Green Art Incubator" is correct?
+Q1-WRONG-1 = It is a national ministry programme started in 2024.
+Q1-CORRECT = It was a finalist of the ETF Green Skills Award 2023 from Serbia.
+Q1-WRONG-2 = It is one of the 12 GreenComp competences.
+Q1-HINT = Look at the caption of the video.
+Q1-FEEDBACK = It was a finalist of the ETF Green Skills Award 2023 from Serbia. It is neither a ministry programme nor a GreenComp competence.
+NARRATION-2 = And the year.
+Q2-QUESTION = In which year was the project a finalist? (4 digits)
+Q2-ANSWER = 2023
+Q2-HINT = It is in the caption.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = First Step at Milica's School
+NARRATION-0 = Now you help Milica. The same GreenComp competences fit all three roles in the VET system. Only the field of action changes.
+IMAGE-ALT = School strike for climate in Tartu, Estonia, young people as change agents
+IMAGE-PATH = img/1280px-School_strike_for_climate_in_Tartu__Estonia__on_March_15__2019_04.jpg
+IMAGE-CAPTION = School strike for climate in Tartu – Ehitaja – CC BY-SA 4.0
+CASE-TEXT = """
+Milica's teachers say: *"Green topics are not in our curriculum."* The same GreenComp competences fit all three roles. Only the field of action changes:
+"""
+DATA-LABEL-1 = Ministry officer
+DATA-VALUE-1 = political agency: standards and funding
+DATA-LABEL-2 = School developer
+DATA-VALUE-2 = collective action: networks of schools, teacher training
+DATA-LABEL-3 = Principal
+DATA-VALUE-3 = individual initiative and collective action: school vision, sustainability officer
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, Milica's situation.
+QUESTION-1 = You are the principal. Which GreenComp competence would you start with, and how would you make a first change in the school?
+MODEL-ANSWER-1 = """
+A common first step is **problem framing** (area 2): instead of arguing about the curriculum, work with teachers to define what "green" should mean in your school: one concrete goal, one small pilot. A ministry perspective: check which standards already allow green content, and fund a teacher exchange. A school developer would connect you to a partner school that has already done it. Your answer is valid if it names one competence, one concrete first step, and one person or group you would involve.
+"""
+NARRATION-Q-1 = Now your own mix.
+QUESTION-2 = Which two GreenComp competences are your strongest, and which one is your weakest? What role could you play as a change agent, based on that mix?
+MODEL-ANSWER-2 = """
+Many **ministry officers** name **political agency** as a strength and **futures literacy** as a growth area. **School developers** often score high on **collective action** and may find **adaptability** challenging. **Principals** frequently name **individual initiative**, while **problem framing** can be hard when every request feels urgent. A useful role often pairs one strength with one growth area. There is no "correct" combination.
+"""
+NARRATION-Q-2 = And finally, your network.
+QUESTION-3 = Name one person in your network who already acts as a change agent for sustainability. What do they do, and what could you learn from them?
+MODEL-ANSWER-3 = """
+A change agent in a school network is often a teacher who started a small project, for example an energy audit, and now advises other schools. A ministry officer's network may include a colleague who shares application templates. What you can learn is usually the practice of starting small, networking and making the work visible. If you cannot name a person yet, that is a useful signal: the next step is to find one, because a team is stronger than an individual.
+"""
+
+
+[Summary_Recap_Template_2.md]
+SLIDE-TITLE = Exit Ticket
+NARRATION-0 = Three short questions, one per objective. You can repeat them as often as you like.
+OBJECTIVE-1 = Change agents in VET
+Q1-QUESTION = A ministry officer is drafting a new occupational standard for "solar installer". Which GreenComp competence best fits this kind of work?
+Q1-CORRECT = Political agency
+Q1-WRONG-1 = Futures literacy
+Q1-WRONG-2 = Valuing sustainability
+Q1-HINT = Think about which field of action a ministry officer works in: standards and funding.
+NARRATION-1 = Next, the sustainability officer.
+OBJECTIVE-2 = Sustainability officer
+Q2-QUESTION = Which are tasks of a sustainability officer for a TVET campus?
+Q2-CORRECT-1 = Network internal and external stakeholders
+Q2-WRONG-1 = Set the national education budget
+Q2-CORRECT-2 = Develop an integrated ESD action plan
+Q2-HINT = Setting the national education budget is a state-level task.
+NARRATION-2 = And one number.
+OBJECTIVE-3 = GreenComp
+Q3-QUESTION = How many competence areas does GreenComp have? (number)
+Q3-ANSWER = 4
+Q3-HINT = Values, complexity, futures, and acting.
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Milica Tells Her Teachers
+NARRATION-0 = At the next staff meeting, Milica does not hand out a new curriculum. She asks one question instead. Here is what she knows now.
+NARRATION-1 = First, competences.
+TAKEAWAY-1 = ESD aims at **competences**, not rigid knowledge transfer: recognise, evaluate, change, act.
+NARRATION-2 = Second, GreenComp.
+TAKEAWAY-2 = **GreenComp**: 4 areas, 12 interrelated, non-hierarchical competences.
+NARRATION-3 = Third, two kinds of skills.
+TAKEAWAY-3 = Green skills combine occupation-specific skills and cross-cutting competences.
+NARRATION-4 = Fourth, change agents.
+TAKEAWAY-4 = Anyone can be a **change agent**, and you do not need a special title.
+REMEMBER = Start with one competence, one small step and one partner.
+NARRATION-5 = One last question.
+RECAP-QUESTION = Complete the term: education plus empowerment creates a …
+RECAP-WRONG-1 = footprint
+RECAP-WRONG-2 = handprint
+RECAP-CORRECT = brainprint
+RECAP-HINT = It is about thinking through problems and acting on them.
+RECAP-FEEDBACK = Education plus empowerment is called the brainprint: the dimension that can turn a negative footprint into a positive handprint.
+NARRATION-6 = Now it is time for the last step: think global, act local. In session six three, you write your own plan, with Milica's as your example.
+OUTLOOK = Session 6_3, *Think global, act local*. Milica looks at her school's roof, and you start planning your own small green initiative.
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Bianchi, G., Pisiotis, U. & Cabrera Giraldez, M. (2022): *GreenComp – The European sustainability competence framework*. JRC, Publications Office of the EU – CC BY 4.0 – https://publications.jrc.ec.europa.eu/repository/handle/JRC128040 – adapted
+- Hilf, J. (2024): *Introduction to the Sustainability Approach*. GIZ training, Day 1 – adapted
+- Hilf, J. (2025): *Models of Sustainability …*. GIZ workshop – adapted
+- Hilf, J. (2026): *Green TVET – Concepts and practical approaches*. Expert input – adapted (three lenses)
+- de Haan, G. (2008); Brundiers, K. et al. (2021): *Key competencies in sustainability in higher education*. Sustainability Science 16(1), 13–29; Bellina, L. et al. (2020/2021); Brandt (2016) – via Hilf – adapted
+- UNESCO (2022): *Transforming TVET for successful and just transitions* – quoted
+- Cedefop & UNESCO-UNEVOC (2025): *Meeting skill needs for the green transition* – https://www.cedefop.europa.eu/en/publications/4220 – linked only
+- GIZ: *Teaching skills for green transformation* – https://www.giz.de/en/worldwide/123790.html – linked
+- European Training Foundation: Green Skills Award 2023 – https://www.youtube.com/watch?v=ZvukstUO9a0 – embedded
+- Video: Guia Bianchi (JRC): *Introducing GreenComp – the European sustainability competence framework* – https://www.youtube.com/watch?v=F6DGQXE8fD0 – embedded
+- Video: Deutsche UNESCO-Kommission: *Learning to change the world! What is Education for Sustainable Development?* – https://www.youtube.com/watch?v=YUFqamr78Xk – embedded
+- Image: Jim Barton – *Heat pump installation* – CC BY-SA 2.0 – https://commons.wikimedia.org/wiki/File:Heat_pump_installation_-_geograph.org.uk_-_7495844.jpg – unchanged
+- Image: Ehitaja – *School strike for climate in Tartu* – CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:School_strike_for_climate_in_Tartu,_Estonia,_on_March_15,_2019_04.jpg – unchanged
+- Case: Milica Stojanović, Stefan Ilić, Ravnica Technical School and its teachers are fictional – created for this course
+- This session: GIZ Sustainability Onboarding, GIZ / OVGU, 2026 – CC BY-SA 4.0 [CHECK: confirm with GIZ]
+"""

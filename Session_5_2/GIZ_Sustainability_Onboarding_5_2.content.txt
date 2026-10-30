@@ -1,0 +1,311 @@
+# GIZ Sustainability Onboarding 5_2 – Alternative approaches to green economies
+# Build:  python3 Build/build_course.py 5_2
+# Old version: Archive/Session_5_2/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 5_2 – Alternative approaches to green economies
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to session five two. A company partner has an offer for Milica's school: a repair workshop. What kind of economy would that be? If you can, turn the sound on.
+
+**Subtopic of Session 5 · about 30 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, Stefan Ilić, Ravnica Technical School and the company partner are fictional. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 5_2, Alternative approaches to green economies. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = A Repair Workshop at School
+NARRATION-0 = A company partner offers to set up a repair workshop at Milica's school. Students would repair and refurbish electronics and machines. The school would collect broken equipment from local businesses, instead of scrapping it. Stefan, the school developer, likes it. But what is this, exactly?
+IMAGE-ALT = The circular economy concept: a loop of design, production, use, return and regeneration instead of a linear take-make-dispose chain
+IMAGE-PATH = img/1280px-The_Circular_Economy_concept.png
+IMAGE-CAPTION = The Circular Economy concept – Geissdoerfer, M., Pieroni, M. P., Pigosso, D. C. A., Soufani, K. – CC BY 4.0 – via Wikimedia Commons
+CASE-TEXT = """
+A company partner offers to set up a **repair workshop** at Ravnica Technical School (fictional): students would repair and refurbish electronics and machines, and the school would collect broken equipment from local businesses instead of scrapping it. The school developer, Stefan Ilić, likes the idea, and he wants to describe it correctly in the green plan.
+"""
+NARRATION-1 = This is the question for the session.
+GUIDING-QUESTION = Which alternative approaches to a green or sustainable economy exist – and what do they mean for the professions your schools train for?
+NARRATION-2 = Make a first guess.
+PREDICT-QUESTION = Which approach does the repair workshop best fit?
+PREDICT-CORRECT = Circular economy
+PREDICT-WRONG-1 = Green economy
+PREDICT-WRONG-2 = Degrowth
+PREDICT-HINT = Which of these verbs is at the heart of a repair workshop: share, lease, reuse, repair, refurbish, recycle?
+PREDICT-FEEDBACK = A repair workshop is a textbook circular-economy example: repair and refurbish are core verbs, and broken equipment is returned to the economy instead of being scrapped.
+NARRATION-3 = Stefan writes down the term. But there are more approaches, and they create different professions.
+OUTCOME = The workshop keeps products in use. In this session you will compare this approach with others, and see which professions each one creates.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Today's Path
+NARRATION-0 = Here is today's path.
+MODULE-1 = Green economy
+MODULE-2 = Criticism
+MODULE-3 = Circular economy
+MODULE-4 = Comparing both
+MODULE-5 = Further approaches
+MILESTONE = Describe the workshop
+NARRATION-1 = After this session, you can do these things.
+KNOW-1 = Alternative approaches to green or sustainable economies
+CAN-1 = Identify and briefly describe them
+VALUE-1 = Looking critically at labels
+KNOW-2 = Green economy and circular economy
+CAN-2 = Compare them, and consider what they mean for companies and professions
+VALUE-2 = Repair first, buy second
+NARRATION-2 = A quick look at the path.
+ORDER-QUESTION = Which step comes directly after the criticism of the green economy?
+ORDER-CORRECT = Circular economy
+ORDER-WRONG-1 = Green economy
+ORDER-WRONG-2 = Further approaches
+ORDER-HINT = Follow the arrows from left to right.
+ORDER-FEEDBACK = After the criticism comes the circular economy, the model behind Milica's repair workshop.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = What Is a Green Economy?
+NARRATION-0 = Stefan starts with the best-known term. In 2008, the UN Environment Programme launched the Green Economy Initiative, to motivate policymakers to support environmental investments. This video explains the idea in plain language.
+WATCH-FOR-1 = what the video says a green economy is
+WATCH-FOR-2 = how it differs from the way we produce and consume today
+VIDEO-ALT = What is a green economy?
+VIDEO-URL = https://www.youtube.com/watch?v=VkOtfvhtawA
+VIDEO-CAPTION = Greenpeace UK – What is a green economy? (4:08)
+VIDEO-SUMMARY = """
+In 2008, the UN Environment Programme launched the **Green Economy Initiative** to motivate policymakers to support environmental investments.
+
+**Definition:** "An inclusive green economy is one that improves human well-being and builds social equity while reducing environmental risks and scarcities." (UN Environment 2015)
+
+In 2015, at the UN General Assembly, UN Environment published *Uncovering pathways towards an inclusive green economy*. It describes seven concepts: sharing, circularity, collaboration, solidarity, resilience, opportunity and interdependence.
+
+This approach is seen as an alternative to today's dominant model, which, the argument goes, exacerbates inequalities, encourages waste, triggers resource scarcities and threatens environment and health.
+"""
+NARRATION-1 = Which statement fits the definition?
+Q1-QUESTION = Which statement best describes the green economy as defined by UN Environment?
+Q1-WRONG-1 = An economy that reduces environmental risks, but only if growth slows down
+Q1-CORRECT = An economy that improves human well-being and builds social equity while reducing environmental risks and scarcities
+Q1-WRONG-2 = An economy that replaces all fossil fuels with renewable energy
+Q1-HINT = The definition combines three goals at once: well-being, equity and environment.
+Q1-FEEDBACK = The definition has three parts: better well-being, more social equity, and fewer environmental risks and scarcities. Slowing growth is not part of this definition. That is the point of another approach you will meet later.
+NARRATION-2 = And a year.
+Q2-QUESTION = In which year did the UN Environment Programme launch the Green Economy Initiative? (4 digits)
+Q2-ANSWER = 2008
+Q2-HINT = It is seven years before the 2015 report.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Criticism of the Green Economy
+NARRATION-0 = The green economy is not without critics. Several authors raise the same core objections. It is a strong starting point, but some researchers argue it is not enough.
+GUIDING-QUESTION = What do the critics say? (Unmüßig, Sachs & Fatheuer 2012; Brand 2012)
+NARRATION-1 = First, consumption.
+ASPECT-1 = **Consumption:** it ignores the need to reduce consumption, assuming we can keep consuming more, just "greener"
+NARRATION-2 = Second, growth.
+ASPECT-2 = **Growth:** it sticks to economic growth as the central goal, offering "more of the same" instead of a fundamental transformation
+NARRATION-3 = Third, carbon.
+ASPECT-3 = **Carbon:** it focuses on decarbonisation instead of all planetary boundaries
+NARRATION-4 = Fourth, technology.
+ASPECT-4 = **Technology:** it relies heavily on technological innovation to solve environmental problems
+NARRATION-5 = You do not need to decide today which side you agree with. But you should know that the debate exists.
+WHY-IT-MATTERS = You do not need to decide today which side you agree with, but you should know that the debate exists. "Stopping growth" is not a criticism of the green economy: it is closer to the degrowth position.
+NARRATION-6 = Which of these objections had you heard before?
+
+
+[Content_Introduction_Template_1.md]
+SLIDE-TITLE = The Circular Economy
+NARRATION-0 = Now to the model behind the workshop. The circular economy is a model of production and consumption that keeps existing materials and products in use for as long as possible. Instead of a line that ends in waste, this image shows a loop.
+IMAGE-ALT = The circular economy concept: a loop of design, production, use, return and regeneration instead of a linear take-make-dispose chain
+IMAGE-PATH = img/1280px-The_Circular_Economy_concept.png
+IMAGE-CAPTION = The Circular Economy concept – Geissdoerfer et al. – CC BY 4.0 – via Wikimedia Commons
+INTRO-TEXT = """
+The **circular economy** involves **sharing, leasing, reusing, repairing, refurbishing and recycling** existing materials and products as long as possible. Product life cycles are extended, and waste is reduced to a minimum.
+
+In practice, markets give incentives to **reuse** products rather than scrapping them and extracting new resources. Waste such as clothes, scrap metal and obsolete electronics is returned to the economy or used more efficiently.
+"""
+NARRATION-1 = Why would a ministry care?
+KEY-MESSAGE = A circular economy can protect the environment, use resources more wisely, develop new sectors, **create jobs** and new capabilities.
+NARRATION-2 = Check the key verb of Milica's workshop.
+ACTIVATION-QUESTION = Which of the six circular verbs is in the name of Milica's workshop? (one word)
+ACTIVATION-ANSWER = repair
+ACTIVATION-HINT = It is a … workshop.
+ACTIVATION-FEEDBACK = A repair workshop. The other five verbs are share, lease, reuse, refurbish and recycle.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = From Line to Loop
+NARRATION-0 = This short video explains the difference between a linear and a circular economy. Note which verbs the circular model uses.
+WATCH-FOR-1 = the difference between a **linear** economy (take, make, dispose) and a **circular** economy (make, use, return)
+WATCH-FOR-2 = how the end of the product's life is different in both models
+VIDEO-ALT = Explaining the Circular Economy and How Society Can Re-think Progress
+VIDEO-URL = https://www.youtube.com/watch?v=zCRKvDyyHmI
+VIDEO-CAPTION = Ellen MacArthur Foundation – Explaining the Circular Economy and How Society Can Re-think Progress (about 4 min)
+VIDEO-SUMMARY = The linear model ends in waste: take resources, make products, dispose of them. The circular model closes the loop: make, use, return materials and products to the economy.
+NARRATION-1 = How does the linear model end?
+Q1-QUESTION = Which is the linear model?
+Q1-WRONG-1 = make-use-return
+Q1-CORRECT = take-make-dispose
+Q1-WRONG-2 = share-lease-repair
+Q1-HINT = The linear model ends in waste.
+Q1-FEEDBACK = The linear model ends in waste: take, make, dispose. The circular model closes the loop: make, use, return.
+NARRATION-2 = And the last word of the loop.
+Q2-QUESTION = Complete: the circular economy moves from "take-make-dispose" to "make-use-…" (one word)
+Q2-ANSWER = return
+Q2-HINT = The materials go back into the economy.
+
+
+[Concept_Explanation_Template_2.md]
+SLIDE-TITLE = Green or Circular?
+NARRATION-0 = Both approaches are often mentioned together, but they are not the same. Stefan compares them for the green plan.
+CONCEPT-A = Green economy
+CONCEPT-B = Circular economy
+CRITERION-1 = Goal
+A-1 = sustainable development without degrading the environment
+B-1 = keep products, materials and resources in use as long as possible
+CRITERION-2 = Focus and examples
+A-2 = renewable energy, energy efficiency, sustainable agriculture, pollution reduction; solar and wind projects, green buildings, sustainable farming
+B-2 = design, reuse, refurbishing, remanufacturing, recycling; product life extension, industrial symbiosis, recycling systems
+CRITERION-3 = Model and policy
+A-3 = integrates environmental sustainability into economic policies; regulation, incentives for clean technology, penalties for polluters
+B-3 = from linear "take-make-dispose" to circular "make-use-return"; extended producer responsibility, product-as-a-service, design for longevity
+CRITERION-4 = Economic benefits
+A-4 = green jobs, sustainable business, green technologies
+B-4 = new business models: leasing, sharing, servitization
+NARRATION-1 = These approaches also create professions.
+EXAMPLE-A = Solar and wind installers, energy advisors, efficient-building trades, sustainable agriculture
+EXAMPLE-B = Repair technicians, refurbishment of electronics and machines, recycling and waste management, design for disassembly
+NARRATION-2 = Don't confuse them.
+MISCONCEPTION = "Green and circular mean the same." Both aim at sustainability, but they work on different parts of the system: clean energy and production on one side, keeping products and materials in use on the other.
+NARRATION-3 = Now you sort them.
+STATEMENT-1 = Solar and wind installer
+STATEMENT-2 = Repair technician for electronics and machines
+STATEMENT-3 = Incentives for clean technology and penalties for polluters
+STATEMENT-4 = New business models such as leasing and sharing
+CLASSIFY-HINT = Does it serve clean energy and production, or does it keep products in use?
+CLASSIFY-FEEDBACK = The green economy focuses on clean energy and production and steers it with regulation and incentives. The circular economy keeps products and materials in use and builds new business models.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Four More Approaches
+NARRATION-0 = Beyond green and circular economies, four more approaches are often discussed. These approaches are not only policy terms. They create and shape professions.
+GUIDING-QUESTION = How familiar are these terms?
+NARRATION-1 = First, corporate social responsibility.
+ASPECT-1 = **Corporate Social Responsibility (CSR):** a self-regulating business model that helps a company be socially accountable to itself, its stakeholders and the public
+NARRATION-2 = Second, doughnut economics.
+ASPECT-2 = **Doughnut economics:** the economy is a means to meet everyone's needs within planetary boundaries
+NARRATION-3 = Third, degrowth.
+ASPECT-3 = **Degrowth:** reduced material consumption to stay within ecological limits (strong sustainability)
+NARRATION-4 = And fourth, net zero, which is a balance, and not zero emissions.
+ASPECT-4 = **Net zero:** a balance between emissions and removals. It is not the same as zero emissions, and it differs from "carbon neutral"
+NARRATION-5 = Take a moment to look at your own surroundings.
+WHY-IT-MATTERS = Which approach is most visible in the companies and sectors you work with today: circular economy, green economy, CSR, or none of them so far?
+NARRATION-6 = Which of these terms could you already explain?
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Into the Green Plan
+NARRATION-0 = Stefan writes the paragraph about the workshop. Serbia has already taken a concrete step in this direction. The Roadmap for Circular Economy was published in 2020, as the first in the Western Balkans. Its aims are to encourage circular business models and job creation.
+IMAGE-ALT = The circular economy concept: a loop of design, production, use, return and regeneration instead of a linear take-make-dispose chain
+IMAGE-PATH = img/1280px-The_Circular_Economy_concept.png
+IMAGE-CAPTION = The Circular Economy concept – Geissdoerfer et al. – CC BY 4.0
+CASE-TEXT = """
+**The Roadmap for Circular Economy in Serbia** is a starting document for dialogue between decision-makers, industry, academia and civil society. Its aims are to encourage circular business models and job creation. The EEA tracks Serbia's **circular material use rate**, and the **Green Agenda for the Western Balkans** includes circular economy as one of its areas.
+"""
+DATA-LABEL-1 = Published
+DATA-VALUE-1 = 2020, by the Ministry of Environmental Protection
+DATA-LABEL-2 = Developed within
+DATA-VALUE-2 = UNDP project *Circular Economy Platform for Sustainable Development in Serbia*
+DATA-LABEL-3 = Regional position
+DATA-VALUE-3 = first country in the Western Balkans with such a roadmap
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, help Stefan.
+QUESTION-1 = How would you describe Milica's repair workshop in the green plan? Which teachers and competences would it need?
+MODEL-ANSWER-1 = """
+It is a **circular-economy** project: products are repaired, reused and kept in use, and waste is returned to the economy. It is not primarily about renewable energy (green economy), and it does not require the school to consume less overall (degrowth). Teachers need competences in repair, refurbishment of electronics and machines, and design for disassembly.
+"""
+NARRATION-Q-1 = Now a more critical question.
+QUESTION-2 = Does the criticism "more of the same" also apply to how green transformation is discussed in your VET sector? Give one concrete example.
+MODEL-ANSWER-2 = """
+Many **ministry officers** notice that "green" training is added as a new module, without changing how schools are funded or organised. **School developers** often point to curricula that mention sustainability, while teaching methods and assessment stay the same. **Principals** sometimes describe new "green" equipment that is bought but not maintained, so the pattern of "buy more" continues. The label changes, but the system does not.
+"""
+NARRATION-Q-2 = And finally, something at your own institution.
+QUESTION-3 = Think of one piece of equipment, furniture or IT at your institution that is usually replaced when it breaks. What would a circular approach look like?
+MODEL-ANSWER-3 = """
+**Principals** often start with a broken copier, a chair or a laptop: first ask "can this be repaired?" and only then decide to buy new. **School developers** point out that this needs a repair-first rule in purchasing. **Ministry officers** add that procurement rules can require that new equipment be designed for repair or disassembly. None of these steps needs new money: they change the order of decisions.
+"""
+
+
+[Summary_Recap_Template_2.md]
+SLIDE-TITLE = Exit Ticket
+NARRATION-0 = Three short questions, one per objective. You can repeat them as often as you like.
+OBJECTIVE-1 = Net zero
+Q1-QUESTION = Which statement about "net zero" is correct?
+Q1-CORRECT = Net zero means a balance between emissions and removals.
+Q1-WRONG-1 = Net zero means zero emissions, full stop.
+Q1-WRONG-2 = Net zero is the same as "carbon neutral".
+Q1-HINT = This session made two distinctions about net zero.
+NARRATION-1 = Next, the circular economy.
+OBJECTIVE-2 = Circular economy
+Q2-QUESTION = Which are benefits of a circular economy?
+Q2-CORRECT-1 = It can create jobs and new capabilities.
+Q2-WRONG-1 = It requires stopping all economic growth.
+Q2-CORRECT-2 = It can develop new sectors.
+Q2-HINT = Stopping growth is not a benefit of the circular economy. It is a position closer to degrowth.
+NARRATION-2 = And one year.
+OBJECTIVE-3 = Circular verbs
+Q3-QUESTION = How many verbs describe the circular economy: share, lease, reuse, repair, refurbish, recycle? (number)
+Q3-ANSWER = 6
+Q3-HINT = Count them in the question.
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Stefan Writes
+NARRATION-0 = Stefan finishes the paragraph. Here is what he has.
+NARRATION-1 = First, the green economy.
+TAKEAWAY-1 = The **green economy** improves well-being and equity while reducing environmental risks. Critics call it "more of the same".
+NARRATION-2 = Second, the circular economy.
+TAKEAWAY-2 = The **circular economy** keeps materials in use: from take-make-dispose to make-use-return.
+NARRATION-3 = Third, further approaches.
+TAKEAWAY-3 = Further approaches: CSR, doughnut economics, degrowth, net zero.
+NARRATION-4 = Fourth, professions.
+TAKEAWAY-4 = These approaches create and shape **professions**, and that is where VET comes in.
+REMEMBER = Repair first: it changes the order of decisions, and it needs no new money.
+NARRATION-5 = One last question.
+RECAP-QUESTION = Which ministry published the Roadmap for Circular Economy in Serbia?
+RECAP-WRONG-1 = The Ministry of Education
+RECAP-WRONG-2 = The Ministry of Economy
+RECAP-CORRECT = The Ministry of Environmental Protection
+RECAP-HINT = It was not the Ministry of Education.
+RECAP-FEEDBACK = The Ministry of Environmental Protection published it in 2020, within the UNDP project. It is relevant for VET, because it aims to encourage circular business models and job creation.
+NARRATION-6 = Milica's plan is nearly complete. She now knows the concepts, the limits, the people and the economy. But how do you actually change a system? Topic six is about responding to these challenges.
+OUTLOOK = Session 6, *Responding to Sustainability Challenges*. Milica knows the concepts, the limits, the people and the economy. Now she has to act.
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Hilf, J. (2024): *SDGs and Sustainable Economies*. GIZ training, Day 2 – adapted (incl. comparison table)
+- Hilf, J. (2025): *Models of Sustainability …*. GIZ workshop – adapted
+- Hilf, J. (2026): *Green TVET – Concepts and practical approaches*. Expert input – adapted
+- UN Environment (2015): *Uncovering pathways towards an inclusive green economy*; UNEP: *About Green Economy* – https://www.unep.org/explore-topics/green-economy/about-green-economy – quoted/summarised
+- Unmüßig, B., Sachs, W. & Fatheuer, T. (2012): *Critique of the green economy*. Heinrich Böll Foundation; Brand, U. (2012): Green Economy – the Next Oxymoron? *GAIA* 21(1) – via Hilf
+- UNCTAD: *Circular economy* – https://unctad.org/topic/trade-and-environment/circular-economy – summarised
+- Doughnut Economics Action Lab – https://doughnuteconomics.org/tools/what-is-the-doughnut – linked
+- Climatepartner (2024): *What does net zero mean?* – via Hilf (2025)
+- Ministry of Environmental Protection of Serbia (2020): *Roadmap for Circular Economy in Serbia* – https://circulareconomy.europa.eu/platform/sites/default/files/roadmap-for-circular-economy-in-serbia.pdf; UNDP Serbia – https://www.undp.org/serbia/publications/roadmap-circular-economy-serbia – summarised
+- EEA: *Circular material use rate – Serbia* – https://www.eea.europa.eu/en/europe-environment-2025/countries/serbia/circular-material-use-rate – linked
+- Regional Cooperation Council: *Sofia Declaration on the Green Agenda for the Western Balkans* – linked
+- Videos: Ellen MacArthur Foundation – https://www.youtube.com/watch?v=zCRKvDyyHmI; Greenpeace UK – https://www.youtube.com/watch?v=VkOtfvhtawA – embedded
+- Image: Geissdoerfer et al. – *The Circular Economy concept* – CC BY 4.0 – https://commons.wikimedia.org/wiki/File:The_Circular_Economy_concept.png – unchanged
+- Case: Milica Stojanović, Stefan Ilić, Ravnica Technical School and the repair workshop are fictional – created for this course
+- This session: GIZ Sustainability Onboarding, GIZ / OVGU, 2026 – CC BY-SA 4.0 [CHECK: confirm with GIZ]
+"""

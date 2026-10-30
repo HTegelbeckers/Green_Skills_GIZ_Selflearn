@@ -1,0 +1,262 @@
+# GIZ Sustainability Onboarding 5 – Economic Issues
+# Build:  python3 Build/build_course.py 5
+# Old version: Archive/Session_5/
+
+[course]
+AUTHOR = Juliana Hilf; Hannes Tegelbeckers
+EMAIL = juliana.hilf@ovgu.de
+COURSE-TITLE = GIZ Sustainability Onboarding 5 – Economic Issues
+COURSE-SUBTITLE = """
+    --{{0}}--
+Welcome to topic five. At a meeting with Milica's company partners, one question hangs in the air: can a green plan and economic growth go together? If you can, turn the sound on.
+
+**Main topic · about 20 minutes · self-paced · no tutor**
+
+> [!TIP] How this works
+> Turn the sound on if you can; everything important is also on the page. Every quiz explains its answer, hints appear after a wrong try, and you can try again as often as you like. Your written notes are your personal learning journal – nobody grades them.
+
+> [!IMPORTANT] Completing this session in Moodle
+> You pass with at least 70 % of the quizzes correct **and** every survey and text box submitted. A few words are enough. Finish in one sitting if you can, because answers may be lost when you reload the page.
+
+> [!NOTE] The case in this course
+> Milica Stojanović, Ravnica Technical School and its company partners are fictional. The facts around them are real, and the sources are on the last page.
+"""
+COURSE-DESCRIPTION = GIZ Sustainability Onboarding, session 5, Economic Issues. Self-paced and unmoderated. Licence CC BY-SA 4.0 [CHECK confirm with GIZ]
+VERSION = 2.0.0
+LANGUAGE = en
+NARRATOR = UK English Female
+
+
+[Introduction_Template_3.md]
+SLIDE-TITLE = Can We Go On Growing?
+NARRATION-0 = Milica meets her company partners. One of them looks at her green plan and says: that is all very well, but my business has to grow. Milica has an old graph in her folder. It is more than fifty years old.
+IMAGE-ALT = Redrawn figure from The Limits to Growth, World3 model scenario, showing growth meeting physical limits
+IMAGE-PATH = img/Limits_to_Growth_fig._49.png
+IMAGE-CAPTION = Limits to Growth fig. 49 – Kristo Mefisto (after Meadows et al. 1972) – CC BY-SA 4.0 – via Wikimedia Commons
+CASE-TEXT = """
+At a meeting of Ravnica Technical School's company partners (fictional), one of them looks at the green plan: *"That is all very well, but my business has to grow."* Milica has this graph in her folder. It comes from a report published by the Club of Rome in **1972**, *The Limits to Growth*.
+"""
+NARRATION-1 = Milica turns the discussion to a broader question.
+GUIDING-QUESTION = The economy decides how resources are used, how much is produced and who benefits. What is it for?
+NARRATION-2 = What do you know about this report?
+PREDICT-QUESTION = How did *The Limits to Growth* (1972) explore what happens when growth meets physical limits?
+PREDICT-CORRECT = With a computer model, called World3
+PREDICT-WRONG-1 = With a survey of company leaders
+PREDICT-WRONG-2 = With a decision of the United Nations
+PREDICT-HINT = It was an early use of a computer to simulate the world.
+PREDICT-FEEDBACK = The report used a computer model (World3) to show what happens when growth meets physical limits: "overshoot and collapse".
+NARRATION-3 = The question is not only how much the economy grows, but what the economy is for.
+OUTCOME = Sustainability is also an economic question. The question is not only *how much* the economy grows, but *what the economy is for*.
+
+
+[Overview_Course_Template_2.md]
+SLIDE-TITLE = Your Way Through Topic 5
+NARRATION-0 = Topic five has two subtopics. Five one covers limits to growth. Five two covers alternative approaches to green economies. Each takes about twenty-five minutes.
+MODULE-1 = The economy's purpose
+MODULE-2 = Two levels
+MODULE-3 = Where to start
+MODULE-4 = 5_1 Limits to growth
+MODULE-5 = 5_2 Alternatives
+MILESTONE = Choose an approach for Serbia
+NARRATION-1 = After this session, you can do these things.
+KNOW-1 = Economic perspectives on sustainability, including growth and its limits
+CAN-1 = Examine these perspectives, and distinguish the two levels of analysis
+VALUE-1 = Asking what the economy is for
+KNOW-2 = The main approaches: green economy, circular economy, doughnut economics, degrowth
+CAN-2 = Orient yourself in them, and know which subtopic to start with
+VALUE-2 = Looking at context rather than "the right answer"
+NARRATION-2 = A quick look at the road.
+ORDER-QUESTION = Which subtopic covers the tension between growth and ecological limits, weak versus strong sustainability, and the conflict between SDG 8 and SDG 13?
+ORDER-CORRECT = 5_1
+ORDER-WRONG-1 = 5_2
+ORDER-WRONG-2 = Neither
+ORDER-HINT = The other subtopic covers the green economy, circular economy, doughnut economics and degrowth.
+ORDER-FEEDBACK = 5_1 covers the core idea of the report and these tensions. 5_2 covers what each alternative approach means and what it implies for companies and policy.
+
+
+[Media_Template_1.md]
+SLIDE-TITLE = What Is the Economy For?
+NARRATION-0 = Before you watch, think about what an economy should do for people and for the planet. The video raises exactly that question.
+WATCH-FOR-1 = how the speaker defines the purpose of the economy
+WATCH-FOR-2 = how that purpose connects to environmental limits
+VIDEO-ALT = How do we create a better economy?
+VIDEO-URL = https://www.youtube.com/watch?v=6MK6tuZ7Rws
+VIDEO-CAPTION = TED-Ed – How do we create a better economy? (6:05)
+VIDEO-SUMMARY = The video (TED-Ed, 6:05) asks what the economy should be "for", not just how fast it grows or how much profit it makes. An economy that serves human well-being within ecological limits is the core question of this session.
+NARRATION-1 = Which question should guide us?
+Q1-QUESTION = What question should guide how we design our economy?
+Q1-WRONG-1 = How fast can it grow?
+Q1-CORRECT = What is it for – what should it serve?
+Q1-WRONG-2 = How much profit can it generate?
+Q1-HINT = Think back to the guiding question on the first page.
+Q1-FEEDBACK = The video asks what the economy should be for, not just how fast it grows or how much profit it makes.
+NARRATION-2 = And a year.
+Q2-QUESTION = In which year was *The Limits to Growth* published? (4 digits)
+Q2-ANSWER = 1972
+Q2-HINT = It is on the first page of this session.
+
+
+[Concept_Explanation_Template_2.md]
+SLIDE-TITLE = Two Levels
+NARRATION-0 = Milica explains to her partners that sustainability is discussed at two levels. Both need guidance on how to use regenerative and non-regenerative resources, and on how to keep ecosystem functions intact.
+CONCEPT-A = Sustainability economics
+CONCEPT-B = Sustainability management
+CRITERION-1 = Looks at
+A-1 = the economic system as a whole
+B-1 = individual companies
+CRITERION-2 = Topics
+A-2 = growth, resources, ecosystem functions
+B-2 = for example Corporate Social Responsibility (CSR)
+CRITERION-3 = Resources
+A-3 = how to use regenerative and non-regenerative resources overall
+B-3 = how one company uses its resources
+CRITERION-4 = Ecosystem functions
+A-4 = absorbing waste and emissions, securing general ecosystem functions, human well-being
+B-4 = what one company contributes to these functions
+NARRATION-1 = Here is one example of each.
+EXAMPLE-A = The conflict between SDG 8 (economic growth) and SDG 13 (climate action)
+EXAMPLE-B = A company's own CSR programme
+NARRATION-2 = And one common error.
+MISCONCEPTION = "Sustainability is only an environmental question." It is also an economic one: the economy decides how resources are used, how much is produced and who benefits.
+NARRATION-3 = Now you sort them.
+STATEMENT-1 = The limits of growth of the whole economy
+STATEMENT-2 = A company's social accountability to its stakeholders
+STATEMENT-3 = Whether the SDGs question the growth paradigm
+STATEMENT-4 = A self-regulating business model
+CLASSIFY-HINT = Is it the whole system, or a single company?
+CLASSIFY-FEEDBACK = Statements 1 and 3 are about the economic system as a whole. Statements 2 and 4 describe CSR, at the level of individual companies.
+
+
+[Content_Introduction_Template_2.md]
+SLIDE-TITLE = Where Do You Start?
+NARRATION-0 = Now place yourself. How familiar are these economic approaches?
+GUIDING-QUESTION = How familiar are these four approaches?
+NARRATION-1 = Limits to growth.
+ASPECT-1 = **Limits to growth**
+NARRATION-2 = The green economy.
+ASPECT-2 = **Green economy**
+NARRATION-3 = The circular economy.
+ASPECT-3 = **Circular economy**
+NARRATION-4 = And doughnut economics.
+ASPECT-4 = **Doughnut economics**
+NARRATION-5 = Here is the recommendation. If most are new, start with five one. If you know limits to growth but not the approaches, go straight to five two. Serbia, by the way, was the first Western Balkan country to produce a roadmap for the circular economy.
+WHY-IT-MATTERS = **Most are new?** Start with 5_1: it explains why growth is questioned. **Know limits to growth, but not the approaches?** Go to 5_2. **Know all four?** Skip ahead; the next check is a good refresher. **Local context:** Serbia was the first Western Balkan country to produce a *Roadmap for Circular Economy* (Ministry of Environmental Protection, 2020, with UNDP).
+NARRATION-6 = Now mark what you already know, and use your answer to choose your next session.
+
+
+[Interactive_Exercise_Template_1.md]
+SLIDE-TITLE = Warm-up Check
+NARRATION-0 = Three short questions. Every question explains its answer.
+Q1-QUESTION = Which conflict between SDGs is often named in the sustainability debate?
+Q1-WRONG-1 = SDG 1 versus SDG 4
+Q1-CORRECT = SDG 8 (economic growth) versus SDG 13 (climate action)
+Q1-WRONG-2 = SDG 5 versus SDG 10
+Q1-HINT = One goal calls for growth, and the other for climate action.
+Q1-FEEDBACK = The growth paradigm remains unchallenged in the SDGs, even though it is a main driver of environmental degradation. SDG 8 calls for economic growth, while SDG 13 calls for climate action: a direct tension.
+NARRATION-1 = Next, the report.
+Q2-QUESTION = Which statements about the 1972 Club of Rome report *The Limits to Growth* are correct?
+Q2-CORRECT-1 = It used a computer model to explore what happens when growth meets physical limits.
+Q2-WRONG-1 = It argued that economic growth has no limits.
+Q2-CORRECT-2 = It described a scenario of "overshoot and collapse".
+Q2-WRONG-2 = It was published by the United Nations.
+Q2-HINT = Think of the graph on the first page, and of who published it.
+Q2-FEEDBACK = The report used a computer model (World3) and described overshoot and collapse. It did not argue for unlimited growth, and it was published by the Club of Rome, not the UN.
+NARRATION-2 = And a goal number.
+Q3-QUESTION = Which goal number is "Climate action"? (number)
+Q3-ANSWER = 13
+Q3-HINT = It is named in the first question of this check.
+Q3-FEEDBACK = SDG 13 is Climate action, and SDG 8 is Decent work and economic growth.
+
+
+[Interactive_Exercise_Template_2.md]
+SLIDE-TITLE = Which Approach Is Which?
+NARRATION-0 = Milica has one more task for her partners. Think about what each approach does with materials and consumption.
+GAP-TEXT-1 = The approach that keeps materials in use through reuse, repair, refurbishing and recycling is the
+GAP-1-CORRECT = circular economy
+GAP-1-WRONG-1 = green economy
+GAP-1-WRONG-2 = doughnut economy
+GAP-TEXT-2 = . Doughnut economics positions the economy between a social floor and an ecological ceiling. The number of planetary boundaries in that ceiling is
+GAP-2-ANSWER = 9
+GAP-TEXT-3 = . A new VET programme for repair and refurbishment of electronics best fits the
+GAP-3-CORRECT = circular economy
+GAP-3-DISTRACTOR = degrowth approach
+GAP-TEXT-4 = .
+GAP-HINT = Think about what repair and refurbishment do with materials.
+NARRATION-1 = Now some statements about the approaches.
+STATEMENT-1 = The green economy improves well-being and social equity while reducing environmental risks.
+STATEMENT-2 = Degrowth means increasing material consumption.
+STATEMENT-3 = Doughnut economics stays between a social floor and an ecological ceiling.
+STATEMENT-4 = Repair and refurbishment are core activities of the green economy, not the circular economy.
+TF-HINT = Think about what each approach does with materials and consumption.
+TF-FEEDBACK = The green economy (UN Environment 2015) improves well-being and equity while reducing environmental risks. Degrowth strategies reduce material consumption to stay within ecological limits. Repair and refurbishment are core circular-economy activities.
+
+
+[Application_Transfer_Template_1.md]
+SLIDE-TITLE = Which Approach for Serbia?
+NARRATION-0 = The company partner asks Milica directly. Which of these approaches fits Serbia? Write down your own view.
+IMAGE-ALT = Redrawn figure from The Limits to Growth, World3 model scenario, showing growth meeting physical limits
+IMAGE-PATH = img/Limits_to_Growth_fig._49.png
+IMAGE-CAPTION = Limits to Growth fig. 49 – Kristo Mefisto (after Meadows et al. 1972) – CC BY-SA 4.0
+CASE-TEXT = """
+The company partner asks Milica: *"Which of these approaches fits our economy?"* (fictional) There is no single correct answer, but there are good reasons. Here are the key ideas:
+"""
+DATA-LABEL-1 = Green economy
+DATA-VALUE-1 = improve well-being and social equity while reducing environmental risks
+DATA-LABEL-2 = Circular economy
+DATA-VALUE-2 = keep materials in use: reuse, repair, refurbish, recycle
+DATA-LABEL-3 = Degrowth
+DATA-VALUE-3 = reduce material consumption to stay within ecological limits
+QUESTIONS-TITLE = Your Learning Journal
+NARRATION-Q-0 = First, today.
+QUESTION-1 = Which economic approach do you think fits the Serbian economy best today, and why?
+MODEL-ANSWER-1 = """
+A **ministry officer** might favour the **green economy** today, because it improves well-being and social equity while reducing environmental risks, a goal that fits current policy work. A **school developer** might prefer the **circular economy**, because repair and refurbishment skills are directly transferable to VET programmes and local businesses.
+"""
+NARRATION-Q-1 = Now look further ahead.
+QUESTION-2 = Which one would fit in 2050? Note one reason.
+MODEL-ANSWER-2 = """
+A **principal** might see **degrowth** as a long-term constraint to plan around, even if it is not the dominant policy today. The key question is not which approach is "right", but which one fits the context: today's institutions, local industry, and the time horizon you are planning for.
+"""
+NARRATION-Q-2 = And finally, answer the company partner.
+QUESTION-3 = What would you say to the company partner who says: "My business has to grow"?
+MODEL-ANSWER-3 = """
+For example: "Growth is not the only question. We should also ask what the growth is for and what it uses up. Which parts of your business could grow within limits, for example through repair, efficiency or renewables?" This keeps the partner in the conversation and moves it from *how much* to *what for*.
+"""
+
+
+[Summary_Recap_Template_1.md]
+SLIDE-TITLE = What Milica Takes from the Meeting
+NARRATION-0 = The meeting is over. Here is what Milica notes.
+NARRATION-1 = First, the economy is part of the question.
+TAKEAWAY-1 = Sustainability is also an economic question: **what is the economy for?**
+NARRATION-2 = Second, there are two levels.
+TAKEAWAY-2 = Two levels: the whole economic system (sustainability economics) and individual companies (sustainability management).
+NARRATION-3 = Third, growth is contested.
+TAKEAWAY-3 = *The Limits to Growth* (1972) and the conflict between SDG 8 and SDG 13 show that growth is contested.
+NARRATION-4 = Fourth, there are alternatives.
+TAKEAWAY-4 = Alternatives: green economy, circular economy, doughnut economics, degrowth.
+REMEMBER = Not "which approach is right", but which one fits the context.
+NARRATION-5 = One last question.
+RECAP-QUESTION = Which approach does a new VET programme for repair and refurbishment of electronics best fit?
+RECAP-WRONG-1 = Green economy
+RECAP-WRONG-2 = Degrowth
+RECAP-CORRECT = Circular economy
+RECAP-HINT = Think about what repair and refurbishment do with materials.
+RECAP-FEEDBACK = Repair and refurbishment keep materials in use instead of discarding them. The green economy focuses more on decarbonisation and technology. Doughnut economics and degrowth are broader frameworks.
+NARRATION-6 = Choose your subtopic. If you follow the road, Milica looks at the enrolment figures of her mining programme in session five one.
+OUTLOOK = Choose your subtopic as recommended. In Session 5_1, Milica sees the enrolment figures of her mining programme fall, and she and Jelena have to plan.
+
+
+[Sources_Licences_Template.md]
+NARRATION-0 = Here you find all sources and licences of this session. The case of Milica and Ravnica Technical School is fictional.
+SOURCES = """
+- Hilf, J. (2024): *Introduction to the Sustainability Approach*. GIZ training, Day 1 – adapted
+- Hilf, J. (2024): *SDGs and Sustainable Economies*. GIZ training, Day 2 – adapted
+- Hilf, J. (2025): *Models of Sustainability …*. GIZ workshop – adapted
+- The Club of Rome: *The Limits to Growth* – https://www.clubofrome.org/publication/the-limits-to-growth/ – linked
+- Doughnut Economics Action Lab – https://doughnuteconomics.org/tools/what-is-the-doughnut – CC BY-SA 4.0 – summarised
+- UNDP Serbia: *Roadmap for Circular Economy in Serbia* – https://www.undp.org/serbia/publications/roadmap-circular-economy-serbia – linked
+- Video: TED-Ed – https://www.youtube.com/watch?v=6MK6tuZ7Rws – embedded
+- Image: Kristo Mefisto – *Limits to Growth fig. 49* – CC BY-SA 4.0 – https://commons.wikimedia.org/wiki/File:Limits_to_Growth_fig._49.png – unchanged
+- Case: Milica Stojanović, Ravnica Technical School and its company partners are fictional – created for this course
+"""
